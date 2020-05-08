@@ -12,7 +12,7 @@
         {
             "name": "Function Groups",
             "type": "pca",
-            "subDsmDownloadPath": "femr_set0_SubDsm",
+            "subDsmDownloadPath": "femr_set0_SubDSM",
             "dataFiles": [
                 "femr_set0.json",
                 "femr_set0_TopFiles.json",
