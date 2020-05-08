@@ -1,0 +1,2190 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "femr_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.PatientItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.models.core.IRole_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.models.core.ISystemSetting_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.models.mysql.Roles_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.util.encryptions.IPasswordEncryptor_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.CityItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.MedicationAdministrationItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.MedicationItem_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.common.models.PrescriptionItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.MissionTripItem_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.common.dtos.ServiceResponse_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.NoteItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.PhotoItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.ProblemItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.SettingItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.TabFieldItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.VitalItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.triage.DeleteViewModelPost_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.common.models.PatientEncounterItem_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.calculations.dateUtils_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.stringhelpers.StringUtils_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.models.core.IUser_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.MissionItem_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.ISessionService_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.common.dtos.CurrentUser_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IConceptService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IConfigureService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IInventoryService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IMedicationService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M8",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M8/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M8/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M8/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M8/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.ui.models.research.json.ResearchGraphDataModel_java"
+              }, {
+                "@type" : "item",
+                "name" : "femr.ui.models.research.json.ResearchItemModel_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M8/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.common.models.ResearchFilterItem_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M8/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.business.services.core.IResearchService_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M8/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.common.models.ResearchResultSetItem_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.common.models.ResearchResultItem_java"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IRoleService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.ISearchService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.common.models.TabItem_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.medical.EditViewModelPost_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IPhotoService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.util.DataStructure.Mapping.AbstractMultiMap_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IMissionTeam_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IMissionCountry_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IMissionCity_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M2/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M2/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L2/M2/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M2/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.mysql.Role_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M2/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.core.IMissionTrip_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M2/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.mysql.User_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M2/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.MissionTeam_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M2/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.MissionCountry_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.MissionCity_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.mysql.MissionTrip_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IUserService_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.common.models.UserItem_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L3/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.ITabService_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.util.DataStructure.Mapping.TabFieldMultiMap_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IVitalService_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.util.DataStructure.Mapping.VitalMultiMap_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IPatientAgeClassification_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IPhoto_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IPatient_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M2/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M2/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L3/M2/L1/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.IPatientEncounter_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3/M2/L1/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.IChiefComplaint_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3/M2/L1/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.mysql.ChiefComplaint_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M2/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.Photo_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.Patient_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M2/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.PatientAgeClassification_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.mysql.PatientEncounter_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M3",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M3/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M3/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.common.models.TripItem_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M3/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.common.models.TeamItem_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M3/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.business.services.core.IMissionTripService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M4",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M4/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.helpers.security.AllowedRoles_java"
+        }, {
+          "@type" : "item",
+          "name" : "femr.ui.helpers.security.AllowedRolesAction_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M4/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.helpers.security.FEMRAuthenticated_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L4",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L4/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L4/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IConceptPrescriptionAdministration_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L4/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L4/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L4/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.core.IConceptMedicationForm_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L4/M0/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L4/M0/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L4/M0/L1/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.core.IPatientPrescriptionReplacementReason_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L4/M0/L1/M0/L1/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "femr.data.models.core.IMedication_java"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L1/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "femr.data.models.core.IMedicationInventory_java"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L1/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "femr.data.models.core.IPatientPrescription_java"
+                      }, {
+                        "@type" : "item",
+                        "name" : "femr.data.models.core.IPatientPrescriptionReplacement_java"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L4/M0/L1/M0/L1/M0/L1/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "femr.data.models.mysql.MedicationInventory_java"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.mysql.PatientPrescriptionReplacementReason_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L4/M0/L1/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "femr.data.models.mysql.PatientPrescriptionReplacement_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L4/M0/L1/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L4/M0/L1/M0/L1/M1/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M1/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.core.IMedicationGeneric_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M1/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.core.IConceptMedicationUnit_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L4/M0/L1/M0/L1/M1/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M1/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.core.IMedicationGenericStrength_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M1/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.mysql.concepts.ConceptMedicationUnit_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L4/M0/L1/M0/L1/M1/L1/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "femr.data.models.mysql.MedicationGeneric_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L4/M0/L1/M0/L1/M1/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "femr.data.models.mysql.MedicationGenericStrength_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L4/M0/L1/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.mysql.concepts.ConceptMedicationForm_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L4/M0/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.mysql.Medication_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.concepts.ConceptPrescriptionAdministration_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.mysql.PatientPrescription_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.core.IVital_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L4/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.ITabFieldSize_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.ITab_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M1/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.ITabFieldType_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M1/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L4/M1/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.TabFieldSize_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M1/L1/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L4/M1/L1/M1/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.ITabField_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L4/M1/L1/M1/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.IPatientEncounterTabField_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L4/M1/L1/M1/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.mysql.PatientEncounterTabField_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M1/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.Tab_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M1/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.TabFieldType_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.mysql.TabField_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.helpers.LogicDoer_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IPatientService_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L5",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L5/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.core.ILoginAttempt_java"
+        }, {
+          "@type" : "item",
+          "name" : "femr.data.daos.core.IUserRepository_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.core.IPatientEncounterVital_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L5/M1/L0/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.research.IResearchEncounter_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5/M1/L0/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.mysql.research.ResearchEncounter_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5/M1/L0/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.research.IResearchEncounterVital_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.Vital_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.models.mysql.research.ResearchEncounterVital_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.business.services.core.IEncounterService_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L6",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L6/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.IDataModelMapper_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L6/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L6/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L6/M1/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L6/M1/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.mysql.SystemSetting_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L6/M1/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.mysql.PatientEncounterVital_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L6/M1/L0/M0/L0/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "femr.data.models.mysql.PatientEncounterPhoto_java"
+              }, {
+                "@type" : "item",
+                "name" : "femr.data.models.core.IPatientEncounterPhoto_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L6/M1/L0/M0/L0/M3",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L6/M1/L0/M0/L0/M3/M0",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "femr.data.models.mysql.concepts.ConceptMedicationGeneric_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L6/M1/L0/M0/L0/M3/M1",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "femr.data.models.mysql.concepts.ConceptMedicationGenericStrength_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L6/M1/L0/M0/L0/M3/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "femr.data.models.mysql.concepts.ConceptMedication_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L6/M1/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.business.helpers.QueryProvider_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L6/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.models.core.IConceptDiagnosis_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.concepts.ConceptDiagnosis_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M1/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.daos.core.IPatientRepository_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M1/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.data.daos.IRepository_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L7",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L7/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L7/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.business.wrappers.sessions.ISessionHelper_java"
+        }, {
+          "@type" : "item",
+          "name" : "femr.business.services.system.SessionService_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L7/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.common.IItemModelMapper_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.daos.core.IMedicationRepository_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.daos.core.IEncounterRepository_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.daos.core.IPrescriptionRepository_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.data.daos.core.IPhotoRepository_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L8",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L8/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.InternetConnnection.InternetConnectionUtil_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.encryptions.BCryptPasswordEncryptor_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.tasks.SendLocationDataTask_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.tasks.MaintainReverseSshTunnelTask_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M0/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.tasks.CheckInternetConnectionTask_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.dependencyinjection.modules.UtilitiesModule_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.stringhelpers.GsonFlattener_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.stringhelpers.CSVWriterGson_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.calculations.LocaleUnitConverter_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M1/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M1/L1/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.core.IFeedback_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M1/L1/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.data.models.mysql.Feedback_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M1/L1/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "femr.business.services.system.UserService_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.InventoryService_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.common.models.InventoryExportItem_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.wrappers.sessions.SessionHelper_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.VitalService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.TabService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.SearchService_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.business.helpers.QueryHelper_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.RoleService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M7",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.common.models.ResearchExportItem_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.business.services.system.ResearchService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M8",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.PhotoService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M9",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.PatientService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M10",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.MissionTripService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M11",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.MedicationService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M12",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.EncounterService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M13",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.ConfigureService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L1/M14",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.business.services.system.ConceptService_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.dependencyinjection.modules.BusinessLayerModule_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.startup.MedicationDatabaseSeeder_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.startup.DatabaseSeeder_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.dependencyinjection.modules.SeederModule_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.util.filters.ResearchFilter_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.util.filters.Filters_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M4",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M4/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.Repository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.system.UserRepository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.system.PrescriptionRepository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.system.PhotoRepository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.system.PatientRepository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.system.MedicationRepository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.VitalProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M7",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.UserProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M8",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.TabProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M9",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.TabFieldTypeProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M10",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.LoginAttemptProvider_java"
+          }, {
+            "@type" : "item",
+            "name" : "femr.data.models.mysql.LoginAttempt_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M11",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.TabFieldSizeProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M12",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.TabFieldProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M13",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.SystemSettingProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M14",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.RoleProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M15",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.ResearchEncounterProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M16",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PhotoProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M17",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M18",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientPrescriptionReplacementReasonProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M19",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientPrescriptionReplacementProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M20",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientPrescriptionProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M21",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientEncounterVitalProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M22",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientEncounterTabFieldProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M23",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientEncounterProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M24",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientEncounterPhotoProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M25",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.PatientAgeClassificationProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M26",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MissionTripProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M27",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MissionTeamProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M28",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MissionCountryProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M29",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MissionCityProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M30",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MedicationProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M31",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MedicationInventoryProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M32",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MedicationGenericStrengthProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M33",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.MedicationGenericProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M34",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.ConceptPrescriptionAdministrationProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M35",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.ConceptMedicationUnitProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M36",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.ConceptMedicationFormProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M37",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.ConceptDiagnosisProvider_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M38",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.daos.system.EncounterRepository_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M39",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.util.dependencyinjection.providers.ChiefComplaintProvider_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M4/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.dependencyinjection.modules.DataLayerModule_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.util.dependencyinjection.providers.ResearchEncounterVitalProvider_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M6",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M6/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M6/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.data.DataModelMapper_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M6/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.common.ItemModelMapper_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M6/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.util.dependencyinjection.modules.MapperModule_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.views.partials.helpers.AuthenticatedPartialHelper_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M8",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M8/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M8/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.triage.IndexViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M8/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.triage.IndexViewModelGet_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M8/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.TriageController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.triage.EditViewModelPost_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M10",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M10/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M10/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.superuser.TabsViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M10/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.superuser.TabsViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M10/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.superuser.ContentViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M10/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.superuser.ContentViewModelGet_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M10/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.superuser.TabController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.sessions.CreateViewModel_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.SessionsController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M12",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M12/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M12/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.search.json.PatientSearch_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.search.json.CitySearch_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M12/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.SearchController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.research.FilterViewModel_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.ResearchController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M14",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M14/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M14/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.pharmacy.EditViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.pharmacy.EditViewModelGet_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M14/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.PharmaciesController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M15",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M15/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M15/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.medical.UpdateVitalsModel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M15/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.medical.EditViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M15/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.controllers.helpers.FieldHelper_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M15/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.MedicalController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.manager.IndexViewModelGet_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.manager.ManagerController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M17",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M17/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M17/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.history.fieldValueViewModel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M17/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.history.IndexPatientViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M17/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.history.IndexEncounterViewModel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M17/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.history.IndexEncounterPharmacyViewModel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M17/L0/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.history.IndexEncounterMedicalViewModel_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M17/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.HistoryController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.FeedbackController_java"
+      }, {
+        "@type" : "item",
+        "name" : "femr.ui.models.feedback.IndexViewModelPost_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M19",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M19/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M19/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.users.ManageViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M19/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.users.EditViewModel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M19/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.users.CreateViewModel_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M19/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.admin.UsersController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.models.admin.users.IndexViewModelGet_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M21",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M21/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M21/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.trips.TripViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M21/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.trips.TripViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M21/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.trips.EditViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M21/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.trips.EditViewModelGet_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M21/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.admin.TripController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M22",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M22/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M22/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.inventory.ManageViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M22/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.inventory.ExistingViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M22/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.inventory.ExistingViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M22/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.inventory.CustomViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M22/L0/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.inventory.CustomViewModelGet_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M22/L0/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.inventory.ManageViewModelPost_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M22/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.admin.InventoryController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M23",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M23/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M23/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.configure.IndexViewModelPost_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M23/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "femr.ui.models.admin.configure.IndexViewModelGet_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M23/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "femr.ui.controllers.admin.ConfigureController_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M24",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.superuser.SuperuserController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.admin.AdminController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.ReferenceController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M27",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.PhotoController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M28",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.PDFController_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M29",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "femr.ui.controllers.HomeController_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "femr.util.ErrorHandler_java"
+    }, {
+      "@type" : "item",
+      "name" : "femr.util.DataStructure.Pair_java"
+    }, {
+      "@type" : "item",
+      "name" : "femr.ui.controllers.ApplicationController_java"
+    } ]
+  } ]
+}

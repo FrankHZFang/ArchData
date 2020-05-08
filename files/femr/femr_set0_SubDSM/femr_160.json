@@ -1,0 +1,1 @@
+{"name":"femr_160.json","variables":["femr.util.InternetConnnection.InternetConnectionUtil_java","femr.util.tasks.CheckInternetConnectionTask_java"],"cells":[{"src":1,"dest":0,"values":{"Call":2.0,"Import":1.0,"Use":2.0}}],"relationTypes":["Call","Import","Use"]}

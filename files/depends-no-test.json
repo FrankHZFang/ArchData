@@ -1,0 +1,23 @@
+{
+    "name": "depends-no-test",
+    "dsm": "depends-no-test.json",
+    "items": [
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "depends-no-test_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "depends-no-test_set0_SubDSM",
+            "dataFiles": [
+                "depends-no-test_set0.json",
+                "depends-no-test_set0_TopFiles.json",
+                "depends-no-test_set0_tfidf.json"
+            ]
+        }
+    ]
+}

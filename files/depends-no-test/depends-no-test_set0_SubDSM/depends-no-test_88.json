@@ -1,0 +1,1 @@
+{"name":"depends-no-test_88.json","variables":["depends.matrix.transform.strip.EmptyLeadingNameStripper_java","depends.matrix.transform.strip.ILeadingNameStrippper_java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

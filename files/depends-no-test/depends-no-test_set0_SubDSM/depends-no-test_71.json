@@ -1,0 +1,1 @@
+{"name":"depends-no-test_71.json","variables":["depends.format.xml.XCell_java","depends.format.xml.XCells_java","depends.format.xml.XDepend_java"],"cells":[{"src":0,"dest":2,"values":{"Parameter":2.0,"Use":2.0}},{"src":1,"dest":0,"values":{"Parameter":2.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}

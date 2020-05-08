@@ -1,0 +1,1 @@
+{"name":"depends-no-test_91.json","variables":["depends.entity.GenericName_java","depends.extractor.java.context.ClassTypeContextHelper_java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Parameter":8.0,"Import":1.0,"Use":9.0}}],"relationTypes":["Call","Parameter","Import","Use"]}

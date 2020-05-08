@@ -1,0 +1,1 @@
+{"name":"demo-design1_8.json","variables":["Answer.java","Question.java","UI.java"],"cells":[{"src":0,"dest":2,"values":{"Call":3.0,"Parameter":3.0}},{"src":0,"dest":1,"values":{"Parameter":2.0}},{"src":1,"dest":2,"values":{"Call":7.0,"Parameter":8.0}}],"relationTypes":["Call","Parameter"]}

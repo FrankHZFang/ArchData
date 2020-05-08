@@ -1,0 +1,23 @@
+{
+    "name": "femr",
+    "dsm": "femr.json",
+    "items": [
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "femr_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "femr_set0_SubDsm",
+            "dataFiles": [
+                "femr_set0.json",
+                "femr_set0_TopFiles.json",
+                "femr_set0_tfidf.json"
+            ]
+        }
+    ]
+}

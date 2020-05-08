@@ -1,0 +1,1 @@
+{"name":"depends-no-test_87.json","variables":["depends.extractor.FileParser_java","depends.extractor.ParserCreator_java"],"cells":[{"src":1,"dest":0,"values":{"Return":1.0}}],"relationTypes":["Return"]}

@@ -1,0 +1,23 @@
+{
+    "name": "demo-design1",
+    "dsm": "demo-design1.json",
+    "items": [
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "demo-design1_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "demo-design1_set0_SubDSM",
+            "dataFiles": [
+                "demo-design1_set0.json",
+                "demo-design1_set0_TopFiles.json",
+                "demo-design1_set0_tfidf.json"
+            ]
+        }
+    ]
+}

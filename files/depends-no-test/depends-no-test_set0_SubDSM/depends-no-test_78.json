@@ -1,0 +1,1 @@
+{"name":"depends-no-test_78.json","variables":["depends.format.path.EmptyFilenameWritter_java","depends.format.path.FilenameWritter_java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

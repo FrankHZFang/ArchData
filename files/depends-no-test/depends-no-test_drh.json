@@ -1,0 +1,1412 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "depends-no-test_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.entity.MultiDeclareEntities_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.entity.GenericName_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.relations.Relation_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "depends.entity.Entity_java"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.entity.FunctionCall_java"
+                          }, {
+                            "@type" : "item",
+                            "name" : "depends.entity.VarEntity_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.entity.DecoratedEntity_java"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "depends.entity.TypeEntity_java"
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "depends.entity.PackageEntity_java"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "depends.entity.ImportedFileCollector_java"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "depends.importtypes.Import_java"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "depends.entity.FileEntity_java"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "depends.entity.FunctionEntity_java"
+                      } ]
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.entity.EmptyTypeEntity_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L1/M1/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.entity.repo.IdGenerator_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L1/M1/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.entity.repo.EntityRepo_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L1/M1/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.entity.Expression_java"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.entity.AliasEntity_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.entity.CandidateTypes_java"
+                  } ]
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.util.TemporaryFile_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "depends.entity.ContainerEntity_java"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.entity.repo.BuiltInType_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L2/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L2/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.format.path.FilenameWritter_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L2/M0/L0/M0/L0/M1/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.matrix.core.DependencyDetail_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L2/M0/L0/M0/L0/M1/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.matrix.core.DependencyValue_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L2/M0/L0/M0/L0/M1/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.matrix.core.DependencyPair_java"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L2/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.matrix.core.DependencyMatrix_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L2/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L2/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.entity.FunctionEntityProto_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.entity.FunctionEntityImpl_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L1/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.deptypes.DependencyType_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L2/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.relations.RelationCounter_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L2/M0/L1/M1/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L1/M1/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.matrix.transform.strip.ILeadingNameStrippper_java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "depends.matrix.transform.strip.EmptyLeadingNameStripper_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L1/M1/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.format.path.EmptyFilenameWritter_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L2/M0/L1/M1/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.entity.PackageNamePrefixRemover_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L2/M0/L1/M1/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.generator.DependencyGenerator_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.entity.repo.SimpleIdGenerator_java"
+              }, {
+                "@type" : "item",
+                "name" : "depends.entity.repo.InMemoryEntityRepo_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.matrix.transform.OrderedMatrixGenerator_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.util.FileTraversal_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M5",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.FileParser_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M6",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.util.FileUtil_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M0/L1/M7",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.relations.ImportLookupStrategy_java"
+              }, {
+                "@type" : "item",
+                "name" : "depends.extractor.UnsolvedBindings_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L2/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "depends.extractor.AbstractLangProcessor_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.relations.FunctionMatcher_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.entity.repo.NullBuiltInType_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "depends.relations.Inferer_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "depends.extractor.HandlerContext_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "depends.extractor.java.JavaHandlerContext_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "depends.extractor.kotlin.KotlinHandlerContext_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.extractor.LangProcessorRegistration_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.util.FolderCollector_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.format.detail.UnsolvedSymbolDumper_java"
+          }, {
+            "@type" : "item",
+            "name" : "depends.matrix.transform.strip.LeadingNameStripper_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.matrix.transform.MatrixLevelReducer_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M3",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L2/M0/L1/M3/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.ClassTypeContextHelper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.QualitiedNameContextHelper_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M0/L1/M3/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M3/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.importtypes.PackageWildCardImport_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.extractor.cpp.CppImportLookupStrategy_java"
+                          }, {
+                            "@type" : "item",
+                            "name" : "depends.importtypes.FileImport_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.extractor.java.JavaImportLookupStrategy_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.extractor.java.JavaBuiltInType_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M3",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.extractor.ruby.IncludedFileLocator_java"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.python.NameAliasImport_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "depends.extractor.python.PythonImportLookupStrategy_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.python.PythonFileParser_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0/M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.python.PythonBuiltInType_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "depends.extractor.python.PythonProcessor_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.pom.PomParent_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "depends.extractor.pom.PomCoords_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0/M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.pom.PomImportLookupStategy_java"
+                                  }, {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.empty.EmptyImportLookupStategy_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0/M1",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.pom.PomFileParser_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0/M2",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.empty.EmptyBuiltInType_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/Control",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "depends.extractor.pom.PomProcessor_java"
+                                } ]
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.pom.PomLocator_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.pom.PomHandlerContext_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M3",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.pom.PomArtifactEntity_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "depends.extractor.pom.PomListener_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.kotlin.KotlinProcessor_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "depends.extractor.kotlin.KotlinFileParser_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.kotlin.ContextHelper_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0/M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.importtypes.ExactMatchImport_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "depends.extractor.kotlin.KotlinListener_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M3",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "depends.extractor.java.JavaProcessor_java"
+                          }, {
+                            "@type" : "item",
+                            "name" : "depends.extractor.java.JavaFileParser_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L0",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L0/M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.cpp.cdt.GPPParserExtensionConfigurationExtension_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0",
+                                  "nested" : [ {
+                                    "@type" : "group",
+                                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0/M0",
+                                    "nested" : [ {
+                                      "@type" : "item",
+                                      "name" : "depends.extractor.cpp.cdt.FileCache_java"
+                                    } ]
+                                  }, {
+                                    "@type" : "group",
+                                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0/M1",
+                                    "nested" : [ {
+                                      "@type" : "item",
+                                      "name" : "depends.extractor.cpp.Scanner_java"
+                                    } ]
+                                  }, {
+                                    "@type" : "group",
+                                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0/M2",
+                                    "nested" : [ {
+                                      "@type" : "item",
+                                      "name" : "depends.extractor.cpp.cdt.CDTParser_java"
+                                    } ]
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M1",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.cpp.MacroRepo_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M2",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.cpp.CppFileParser_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M3",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.cpp.cdt.PreprocessorHandler_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/Control",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "depends.extractor.cpp.cdt.CdtCppFileParser_java"
+                                } ]
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.cpp.CppBuiltInType_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "depends.extractor.cpp.CppProcessor_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L0",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L0/M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.ParserCreator_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0",
+                                  "nested" : [ {
+                                    "@type" : "group",
+                                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/L0",
+                                    "nested" : [ {
+                                      "@type" : "group",
+                                      "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/L0/M0",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "depends.extractor.ruby.RubyHandlerContext_java"
+                                      } ]
+                                    }, {
+                                      "@type" : "group",
+                                      "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/L0/M1",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "depends.extractor.ruby.RubyBuiltInType_java"
+                                      } ]
+                                    } ]
+                                  }, {
+                                    "@type" : "group",
+                                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/Control",
+                                    "nested" : [ {
+                                      "@type" : "group",
+                                      "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/Control/M0",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "depends.extractor.ruby.jruby.RubyParserHelper_java"
+                                      } ]
+                                    }, {
+                                      "@type" : "group",
+                                      "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/Control/M1",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "depends.extractor.ruby.jruby.ExpressionUsage_java"
+                                      } ]
+                                    } ]
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M1",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "depends.extractor.ruby.jruby.JRubyFileParser_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/Control",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "depends.extractor.ruby.jruby.JRubyVisitor_java"
+                                } ]
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "depends.extractor.ruby.RubyImportLookupStrategy_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "depends.extractor.ruby.RubyProcessor_java"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "depends.LangRegister_java"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1/M0",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "depends.extractor.python.PythonHandlerContext_java"
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1/M1",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "depends.extractor.python.PythonParserHelper_java"
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1/M2",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "depends.extractor.python.ExpressionUsage_java"
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M3/L1/M0/L0/M1/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.extractor.python.Python3CodeListener_java"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M3/L1/M0/L0/M2/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.extractor.cpp.cdt.ASTStringUtilExt_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M3/L1/M0/L0/M2/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.extractor.cpp.cdt.TemplateParameterASTVisitor_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M3/L1/M0/L0/M2/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.extractor.cpp.cdt.ExpressionUsage_java"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M0/L0/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.extractor.cpp.CppHandlerContext_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M0/L0/M4",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.extractor.cpp.cdt.MacroExtractor_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M3/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.extractor.cpp.cdt.CppVisitor_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.AnnotationProcessor_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M2",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M3/L1/M2/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M2/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.extractor.java.context.CreatorContextHelper_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M3/L1/M2/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.extractor.java.context.OpHelper_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M3/L1/M2/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.extractor.java.context.ExpressionUsage_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.VariableDeclaratorsContextHelper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.TypeParameterContextHelper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M5",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.FormalParameterListContextHelper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M3/L1/M6",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.extractor.java.context.IdentifierContextHelper_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M0/L1/M3/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "depends.extractor.java.JavaListener_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.generator.FunctionDependencyGenerator_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.generator.FileDependencyGenerator_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M6",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L2/M0/L1/M6/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.AbstractFormatDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.FileAttributes_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M0/L1/M6/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M6/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.format.xml.XmlFormatDependencyDumper_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M6/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.format.xml.XFiles_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M6/L1/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M6/L1/M0/L0/M2/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.format.xml.XDepend_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M6/L1/M0/L0/M2/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.format.xml.XCell_java"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L1/M6/L1/M0/L0/M2/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "depends.format.xml.XCells_java"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M6/L1/M0/Control/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.format.xml.XDepObject_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L1/M6/L1/M0/Control/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "depends.format.xml.XDataBuilder_java"
+                  } ]
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.plantuml.PlantUmlFormatDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.dot.DotFullnameDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.dot.DotFormatDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.detail.DetailTextFormatDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M5",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.plantuml.BriefPlantUmlFormatDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M6",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M6/M0",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.format.json.DetailItem_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M6/M1",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.format.json.JCellObject_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M6/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.format.json.JDepObject_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M6/M3",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.format.json.JsonFormatDependencyDumper_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L1/M6/L1/M6/M4",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "depends.format.json.JDataBuilder_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M7",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.excel.ExcelXlsxFormatDependencyDumper_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L1/M6/L1/M8",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "depends.format.excel.ExcelXlsFormatDependencyDumper_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M0/L1/M6/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "depends.format.DependencyDumper_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M7",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.format.path.WindowsPathFilenameWritter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M8",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.format.path.UnixPathFilenameWritter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M9",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.format.path.DotPathFilenameWritter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M10",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.DependsCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M11",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.addons.DV8MappingFileBuilder_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M12",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "depends.ParameterException_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "depends.Main_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "depends.extractor.kotlin.context.ExpressionUsage_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "depends.entity.AnonymousBlock_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "depends.extractor.cpp.cdt.ANSICParserExtensionConfigurationExtension_java"
+    }, {
+      "@type" : "item",
+      "name" : "depends.extractor.cpp.cdt.CommentManager_java"
+    } ]
+  } ]
+}

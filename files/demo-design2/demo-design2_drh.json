@@ -1,0 +1,101 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "demo-design2_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Answer.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "MultipleChoiceQuestion.java"
+          }, {
+            "@type" : "item",
+            "name" : "MultipleChoiceAnswer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "MatchingQuestion.java"
+          }, {
+            "@type" : "item",
+            "name" : "MatchingAnswer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "EssayQuestion.java"
+          }, {
+            "@type" : "item",
+            "name" : "EssayAnswer.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Question.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Form.java"
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "Test.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "Survey.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Control",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "Interface.java"
+    } ]
+  } ]
+}

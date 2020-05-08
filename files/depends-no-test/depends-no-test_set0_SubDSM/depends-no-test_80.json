@@ -1,0 +1,1 @@
+{"name":"depends-no-test_80.json","variables":["depends.extractor.cpp.Scanner_java","depends.extractor.cpp.cdt.FileCache_java"],"cells":[{"src":0,"dest":1,"values":{"Call":8.0,"Import":1.0,"Use":4.0}}],"relationTypes":["Call","Import","Use"]}

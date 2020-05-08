@@ -1,0 +1,22 @@
+[
+    {
+        "name": "femr",
+        "file": "femr",
+        "desc": "Health care management system"
+    },
+    {
+        "name": "Depends",
+        "file": "depends-no-test",
+        "desc": "Depend extraction tool without test files"
+    },
+    {
+        "name": "Demo: Questionnaire 1",
+        "file": "demo-design1",
+        "desc": "Questionnaire demo #1"
+    },
+    {
+        "name": "Demo: Questionnaire 2",
+        "file": "demo-design2",
+        "desc": "Questionnaire demo #2"
+    }
+]

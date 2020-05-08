@@ -1,0 +1,1 @@
+{"name":"femr_149.json","variables":["femr.data.daos.core.IPhotoRepository_java","femr.data.models.core.IPatientEncounterPhoto_java","femr.data.models.core.IPhoto_java"],"cells":[{"src":0,"dest":2,"values":{"Import":1.0,"Return":5.0}},{"src":0,"dest":1,"values":{"Import":1.0,"Return":1.0}}],"relationTypes":["Import","Return"]}
