@@ -1,6 +1,9 @@
 {
     "name": "demo-design2",
-    "dsm": "demo-design2.json",
+    "downloads": {
+        "Dependencies": "demo-design2.json",
+        "Source Code": "design_2.zip"
+    },
     "items": [
         {
             "name": "DRH",

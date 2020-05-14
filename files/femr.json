@@ -1,6 +1,11 @@
 {
     "name": "femr",
-    "dsm": "femr.json",
+    "downloads": {
+        "Dependencies": "femr.json"
+    },
+    "url": {
+        "Source Code": "https://github.com/FEMR/femr"
+    },
     "items": [
         {
             "name": "DRH",

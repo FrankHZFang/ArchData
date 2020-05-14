@@ -1,6 +1,11 @@
 {
     "name": "depends-no-test",
-    "dsm": "depends-no-test.json",
+    "downloads": {
+        "Dependencies": "depends-no-test.json"
+    },
+    "url": {
+        "Source Code": "https://github.com/multilang-depends/depends"
+    },
     "items": [
         {
             "name": "DRH",
