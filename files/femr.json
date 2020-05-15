@@ -1,12 +1,17 @@
 {
     "name": "femr",
-    "downloads": {
-        "Dependencies": "femr.json"
-    },
-    "url": {
-        "Source Code": "https://github.com/FEMR/femr"
-    },
     "items": [
+        {
+            "name": "Downloads",
+            "type": "download",
+            "data": {
+                "dsm": "femr.json",
+                "functionGroups": "femr_function_groups.zip",
+                "url": {
+                    "Source Code": "https://github.com/FEMR/femr"
+                }
+            }
+        },
         {
             "name": "DRH",
             "type": "circle-package",

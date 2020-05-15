@@ -1,12 +1,17 @@
 {
     "name": "depends-no-test",
-    "downloads": {
-        "Dependencies": "depends-no-test.json"
-    },
-    "url": {
-        "Source Code": "https://github.com/multilang-depends/depends"
-    },
     "items": [
+        {
+            "name": "Downloads",
+            "type": "download",
+            "data": {
+                "dsm": "depends-no-test.json",
+                "functionGroups": "depends-no-test_function_groups.zip",
+                "url": {
+                    "Source Code": "https://github.com/multilang-depends/depends"
+                }
+            }
+        },
         {
             "name": "DRH",
             "type": "circle-package",

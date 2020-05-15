@@ -1,10 +1,17 @@
 {
     "name": "demo-design2",
-    "downloads": {
-        "Dependencies": "demo-design2.json",
-        "Source Code": "design_2.zip"
-    },
     "items": [
+        {
+            "name": "Downloads",
+            "type": "download",
+            "data": {
+                "dsm": "demo-design2.json",
+                "functionGroups": "demo-design2_function_groups.zip",
+                "downloads": {
+                    "Source Code": "design_2.zip"
+                }
+            }
+        },
         {
             "name": "DRH",
             "type": "circle-package",
