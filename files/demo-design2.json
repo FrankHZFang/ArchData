@@ -7,9 +7,12 @@
             "data": {
                 "dsm": "demo-design2.json",
                 "functionGroups": "demo-design2_function_groups.zip",
-                "downloads": {
-                    "Source Code": "design_2.zip"
-                }
+                "downloads": [
+                    {
+                        "name": "Source Code",
+                        "path": "design_1.zip"
+                    }
+                ]
             }
         },
         {

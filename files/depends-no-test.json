@@ -7,6 +7,13 @@
             "data": {
                 "dsm": "depends-no-test.json",
                 "functionGroups": "depends-no-test_function_groups.zip",
+                "downloads": [
+                    {
+                        "name": "Language Core Files",
+                        "path": "depends-language_core_files.json",
+                        "desc": "The dependency file (.json) which only contains files shared by all depends language processors"
+                    }
+                ],
                 "url": {
                     "Source Code": "https://github.com/multilang-depends/depends"
                 }
