@@ -5,7 +5,7 @@
             "name": "Downloads",
             "type": "download",
             "data": {
-                "dsm": "demo-design2.json",
+                "dsm": "demo-design1.json",
                 "functionGroups": "demo-design1_function_groups.zip",
                 "downloads": [
                     {
