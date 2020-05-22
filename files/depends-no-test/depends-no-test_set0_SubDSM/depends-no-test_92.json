@@ -1,1 +1,0 @@
-{"name":"depends-no-test_92.json","variables":["depends.extractor.cpp.cdt.PreprocessorHandler_java","depends.util.FileUtil_java"],"cells":[{"src":0,"dest":1,"values":{"Call":6.0,"Import":1.0,"Use":6.0}}],"relationTypes":["Call","Import","Use"]}

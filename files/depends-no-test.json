@@ -6,7 +6,7 @@
             "type": "download",
             "data": {
                 "dsm": "depends-no-test.json",
-                "functionGroups": "depends-no-test_function_groups.zip",
+                "functionGroups": "depends-no-test_UH_FunctionGroups.zip",
                 "downloads": [
                     {
                         "name": "Language processing core files",
@@ -29,11 +29,30 @@
         {
             "name": "Function Groups",
             "type": "pca",
-            "subDsmDownloadPath": "depends-no-test_set0_SubDSM",
+            "subDsmDownloadPath": "depends-no-test_UH_SubDSM",
             "dataFiles": [
-                "depends-no-test_set0.json",
-                "depends-no-test_set0_TopFiles.json",
-                "depends-no-test_set0_tfidf.json"
+                "depends-no-test_UH.json",
+                "depends-no-test_UH_EntryFiles.json",
+                "depends-no-test_UH_tfidf.json"
+            ]
+        },
+        {
+            "name": "Use Hierarchy",
+            "type": "use-hierarchy",
+            "dataFiles": [
+                "depends-no-test_UH.json",
+                "depends-no-test_UH_EntryFiles.json",
+                "depends-no-test_UH_DSM.json"
+            ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "depends-no-test_UH.json",
+                "depends-no-test_UH_EntryFiles.json",
+                "depends-no-test_UH_DSM.json",
+                "depends-no-test_UH_tfidf.json"
             ]
         }
     ]

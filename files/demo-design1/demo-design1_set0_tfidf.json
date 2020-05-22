@@ -1,1 +1,344 @@
-[{"word": "answer", "overAllScore": 0.5783346693404193, "demo-design1_1": 0.6011297962476218, "demo-design1_2": 0.6005884368238487, "demo-design1_3": 0.6444737672474207, "demo-design1_4": 0.6444737672474207, "demo-design1_5": 0.529411741029277, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0.7089839333875608, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "choice", "overAllScore": 0.16523847695440552, "demo-design1_1": 0.36628852271001017, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0.8064707727741234, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "command", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0.6134172972718409, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "essay", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0.4908743203297556, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "file", "overAllScore": 0.12392885771580414, "demo-design1_1": 0.16178168227734724, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0.4510589420748192, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0.5284980612151154, "demo-design1_12": 0}, {"word": "line", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0.6134172972718409, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "load", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0.5106193458431464, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "main", "overAllScore": 0.04130961923860138, "demo-design1_1": 0.21325312549579567, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "match", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0.4908743203297556, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "matching", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0.4908743203297556, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "program", "overAllScore": 0.04130961923860138, "demo-design1_1": 0.21325312549579567, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "question", "overAllScore": 0.3717865731474124, "demo-design1_1": 0.09374013540248058, "demo-design1_2": 0.23413928963621247, "demo-design1_3": 0.25124797748435923, "demo-design1_4": 0.25124797748435923, "demo-design1_5": 0.20639106810846156, "demo-design1_6": 0.26135422570342254, "demo-design1_7": 0.4983090297858672, "demo-design1_8": 0.5527945073492616, "demo-design1_9": 0.783855926072336, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "save", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0.5106193458431464, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "sheet", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0.4574483178469464, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "survey", "overAllScore": 0.16523847695440552, "demo-design1_1": 0.14521157862092904, "demo-design1_2": 0.36270201359617016, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0.40486030376098947, "demo-design1_7": 0.7719237927872089, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "test", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0.4574483178469464, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}, {"word": "text", "overAllScore": 0.04130961923860138, "demo-design1_1": 0, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0.6966416827053391, "demo-design1_12": 0}, {"word": "ui", "overAllScore": 0.6196442885790207, "demo-design1_1": 0.14851519175730693, "demo-design1_2": 0.18547680430020771, "demo-design1_3": 0.1990296973356928, "demo-design1_4": 0.1990296973356928, "demo-design1_5": 0.16349565170519498, "demo-design1_6": 0.20703550715107638, "demo-design1_7": 0.39474266169604477, "demo-design1_8": 0.43790411603773455, "demo-design1_9": 0.6209427406462535, "demo-design1_10": 0.4974318433870313, "demo-design1_11": 0.4851599377621135, "demo-design1_12": 1.0}, {"word": "written", "overAllScore": 0.08261923847720276, "demo-design1_1": 0.18314426135500508, "demo-design1_2": 0, "demo-design1_3": 0, "demo-design1_4": 0.4908743203297556, "demo-design1_5": 0, "demo-design1_6": 0, "demo-design1_7": 0, "demo-design1_8": 0, "demo-design1_9": 0, "demo-design1_10": 0, "demo-design1_11": 0, "demo-design1_12": 0}]
+[
+    {
+        "word": "answer",
+        "overAllScore": 0.5783346693404193,
+        "scores": {
+            "demo-design1_1": 0.6011297962476218,
+            "demo-design1_2": 0.6005884368238487,
+            "demo-design1_3": 0.6444737672474207,
+            "demo-design1_4": 0.529411741029277,
+            "demo-design1_5": 0.6444737672474207,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0.7089839333875608,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "choice",
+        "overAllScore": 0.16523847695440552,
+        "scores": {
+            "demo-design1_1": 0.36628852271001017,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0.8064707727741234,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "command",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0.6134172972718409,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "essay",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0.4908743203297556,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "file",
+        "overAllScore": 0.12392885771580414,
+        "scores": {
+            "demo-design1_1": 0.16178168227734724,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0.4510589420748192,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0.5284980612151154,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "line",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0.6134172972718409,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "load",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0.5106193458431464,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "main",
+        "overAllScore": 0.04130961923860138,
+        "scores": {
+            "demo-design1_1": 0.21325312549579567,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "match",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0.4908743203297556,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "matching",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0.4908743203297556,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "program",
+        "overAllScore": 0.04130961923860138,
+        "scores": {
+            "demo-design1_1": 0.21325312549579567,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "question",
+        "overAllScore": 0.3717865731474124,
+        "scores": {
+            "demo-design1_1": 0.09374013540248058,
+            "demo-design1_2": 0.23413928963621247,
+            "demo-design1_3": 0.25124797748435923,
+            "demo-design1_4": 0.20639106810846156,
+            "demo-design1_5": 0.25124797748435923,
+            "demo-design1_6": 0.26135422570342254,
+            "demo-design1_7": 0.5527945073492616,
+            "demo-design1_8": 0.4983090297858672,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0.783855926072336,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "save",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0.5106193458431464,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "sheet",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0.4574483178469464,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "survey",
+        "overAllScore": 0.16523847695440552,
+        "scores": {
+            "demo-design1_1": 0.14521157862092904,
+            "demo-design1_2": 0.36270201359617016,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0.40486030376098947,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0.7719237927872089,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "test",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0.4574483178469464,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "text",
+        "overAllScore": 0.04130961923860138,
+        "scores": {
+            "demo-design1_1": 0,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0.6966416827053391,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    },
+    {
+        "word": "ui",
+        "overAllScore": 0.6196442885790207,
+        "scores": {
+            "demo-design1_1": 0.14851519175730693,
+            "demo-design1_2": 0.18547680430020771,
+            "demo-design1_3": 0.1990296973356928,
+            "demo-design1_4": 0.16349565170519498,
+            "demo-design1_5": 0.1990296973356928,
+            "demo-design1_6": 0.20703550715107638,
+            "demo-design1_7": 0.43790411603773455,
+            "demo-design1_8": 0.39474266169604477,
+            "demo-design1_9": 0.4974318433870313,
+            "demo-design1_10": 0.4851599377621135,
+            "demo-design1_11": 0.6209427406462535,
+            "demo-design1_12": 1.0
+        }
+    },
+    {
+        "word": "written",
+        "overAllScore": 0.08261923847720276,
+        "scores": {
+            "demo-design1_1": 0.18314426135500508,
+            "demo-design1_2": 0,
+            "demo-design1_3": 0,
+            "demo-design1_4": 0,
+            "demo-design1_5": 0.4908743203297556,
+            "demo-design1_6": 0,
+            "demo-design1_7": 0,
+            "demo-design1_8": 0,
+            "demo-design1_9": 0,
+            "demo-design1_10": 0,
+            "demo-design1_11": 0,
+            "demo-design1_12": 0
+        }
+    }
+]

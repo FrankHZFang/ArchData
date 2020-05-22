@@ -45,21 +45,21 @@
                               "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.entity.MultiDeclareEntities_java"
+                                "name" : "depends/entity/MultiDeclareEntities.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.entity.GenericName_java"
+                                "name" : "depends/entity/GenericName.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M2",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.relations.Relation_java"
+                                "name" : "depends/relations/Relation.java"
                               } ]
                             } ]
                           }, {
@@ -67,7 +67,7 @@
                             "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
                             "nested" : [ {
                               "@type" : "item",
-                              "name" : "depends.entity.Entity_java"
+                              "name" : "depends/entity/Entity.java"
                             } ]
                           } ]
                         } ]
@@ -79,17 +79,17 @@
                           "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.entity.FunctionCall_java"
+                            "name" : "depends/entity/FunctionCall.java"
                           }, {
                             "@type" : "item",
-                            "name" : "depends.entity.VarEntity_java"
+                            "name" : "depends/entity/VarEntity.java"
                           } ]
                         }, {
                           "@type" : "group",
                           "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.entity.DecoratedEntity_java"
+                            "name" : "depends/entity/DecoratedEntity.java"
                           } ]
                         } ]
                       }, {
@@ -97,7 +97,7 @@
                         "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
                         "nested" : [ {
                           "@type" : "item",
-                          "name" : "depends.entity.TypeEntity_java"
+                          "name" : "depends/entity/TypeEntity.java"
                         } ]
                       } ]
                     } ]
@@ -109,21 +109,21 @@
                       "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "depends.entity.PackageEntity_java"
+                        "name" : "depends/entity/PackageEntity.java"
                       } ]
                     }, {
                       "@type" : "group",
                       "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "depends.entity.ImportedFileCollector_java"
+                        "name" : "depends/entity/ImportedFileCollector.java"
                       } ]
                     }, {
                       "@type" : "group",
                       "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M2",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "depends.importtypes.Import_java"
+                        "name" : "depends/importtypes/Import.java"
                       } ]
                     } ]
                   }, {
@@ -134,14 +134,14 @@
                       "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control/M0",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "depends.entity.FileEntity_java"
+                        "name" : "depends/entity/FileEntity.java"
                       } ]
                     }, {
                       "@type" : "group",
                       "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control/M1",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "depends.entity.FunctionEntity_java"
+                        "name" : "depends/entity/FunctionEntity.java"
                       } ]
                     } ]
                   } ]
@@ -154,7 +154,7 @@
                   "name" : "L0/M0/L0/M0/L0/M0/L1/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.entity.EmptyTypeEntity_java"
+                    "name" : "depends/entity/EmptyTypeEntity.java"
                   } ]
                 }, {
                   "@type" : "group",
@@ -164,21 +164,21 @@
                     "name" : "L0/M0/L0/M0/L0/M0/L1/M1/M0",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.entity.repo.IdGenerator_java"
+                      "name" : "depends/entity/repo/IdGenerator.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L0/M0/L0/M0/L0/M0/L1/M1/M1",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.entity.repo.EntityRepo_java"
+                      "name" : "depends/entity/repo/EntityRepo.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L0/M0/L0/M0/L0/M0/L1/M1/M2",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.entity.Expression_java"
+                      "name" : "depends/entity/Expression.java"
                     } ]
                   } ]
                 } ]
@@ -190,14 +190,14 @@
                   "name" : "L0/M0/L0/M0/L0/M0/Control/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.entity.AliasEntity_java"
+                    "name" : "depends/entity/AliasEntity.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L0/M0/L0/M0/L0/M0/Control/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.entity.CandidateTypes_java"
+                    "name" : "depends/entity/CandidateTypes.java"
                   } ]
                 } ]
               } ]
@@ -206,7 +206,7 @@
               "name" : "L0/M0/L0/M0/L0/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.util.TemporaryFile_java"
+                "name" : "depends/util/TemporaryFile.java"
               } ]
             } ]
           }, {
@@ -214,7 +214,7 @@
             "name" : "L0/M0/L0/M0/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "depends.entity.ContainerEntity_java"
+              "name" : "depends/entity/ContainerEntity.java"
             } ]
           } ]
         } ]
@@ -226,7 +226,7 @@
           "name" : "L0/M0/L1/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.entity.repo.BuiltInType_java"
+            "name" : "depends/entity/repo/BuiltInType.java"
           } ]
         } ]
       }, {
@@ -249,7 +249,7 @@
                   "name" : "L0/M0/L2/M0/L0/M0/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.format.path.FilenameWritter_java"
+                    "name" : "depends/format/path/FilenameWritter.java"
                   } ]
                 }, {
                   "@type" : "group",
@@ -259,21 +259,21 @@
                     "name" : "L0/M0/L2/M0/L0/M0/L0/M1/M0",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.matrix.core.DependencyDetail_java"
+                      "name" : "depends/matrix/core/DependencyDetail.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L0/M0/L2/M0/L0/M0/L0/M1/M1",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.matrix.core.DependencyValue_java"
+                      "name" : "depends/matrix/core/DependencyValue.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L0/M0/L2/M0/L0/M0/L0/M1/M2",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.matrix.core.DependencyPair_java"
+                      "name" : "depends/matrix/core/DependencyPair.java"
                     } ]
                   } ]
                 } ]
@@ -282,7 +282,7 @@
                 "name" : "L0/M0/L2/M0/L0/M0/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.matrix.core.DependencyMatrix_java"
+                  "name" : "depends/matrix/core/DependencyMatrix.java"
                 } ]
               } ]
             } ]
@@ -300,21 +300,21 @@
                   "name" : "L0/M0/L2/M0/L1/M0/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.entity.FunctionEntityProto_java"
+                    "name" : "depends/entity/FunctionEntityProto.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L0/M0/L2/M0/L1/M0/L0/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.entity.FunctionEntityImpl_java"
+                    "name" : "depends/entity/FunctionEntityImpl.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L0/M0/L2/M0/L1/M0/L0/M2",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.deptypes.DependencyType_java"
+                    "name" : "depends/deptypes/DependencyType.java"
                   } ]
                 } ]
               }, {
@@ -322,7 +322,7 @@
                 "name" : "L0/M0/L2/M0/L1/M0/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.relations.RelationCounter_java"
+                  "name" : "depends/relations/RelationCounter.java"
                 } ]
               } ]
             }, {
@@ -336,24 +336,24 @@
                   "name" : "L0/M0/L2/M0/L1/M1/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.matrix.transform.strip.ILeadingNameStrippper_java"
+                    "name" : "depends/matrix/transform/strip/ILeadingNameStrippper.java"
                   }, {
                     "@type" : "item",
-                    "name" : "depends.matrix.transform.strip.EmptyLeadingNameStripper_java"
+                    "name" : "depends/matrix/transform/strip/EmptyLeadingNameStripper.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L0/M0/L2/M0/L1/M1/L0/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.format.path.EmptyFilenameWritter_java"
+                    "name" : "depends/format/path/EmptyFilenameWritter.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L0/M0/L2/M0/L1/M1/L0/M2",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.entity.PackageNamePrefixRemover_java"
+                    "name" : "depends/entity/PackageNamePrefixRemover.java"
                   } ]
                 } ]
               }, {
@@ -361,7 +361,7 @@
                 "name" : "L0/M0/L2/M0/L1/M1/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.generator.DependencyGenerator_java"
+                  "name" : "depends/generator/DependencyGenerator.java"
                 } ]
               } ]
             }, {
@@ -369,48 +369,48 @@
               "name" : "L0/M0/L2/M0/L1/M2",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.entity.repo.SimpleIdGenerator_java"
+                "name" : "depends/entity/repo/SimpleIdGenerator.java"
               }, {
                 "@type" : "item",
-                "name" : "depends.entity.repo.InMemoryEntityRepo_java"
+                "name" : "depends/entity/repo/InMemoryEntityRepo.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L0/M0/L2/M0/L1/M3",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.matrix.transform.OrderedMatrixGenerator_java"
+                "name" : "depends/matrix/transform/OrderedMatrixGenerator.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L0/M0/L2/M0/L1/M4",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.util.FileTraversal_java"
+                "name" : "depends/util/FileTraversal.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L0/M0/L2/M0/L1/M5",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.FileParser_java"
+                "name" : "depends/extractor/FileParser.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L0/M0/L2/M0/L1/M6",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.util.FileUtil_java"
+                "name" : "depends/util/FileUtil.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L0/M0/L2/M0/L1/M7",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.relations.ImportLookupStrategy_java"
+                "name" : "depends/relations/ImportLookupStrategy.java"
               }, {
                 "@type" : "item",
-                "name" : "depends.extractor.UnsolvedBindings_java"
+                "name" : "depends/extractor/UnsolvedBindings.java"
               } ]
             } ]
           }, {
@@ -418,7 +418,7 @@
             "name" : "L0/M0/L2/M0/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "depends.extractor.AbstractLangProcessor_java"
+              "name" : "depends/extractor/AbstractLangProcessor.java"
             } ]
           } ]
         }, {
@@ -426,14 +426,14 @@
           "name" : "L0/M0/L2/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.relations.FunctionMatcher_java"
+            "name" : "depends/relations/FunctionMatcher.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L0/M0/L2/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.entity.repo.NullBuiltInType_java"
+            "name" : "depends/entity/repo/NullBuiltInType.java"
           } ]
         } ]
       }, {
@@ -441,7 +441,7 @@
         "name" : "L0/M0/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "depends.relations.Inferer_java"
+          "name" : "depends/relations/Inferer.java"
         } ]
       } ]
     } ]
@@ -456,21 +456,21 @@
         "name" : "L1/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "depends.extractor.HandlerContext_java"
+          "name" : "depends/extractor/HandlerContext.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L1/M0/M1",
         "nested" : [ {
           "@type" : "item",
-          "name" : "depends.extractor.java.JavaHandlerContext_java"
+          "name" : "depends/extractor/java/JavaHandlerContext.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L1/M0/M2",
         "nested" : [ {
           "@type" : "item",
-          "name" : "depends.extractor.kotlin.KotlinHandlerContext_java"
+          "name" : "depends/extractor/kotlin/KotlinHandlerContext.java"
         } ]
       } ]
     } ]
@@ -488,7 +488,7 @@
           "name" : "L2/M0/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.extractor.LangProcessorRegistration_java"
+            "name" : "depends/extractor/LangProcessorRegistration.java"
           } ]
         } ]
       }, {
@@ -499,24 +499,24 @@
           "name" : "L2/M0/L1/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.util.FolderCollector_java"
+            "name" : "depends/util/FolderCollector.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.format.detail.UnsolvedSymbolDumper_java"
+            "name" : "depends/format/detail/UnsolvedSymbolDumper.java"
           }, {
             "@type" : "item",
-            "name" : "depends.matrix.transform.strip.LeadingNameStripper_java"
+            "name" : "depends/matrix/transform/strip/LeadingNameStripper.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.matrix.transform.MatrixLevelReducer_java"
+            "name" : "depends/matrix/transform/MatrixLevelReducer.java"
           } ]
         }, {
           "@type" : "group",
@@ -529,14 +529,14 @@
               "name" : "L2/M0/L1/M3/L0/M0",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.ClassTypeContextHelper_java"
+                "name" : "depends/extractor/java/context/ClassTypeContextHelper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M3/L0/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.QualitiedNameContextHelper_java"
+                "name" : "depends/extractor/java/context/QualitiedNameContextHelper.java"
               } ]
             } ]
           }, {
@@ -553,7 +553,7 @@
                   "name" : "L2/M0/L1/M3/L1/M0/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.importtypes.PackageWildCardImport_java"
+                    "name" : "depends/importtypes/PackageWildCardImport.java"
                   } ]
                 }, {
                   "@type" : "group",
@@ -572,31 +572,31 @@
                           "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M0",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.extractor.cpp.CppImportLookupStrategy_java"
+                            "name" : "depends/extractor/cpp/CppImportLookupStrategy.java"
                           }, {
                             "@type" : "item",
-                            "name" : "depends.importtypes.FileImport_java"
+                            "name" : "depends/importtypes/FileImport.java"
                           } ]
                         }, {
                           "@type" : "group",
                           "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M1",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.extractor.java.JavaImportLookupStrategy_java"
+                            "name" : "depends/extractor/ruby/IncludedFileLocator.java"
                           } ]
                         }, {
                           "@type" : "group",
                           "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M2",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.extractor.java.JavaBuiltInType_java"
+                            "name" : "depends/extractor/java/JavaImportLookupStrategy.java"
                           } ]
                         }, {
                           "@type" : "group",
                           "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L0/M3",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.extractor.ruby.IncludedFileLocator_java"
+                            "name" : "depends/extractor/java/JavaBuiltInType.java"
                           } ]
                         } ]
                       }, {
@@ -613,24 +613,24 @@
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0/M0",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.python.NameAliasImport_java"
+                                "name" : "depends/extractor/python/NameAliasImport.java"
                               }, {
                                 "@type" : "item",
-                                "name" : "depends.extractor.python.PythonImportLookupStrategy_java"
+                                "name" : "depends/extractor/python/PythonImportLookupStrategy.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0/M1",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.python.PythonFileParser_java"
+                                "name" : "depends/extractor/python/PythonFileParser.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/L0/M2",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.python.PythonBuiltInType_java"
+                                "name" : "depends/extractor/python/PythonBuiltInType.java"
                               } ]
                             } ]
                           }, {
@@ -638,7 +638,7 @@
                             "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M0/Control",
                             "nested" : [ {
                               "@type" : "item",
-                              "name" : "depends.extractor.python.PythonProcessor_java"
+                              "name" : "depends/extractor/python/PythonProcessor.java"
                             } ]
                           } ]
                         }, {
@@ -652,10 +652,10 @@
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L0/M0",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.pom.PomParent_java"
+                                "name" : "depends/extractor/pom/PomParent.java"
                               }, {
                                 "@type" : "item",
-                                "name" : "depends.extractor.pom.PomCoords_java"
+                                "name" : "depends/extractor/pom/PomCoords.java"
                               } ]
                             } ]
                           }, {
@@ -672,24 +672,24 @@
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0/M0",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.pom.PomImportLookupStategy_java"
+                                    "name" : "depends/extractor/pom/PomImportLookupStategy.java"
                                   }, {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.empty.EmptyImportLookupStategy_java"
+                                    "name" : "depends/extractor/empty/EmptyImportLookupStategy.java"
                                   } ]
                                 }, {
                                   "@type" : "group",
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0/M1",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.pom.PomFileParser_java"
+                                    "name" : "depends/extractor/pom/PomFileParser.java"
                                   } ]
                                 }, {
                                   "@type" : "group",
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/L0/M2",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.empty.EmptyBuiltInType_java"
+                                    "name" : "depends/extractor/empty/EmptyBuiltInType.java"
                                   } ]
                                 } ]
                               }, {
@@ -697,7 +697,7 @@
                                 "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M0/Control",
                                 "nested" : [ {
                                   "@type" : "item",
-                                  "name" : "depends.extractor.pom.PomProcessor_java"
+                                  "name" : "depends/extractor/pom/PomProcessor.java"
                                 } ]
                               } ]
                             }, {
@@ -705,21 +705,21 @@
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M1",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.pom.PomLocator_java"
+                                "name" : "depends/extractor/pom/PomLocator.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M2",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.pom.PomHandlerContext_java"
+                                "name" : "depends/extractor/pom/PomHandlerContext.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/L1/M3",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.pom.PomArtifactEntity_java"
+                                "name" : "depends/extractor/pom/PomArtifactEntity.java"
                               } ]
                             } ]
                           }, {
@@ -727,7 +727,7 @@
                             "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M1/Control",
                             "nested" : [ {
                               "@type" : "item",
-                              "name" : "depends.extractor.pom.PomListener_java"
+                              "name" : "depends/extractor/pom/PomListener.java"
                             } ]
                           } ]
                         }, {
@@ -741,24 +741,24 @@
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0/M0",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.kotlin.KotlinProcessor_java"
+                                "name" : "depends/extractor/kotlin/KotlinProcessor.java"
                               }, {
                                 "@type" : "item",
-                                "name" : "depends.extractor.kotlin.KotlinFileParser_java"
+                                "name" : "depends/extractor/kotlin/KotlinFileParser.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0/M1",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.kotlin.ContextHelper_java"
+                                "name" : "depends/extractor/kotlin/ContextHelper.java"
                               } ]
                             }, {
                               "@type" : "group",
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/L0/M2",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.importtypes.ExactMatchImport_java"
+                                "name" : "depends/importtypes/ExactMatchImport.java"
                               } ]
                             } ]
                           }, {
@@ -766,7 +766,7 @@
                             "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M2/Control",
                             "nested" : [ {
                               "@type" : "item",
-                              "name" : "depends.extractor.kotlin.KotlinListener_java"
+                              "name" : "depends/extractor/kotlin/KotlinListener.java"
                             } ]
                           } ]
                         }, {
@@ -774,10 +774,10 @@
                           "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M3",
                           "nested" : [ {
                             "@type" : "item",
-                            "name" : "depends.extractor.java.JavaProcessor_java"
+                            "name" : "depends/extractor/java/JavaProcessor.java"
                           }, {
                             "@type" : "item",
-                            "name" : "depends.extractor.java.JavaFileParser_java"
+                            "name" : "depends/extractor/java/JavaFileParser.java"
                           } ]
                         }, {
                           "@type" : "group",
@@ -796,7 +796,7 @@
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L0/M0",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.cpp.cdt.GPPParserExtensionConfigurationExtension_java"
+                                    "name" : "depends/extractor/cpp/cdt/GPPParserExtensionConfigurationExtension.java"
                                   } ]
                                 } ]
                               }, {
@@ -810,21 +810,21 @@
                                     "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0/M0",
                                     "nested" : [ {
                                       "@type" : "item",
-                                      "name" : "depends.extractor.cpp.cdt.FileCache_java"
+                                      "name" : "depends/extractor/cpp/cdt/FileCache.java"
                                     } ]
                                   }, {
                                     "@type" : "group",
                                     "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0/M1",
                                     "nested" : [ {
                                       "@type" : "item",
-                                      "name" : "depends.extractor.cpp.Scanner_java"
+                                      "name" : "depends/extractor/cpp/Scanner.java"
                                     } ]
                                   }, {
                                     "@type" : "group",
                                     "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M0/M2",
                                     "nested" : [ {
                                       "@type" : "item",
-                                      "name" : "depends.extractor.cpp.cdt.CDTParser_java"
+                                      "name" : "depends/extractor/cpp/cdt/CDTParser.java"
                                     } ]
                                   } ]
                                 }, {
@@ -832,21 +832,21 @@
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M1",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.cpp.MacroRepo_java"
+                                    "name" : "depends/extractor/cpp/MacroRepo.java"
                                   } ]
                                 }, {
                                   "@type" : "group",
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M2",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.cpp.CppFileParser_java"
+                                    "name" : "depends/extractor/cpp/CppFileParser.java"
                                   } ]
                                 }, {
                                   "@type" : "group",
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/L1/M3",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.cpp.cdt.PreprocessorHandler_java"
+                                    "name" : "depends/extractor/cpp/cdt/PreprocessorHandler.java"
                                   } ]
                                 } ]
                               }, {
@@ -854,7 +854,7 @@
                                 "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M0/Control",
                                 "nested" : [ {
                                   "@type" : "item",
-                                  "name" : "depends.extractor.cpp.cdt.CdtCppFileParser_java"
+                                  "name" : "depends/extractor/cpp/cdt/CdtCppFileParser.java"
                                 } ]
                               } ]
                             }, {
@@ -862,7 +862,7 @@
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/L0/M1",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.cpp.CppBuiltInType_java"
+                                "name" : "depends/extractor/cpp/CppBuiltInType.java"
                               } ]
                             } ]
                           }, {
@@ -870,7 +870,7 @@
                             "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M4/Control",
                             "nested" : [ {
                               "@type" : "item",
-                              "name" : "depends.extractor.cpp.CppProcessor_java"
+                              "name" : "depends/extractor/cpp/CppProcessor.java"
                             } ]
                           } ]
                         }, {
@@ -890,7 +890,7 @@
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L0/M0",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.ParserCreator_java"
+                                    "name" : "depends/extractor/ParserCreator.java"
                                   } ]
                                 } ]
                               }, {
@@ -907,14 +907,14 @@
                                       "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/L0/M0",
                                       "nested" : [ {
                                         "@type" : "item",
-                                        "name" : "depends.extractor.ruby.RubyHandlerContext_java"
+                                        "name" : "depends/extractor/ruby/RubyHandlerContext.java"
                                       } ]
                                     }, {
                                       "@type" : "group",
                                       "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/L0/M1",
                                       "nested" : [ {
                                         "@type" : "item",
-                                        "name" : "depends.extractor.ruby.RubyBuiltInType_java"
+                                        "name" : "depends/extractor/ruby/RubyBuiltInType.java"
                                       } ]
                                     } ]
                                   }, {
@@ -925,14 +925,14 @@
                                       "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/Control/M0",
                                       "nested" : [ {
                                         "@type" : "item",
-                                        "name" : "depends.extractor.ruby.jruby.RubyParserHelper_java"
+                                        "name" : "depends/extractor/ruby/jruby/RubyParserHelper.java"
                                       } ]
                                     }, {
                                       "@type" : "group",
                                       "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M0/Control/M1",
                                       "nested" : [ {
                                         "@type" : "item",
-                                        "name" : "depends.extractor.ruby.jruby.ExpressionUsage_java"
+                                        "name" : "depends/extractor/ruby/jruby/ExpressionUsage.java"
                                       } ]
                                     } ]
                                   } ]
@@ -941,7 +941,7 @@
                                   "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/L1/M1",
                                   "nested" : [ {
                                     "@type" : "item",
-                                    "name" : "depends.extractor.ruby.jruby.JRubyFileParser_java"
+                                    "name" : "depends/extractor/ruby/jruby/JRubyFileParser.java"
                                   } ]
                                 } ]
                               }, {
@@ -949,7 +949,7 @@
                                 "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M0/Control",
                                 "nested" : [ {
                                   "@type" : "item",
-                                  "name" : "depends.extractor.ruby.jruby.JRubyVisitor_java"
+                                  "name" : "depends/extractor/ruby/jruby/JRubyVisitor.java"
                                 } ]
                               } ]
                             }, {
@@ -957,7 +957,7 @@
                               "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/L0/M1",
                               "nested" : [ {
                                 "@type" : "item",
-                                "name" : "depends.extractor.ruby.RubyImportLookupStrategy_java"
+                                "name" : "depends/extractor/ruby/RubyImportLookupStrategy.java"
                               } ]
                             } ]
                           }, {
@@ -965,7 +965,7 @@
                             "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/L1/M5/Control",
                             "nested" : [ {
                               "@type" : "item",
-                              "name" : "depends.extractor.ruby.RubyProcessor_java"
+                              "name" : "depends/extractor/ruby/RubyProcessor.java"
                             } ]
                           } ]
                         } ]
@@ -974,7 +974,7 @@
                         "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M0/Control",
                         "nested" : [ {
                           "@type" : "item",
-                          "name" : "depends.LangRegister_java"
+                          "name" : "depends/LangRegister.java"
                         } ]
                       } ]
                     }, {
@@ -985,21 +985,21 @@
                         "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1/M0",
                         "nested" : [ {
                           "@type" : "item",
-                          "name" : "depends.extractor.python.PythonHandlerContext_java"
+                          "name" : "depends/extractor/python/PythonHandlerContext.java"
                         } ]
                       }, {
                         "@type" : "group",
                         "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1/M1",
                         "nested" : [ {
                           "@type" : "item",
-                          "name" : "depends.extractor.python.PythonParserHelper_java"
+                          "name" : "depends/extractor/python/PythonParserHelper.java"
                         } ]
                       }, {
                         "@type" : "group",
                         "name" : "L2/M0/L1/M3/L1/M0/L0/M1/L0/M1/M2",
                         "nested" : [ {
                           "@type" : "item",
-                          "name" : "depends.extractor.python.ExpressionUsage_java"
+                          "name" : "depends/extractor/python/ExpressionUsage.java"
                         } ]
                       } ]
                     } ]
@@ -1008,7 +1008,7 @@
                     "name" : "L2/M0/L1/M3/L1/M0/L0/M1/Control",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.extractor.python.Python3CodeListener_java"
+                      "name" : "depends/extractor/python/Python3CodeListener.java"
                     } ]
                   } ]
                 }, {
@@ -1019,21 +1019,21 @@
                     "name" : "L2/M0/L1/M3/L1/M0/L0/M2/M0",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.extractor.cpp.cdt.ASTStringUtilExt_java"
+                      "name" : "depends/extractor/cpp/cdt/ASTStringUtilExt.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L2/M0/L1/M3/L1/M0/L0/M2/M1",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.extractor.cpp.cdt.TemplateParameterASTVisitor_java"
+                      "name" : "depends/extractor/cpp/cdt/TemplateParameterASTVisitor.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L2/M0/L1/M3/L1/M0/L0/M2/M2",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.extractor.cpp.cdt.ExpressionUsage_java"
+                      "name" : "depends/extractor/cpp/cdt/ExpressionUsage.java"
                     } ]
                   } ]
                 }, {
@@ -1041,14 +1041,14 @@
                   "name" : "L2/M0/L1/M3/L1/M0/L0/M3",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.extractor.cpp.CppHandlerContext_java"
+                    "name" : "depends/extractor/cpp/CppHandlerContext.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L2/M0/L1/M3/L1/M0/L0/M4",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.extractor.cpp.cdt.MacroExtractor_java"
+                    "name" : "depends/extractor/cpp/cdt/MacroExtractor.java"
                   } ]
                 } ]
               }, {
@@ -1056,7 +1056,7 @@
                 "name" : "L2/M0/L1/M3/L1/M0/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.extractor.cpp.cdt.CppVisitor_java"
+                  "name" : "depends/extractor/cpp/cdt/CppVisitor.java"
                 } ]
               } ]
             }, {
@@ -1064,7 +1064,7 @@
               "name" : "L2/M0/L1/M3/L1/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.AnnotationProcessor_java"
+                "name" : "depends/extractor/java/context/AnnotationProcessor.java"
               } ]
             }, {
               "@type" : "group",
@@ -1077,14 +1077,14 @@
                   "name" : "L2/M0/L1/M3/L1/M2/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.extractor.java.context.CreatorContextHelper_java"
+                    "name" : "depends/extractor/java/context/CreatorContextHelper.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L2/M0/L1/M3/L1/M2/L0/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.extractor.java.context.OpHelper_java"
+                    "name" : "depends/extractor/java/context/OpHelper.java"
                   } ]
                 } ]
               }, {
@@ -1092,7 +1092,7 @@
                 "name" : "L2/M0/L1/M3/L1/M2/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.extractor.java.context.ExpressionUsage_java"
+                  "name" : "depends/extractor/java/context/ExpressionUsage.java"
                 } ]
               } ]
             }, {
@@ -1100,28 +1100,28 @@
               "name" : "L2/M0/L1/M3/L1/M3",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.VariableDeclaratorsContextHelper_java"
+                "name" : "depends/extractor/java/context/VariableDeclaratorsContextHelper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M3/L1/M4",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.TypeParameterContextHelper_java"
+                "name" : "depends/extractor/java/context/TypeParameterContextHelper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M3/L1/M5",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.FormalParameterListContextHelper_java"
+                "name" : "depends/extractor/java/context/FormalParameterListContextHelper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M3/L1/M6",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.extractor.java.context.IdentifierContextHelper_java"
+                "name" : "depends/extractor/java/context/IdentifierContextHelper.java"
               } ]
             } ]
           }, {
@@ -1129,7 +1129,7 @@
             "name" : "L2/M0/L1/M3/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "depends.extractor.java.JavaListener_java"
+              "name" : "depends/extractor/java/JavaListener.java"
             } ]
           } ]
         }, {
@@ -1137,14 +1137,14 @@
           "name" : "L2/M0/L1/M4",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.generator.FunctionDependencyGenerator_java"
+            "name" : "depends/generator/FunctionDependencyGenerator.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M5",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.generator.FileDependencyGenerator_java"
+            "name" : "depends/generator/FileDependencyGenerator.java"
           } ]
         }, {
           "@type" : "group",
@@ -1157,14 +1157,14 @@
               "name" : "L2/M0/L1/M6/L0/M0",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.AbstractFormatDependencyDumper_java"
+                "name" : "depends/format/AbstractFormatDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M6/L0/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.FileAttributes_java"
+                "name" : "depends/format/FileAttributes.java"
               } ]
             } ]
           }, {
@@ -1181,14 +1181,14 @@
                   "name" : "L2/M0/L1/M6/L1/M0/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.format.xml.XmlFormatDependencyDumper_java"
+                    "name" : "depends/format/xml/XmlFormatDependencyDumper.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L2/M0/L1/M6/L1/M0/L0/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.format.xml.XFiles_java"
+                    "name" : "depends/format/xml/XFiles.java"
                   } ]
                 }, {
                   "@type" : "group",
@@ -1198,21 +1198,21 @@
                     "name" : "L2/M0/L1/M6/L1/M0/L0/M2/M0",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.format.xml.XDepend_java"
+                      "name" : "depends/format/xml/XDepend.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L2/M0/L1/M6/L1/M0/L0/M2/M1",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.format.xml.XCell_java"
+                      "name" : "depends/format/xml/XCell.java"
                     } ]
                   }, {
                     "@type" : "group",
                     "name" : "L2/M0/L1/M6/L1/M0/L0/M2/M2",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "depends.format.xml.XCells_java"
+                      "name" : "depends/format/xml/XCells.java"
                     } ]
                   } ]
                 } ]
@@ -1224,14 +1224,14 @@
                   "name" : "L2/M0/L1/M6/L1/M0/Control/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.format.xml.XDepObject_java"
+                    "name" : "depends/format/xml/XDepObject.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L2/M0/L1/M6/L1/M0/Control/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "depends.format.xml.XDataBuilder_java"
+                    "name" : "depends/format/xml/XDataBuilder.java"
                   } ]
                 } ]
               } ]
@@ -1240,35 +1240,35 @@
               "name" : "L2/M0/L1/M6/L1/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.plantuml.PlantUmlFormatDependencyDumper_java"
+                "name" : "depends/format/plantuml/PlantUmlFormatDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M6/L1/M2",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.dot.DotFullnameDependencyDumper_java"
+                "name" : "depends/format/dot/DotFullnameDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M6/L1/M3",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.dot.DotFormatDependencyDumper_java"
+                "name" : "depends/format/dot/DotFormatDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M6/L1/M4",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.detail.DetailTextFormatDependencyDumper_java"
+                "name" : "depends/format/detail/DetailTextFormatDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M6/L1/M5",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.plantuml.BriefPlantUmlFormatDependencyDumper_java"
+                "name" : "depends/format/plantuml/BriefPlantUmlFormatDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
@@ -1278,35 +1278,35 @@
                 "name" : "L2/M0/L1/M6/L1/M6/M0",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.format.json.DetailItem_java"
+                  "name" : "depends/format/json/DetailItem.java"
                 } ]
               }, {
                 "@type" : "group",
                 "name" : "L2/M0/L1/M6/L1/M6/M1",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.format.json.JCellObject_java"
+                  "name" : "depends/format/json/JCellObject.java"
                 } ]
               }, {
                 "@type" : "group",
                 "name" : "L2/M0/L1/M6/L1/M6/M2",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.format.json.JDepObject_java"
+                  "name" : "depends/format/json/JDepObject.java"
                 } ]
               }, {
                 "@type" : "group",
                 "name" : "L2/M0/L1/M6/L1/M6/M3",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.format.json.JsonFormatDependencyDumper_java"
+                  "name" : "depends/format/json/JsonFormatDependencyDumper.java"
                 } ]
               }, {
                 "@type" : "group",
                 "name" : "L2/M0/L1/M6/L1/M6/M4",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "depends.format.json.JDataBuilder_java"
+                  "name" : "depends/format/json/JDataBuilder.java"
                 } ]
               } ]
             }, {
@@ -1314,14 +1314,14 @@
               "name" : "L2/M0/L1/M6/L1/M7",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.excel.ExcelXlsxFormatDependencyDumper_java"
+                "name" : "depends/format/excel/ExcelXlsxFormatDependencyDumper.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M0/L1/M6/L1/M8",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "depends.format.excel.ExcelXlsFormatDependencyDumper_java"
+                "name" : "depends/format/excel/ExcelXlsFormatDependencyDumper.java"
               } ]
             } ]
           }, {
@@ -1329,7 +1329,7 @@
             "name" : "L2/M0/L1/M6/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "depends.format.DependencyDumper_java"
+              "name" : "depends/format/DependencyDumper.java"
             } ]
           } ]
         }, {
@@ -1337,42 +1337,42 @@
           "name" : "L2/M0/L1/M7",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.format.path.WindowsPathFilenameWritter_java"
+            "name" : "depends/format/path/WindowsPathFilenameWritter.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M8",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.format.path.UnixPathFilenameWritter_java"
+            "name" : "depends/format/path/UnixPathFilenameWritter.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M9",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.format.path.DotPathFilenameWritter_java"
+            "name" : "depends/format/path/DotPathFilenameWritter.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M10",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.DependsCommand_java"
+            "name" : "depends/DependsCommand.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M11",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.addons.DV8MappingFileBuilder_java"
+            "name" : "depends/addons/DV8MappingFileBuilder.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M0/L1/M12",
           "nested" : [ {
             "@type" : "item",
-            "name" : "depends.ParameterException_java"
+            "name" : "depends/ParameterException.java"
           } ]
         } ]
       }, {
@@ -1380,7 +1380,7 @@
         "name" : "L2/M0/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "depends.Main_java"
+          "name" : "depends/Main.java"
         } ]
       } ]
     }, {
@@ -1388,14 +1388,14 @@
       "name" : "L2/M1",
       "nested" : [ {
         "@type" : "item",
-        "name" : "depends.extractor.kotlin.context.ExpressionUsage_java"
+        "name" : "depends/extractor/kotlin/context/ExpressionUsage.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L2/M2",
       "nested" : [ {
         "@type" : "item",
-        "name" : "depends.entity.AnonymousBlock_java"
+        "name" : "depends/entity/AnonymousBlock.java"
       } ]
     } ]
   }, {
@@ -1403,10 +1403,10 @@
     "name" : "Isolated",
     "nested" : [ {
       "@type" : "item",
-      "name" : "depends.extractor.cpp.cdt.ANSICParserExtensionConfigurationExtension_java"
+      "name" : "depends/extractor/cpp/cdt/ANSICParserExtensionConfigurationExtension.java"
     }, {
       "@type" : "item",
-      "name" : "depends.extractor.cpp.cdt.CommentManager_java"
+      "name" : "depends/extractor/cpp/cdt/CommentManager.java"
     } ]
   } ]
 }

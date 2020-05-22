@@ -1,1 +1,0 @@
-{"name":"depends-no-test_72.json","variables":["depends.extractor.cpp.MacroRepo_java","depends.extractor.cpp.cdt.GPPParserExtensionConfigurationExtension_java","depends.util.FileUtil_java"],"cells":[{"src":0,"dest":2,"values":{"Call":1.0,"Import":1.0,"Use":1.0}},{"src":0,"dest":1,"values":{"Call":1.0,"Import":1.0,"Create":1.0}}],"relationTypes":["Call","Import","Use","Create"]}

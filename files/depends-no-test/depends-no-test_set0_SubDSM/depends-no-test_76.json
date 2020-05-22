@@ -1,1 +1,0 @@
-{"name":"depends-no-test_76.json","variables":["depends.format.json.DetailItem_java","depends.format.json.JCellObject_java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":2.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}
