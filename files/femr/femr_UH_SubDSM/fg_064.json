@@ -1,0 +1,1 @@
+{"name":"fg_064.json","variables":["femr/data/models/core/IConceptPrescriptionAdministration.java","femr/data/models/mysql/concepts/ConceptPrescriptionAdministration.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

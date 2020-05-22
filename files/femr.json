@@ -6,7 +6,14 @@
             "type": "download",
             "data": {
                 "dsm": "femr.json",
-                "functionGroups": "femr_function_groups.zip",
+                "functionGroups": "femr_FunctionGroups.zip",
+                "downloads": [
+                    {
+                        "name": "Uses-Hierarchy Dot File",
+                        "path": "femr_UH.dot",
+                        "desc": "The dot file of Uses-Hierarchy which can be opened by GraphViz"
+                    }
+                ],
                 "url": {
                     "Source Code": "https://github.com/FEMR/femr"
                 }
@@ -22,11 +29,11 @@
         {
             "name": "Function Groups",
             "type": "pca",
-            "subDsmDownloadPath": "femr_set0_SubDSM",
+            "subDsmDownloadPath": "femr_UH_SubDSM",
             "dataFiles": [
-                "femr_set0.json",
-                "femr_set0_TopFiles.json",
-                "femr_set0_tfidf.json"
+                "femr_UH.json",
+                "femr_UH_EntryFiles.json",
+                "femr_UH_tfidf.json"
             ]
         }
     ]

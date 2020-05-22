@@ -1,0 +1,1 @@
+{"name":"fg_017.json","variables":["femr/common/models/PatientEncounterItem.java","femr/common/models/PatientItem.java"],"cells":[{"src":0,"dest":1,"values":{"Parameter":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Return","Contain","Use"]}

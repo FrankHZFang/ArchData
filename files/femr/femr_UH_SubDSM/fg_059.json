@@ -1,0 +1,1 @@
+{"name":"fg_059.json","variables":["femr/data/models/core/IConceptMedicationUnit.java","femr/data/models/core/IMedicationGeneric.java","femr/data/models/core/IMedicationGenericStrength.java"],"cells":[{"src":2,"dest":0,"values":{"Parameter":1.0,"Return":1.0}},{"src":2,"dest":1,"values":{"Parameter":1.0,"Return":1.0}}],"relationTypes":["Parameter","Return"]}

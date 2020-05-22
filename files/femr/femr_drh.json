@@ -9,118 +9,118 @@
       "name" : "L0/M0",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.PatientItem_java"
+        "name" : "femr/common/models/PatientItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M1",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.models.core.IRole_java"
+        "name" : "femr/data/models/core/IRole.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M2",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.models.core.ISystemSetting_java"
+        "name" : "femr/data/models/core/ISystemSetting.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M3",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.models.mysql.Roles_java"
+        "name" : "femr/data/models/mysql/Roles.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M4",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.util.encryptions.IPasswordEncryptor_java"
+        "name" : "femr/util/encryptions/IPasswordEncryptor.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M5",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.CityItem_java"
+        "name" : "femr/common/models/CityItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M6",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.MedicationAdministrationItem_java"
+        "name" : "femr/common/models/MedicationAdministrationItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M7",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.MedicationItem_java"
+        "name" : "femr/common/models/MedicationItem.java"
       }, {
         "@type" : "item",
-        "name" : "femr.common.models.PrescriptionItem_java"
+        "name" : "femr/common/models/PrescriptionItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M8",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.MissionTripItem_java"
+        "name" : "femr/common/models/MissionTripItem.java"
       }, {
         "@type" : "item",
-        "name" : "femr.common.dtos.ServiceResponse_java"
+        "name" : "femr/common/dtos/ServiceResponse.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M9",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.NoteItem_java"
+        "name" : "femr/common/models/NoteItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M10",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.PhotoItem_java"
+        "name" : "femr/common/models/PhotoItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M11",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.ProblemItem_java"
+        "name" : "femr/common/models/ProblemItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M12",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.SettingItem_java"
+        "name" : "femr/common/models/SettingItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M13",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.TabFieldItem_java"
+        "name" : "femr/common/models/TabFieldItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M14",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.VitalItem_java"
+        "name" : "femr/common/models/VitalItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L0/M15",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.triage.DeleteViewModelPost_java"
+        "name" : "femr/ui/models/triage/DeleteViewModelPost.java"
       } ]
     } ]
   }, {
@@ -134,21 +134,21 @@
         "name" : "L1/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.common.models.PatientEncounterItem_java"
+          "name" : "femr/common/models/PatientEncounterItem.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L1/M0/M1",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.calculations.dateUtils_java"
+          "name" : "femr/util/calculations/dateUtils.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L1/M0/M2",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.stringhelpers.StringUtils_java"
+          "name" : "femr/util/stringhelpers/StringUtils.java"
         } ]
       } ]
     }, {
@@ -156,52 +156,52 @@
       "name" : "L1/M1",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.models.core.IUser_java"
+        "name" : "femr/data/models/core/IUser.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M2",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.MissionItem_java"
+        "name" : "femr/common/models/MissionItem.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M3",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.ISessionService_java"
+        "name" : "femr/business/services/core/ISessionService.java"
       }, {
         "@type" : "item",
-        "name" : "femr.common.dtos.CurrentUser_java"
+        "name" : "femr/common/dtos/CurrentUser.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M4",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IConceptService_java"
+        "name" : "femr/business/services/core/IConceptService.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M5",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IConfigureService_java"
+        "name" : "femr/business/services/core/IConfigureService.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M6",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IInventoryService_java"
+        "name" : "femr/business/services/core/IInventoryService.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M7",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IMedicationService_java"
+        "name" : "femr/business/services/core/IMedicationService.java"
       } ]
     }, {
       "@type" : "group",
@@ -220,17 +220,17 @@
               "name" : "L1/M8/L0/M0/L0/M0",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.ui.models.research.json.ResearchGraphDataModel_java"
+                "name" : "femr/ui/models/research/json/ResearchGraphDataModel.java"
               }, {
                 "@type" : "item",
-                "name" : "femr.ui.models.research.json.ResearchItemModel_java"
+                "name" : "femr/ui/models/research/json/ResearchItemModel.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L1/M8/L0/M0/L0/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.common.models.ResearchFilterItem_java"
+                "name" : "femr/common/models/ResearchFilterItem.java"
               } ]
             } ]
           }, {
@@ -238,7 +238,7 @@
             "name" : "L1/M8/L0/M0/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.business.services.core.IResearchService_java"
+              "name" : "femr/business/services/core/IResearchService.java"
             } ]
           } ]
         }, {
@@ -246,10 +246,10 @@
           "name" : "L1/M8/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.common.models.ResearchResultSetItem_java"
+            "name" : "femr/common/models/ResearchResultSetItem.java"
           }, {
             "@type" : "item",
-            "name" : "femr.common.models.ResearchResultItem_java"
+            "name" : "femr/common/models/ResearchResultItem.java"
           } ]
         } ]
       } ]
@@ -258,21 +258,21 @@
       "name" : "L1/M9",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IRoleService_java"
+        "name" : "femr/business/services/core/IRoleService.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M10",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.ISearchService_java"
+        "name" : "femr/business/services/core/ISearchService.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L1/M11",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.common.models.TabItem_java"
+        "name" : "femr/common/models/TabItem.java"
       } ]
     } ]
   }, {
@@ -283,17 +283,17 @@
       "name" : "L2/M0",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.medical.EditViewModelPost_java"
+        "name" : "femr/ui/models/medical/EditViewModelPost.java"
       }, {
         "@type" : "item",
-        "name" : "femr.business.services.core.IPhotoService_java"
+        "name" : "femr/business/services/core/IPhotoService.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L2/M1",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.util.DataStructure.Mapping.AbstractMultiMap_java"
+        "name" : "femr/util/DataStructure/Mapping/AbstractMultiMap.java"
       } ]
     }, {
       "@type" : "group",
@@ -306,17 +306,17 @@
           "name" : "L2/M2/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.IMissionTeam_java"
+            "name" : "femr/data/models/core/IMissionTeam.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M2/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.IMissionCountry_java"
+            "name" : "femr/data/models/core/IMissionCountry.java"
           }, {
             "@type" : "item",
-            "name" : "femr.data.models.core.IMissionCity_java"
+            "name" : "femr/data/models/core/IMissionCity.java"
           } ]
         } ]
       }, {
@@ -333,14 +333,14 @@
               "name" : "L2/M2/L1/M0/L0/M0",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.mysql.Role_java"
+                "name" : "femr/data/models/mysql/Role.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L2/M2/L1/M0/L0/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.core.IMissionTrip_java"
+                "name" : "femr/data/models/core/IMissionTrip.java"
               } ]
             } ]
           }, {
@@ -348,7 +348,7 @@
             "name" : "L2/M2/L1/M0/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.mysql.User_java"
+              "name" : "femr/data/models/mysql/User.java"
             } ]
           } ]
         }, {
@@ -356,17 +356,17 @@
           "name" : "L2/M2/L1/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.MissionTeam_java"
+            "name" : "femr/data/models/mysql/MissionTeam.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L2/M2/L1/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.MissionCountry_java"
+            "name" : "femr/data/models/mysql/MissionCountry.java"
           }, {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.MissionCity_java"
+            "name" : "femr/data/models/mysql/MissionCity.java"
           } ]
         } ]
       }, {
@@ -374,7 +374,7 @@
         "name" : "L2/M2/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.mysql.MissionTrip_java"
+          "name" : "femr/data/models/mysql/MissionTrip.java"
         } ]
       } ]
     }, {
@@ -382,10 +382,10 @@
       "name" : "L2/M3",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IUserService_java"
+        "name" : "femr/business/services/core/IUserService.java"
       }, {
         "@type" : "item",
-        "name" : "femr.common.models.UserItem_java"
+        "name" : "femr/common/models/UserItem.java"
       } ]
     } ]
   }, {
@@ -396,20 +396,20 @@
       "name" : "L3/M0",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.ITabService_java"
+        "name" : "femr/business/services/core/ITabService.java"
       }, {
         "@type" : "item",
-        "name" : "femr.util.DataStructure.Mapping.TabFieldMultiMap_java"
+        "name" : "femr/util/DataStructure/Mapping/TabFieldMultiMap.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L3/M1",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IVitalService_java"
+        "name" : "femr/business/services/core/IVitalService.java"
       }, {
         "@type" : "item",
-        "name" : "femr.util.DataStructure.Mapping.VitalMultiMap_java"
+        "name" : "femr/util/DataStructure/Mapping/VitalMultiMap.java"
       } ]
     }, {
       "@type" : "group",
@@ -422,17 +422,17 @@
           "name" : "L3/M2/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.IPatientAgeClassification_java"
+            "name" : "femr/data/models/core/IPatientAgeClassification.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L3/M2/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.IPhoto_java"
+            "name" : "femr/data/models/core/IPhoto.java"
           }, {
             "@type" : "item",
-            "name" : "femr.data.models.core.IPatient_java"
+            "name" : "femr/data/models/core/IPatient.java"
           } ]
         } ]
       }, {
@@ -446,21 +446,21 @@
             "name" : "L3/M2/L1/M0/M0",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.IPatientEncounter_java"
+              "name" : "femr/data/models/core/IPatientEncounter.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L3/M2/L1/M0/M1",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.IChiefComplaint_java"
+              "name" : "femr/data/models/core/IChiefComplaint.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L3/M2/L1/M0/M2",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.mysql.ChiefComplaint_java"
+              "name" : "femr/data/models/mysql/ChiefComplaint.java"
             } ]
           } ]
         }, {
@@ -468,17 +468,17 @@
           "name" : "L3/M2/L1/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.Photo_java"
+            "name" : "femr/data/models/mysql/Photo.java"
           }, {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.Patient_java"
+            "name" : "femr/data/models/mysql/Patient.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L3/M2/L1/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.PatientAgeClassification_java"
+            "name" : "femr/data/models/mysql/PatientAgeClassification.java"
           } ]
         } ]
       }, {
@@ -486,7 +486,7 @@
         "name" : "L3/M2/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.mysql.PatientEncounter_java"
+          "name" : "femr/data/models/mysql/PatientEncounter.java"
         } ]
       } ]
     }, {
@@ -500,14 +500,14 @@
           "name" : "L3/M3/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.common.models.TripItem_java"
+            "name" : "femr/common/models/TripItem.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L3/M3/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.common.models.TeamItem_java"
+            "name" : "femr/common/models/TeamItem.java"
           } ]
         } ]
       }, {
@@ -515,7 +515,7 @@
         "name" : "L3/M3/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.business.services.core.IMissionTripService_java"
+          "name" : "femr/business/services/core/IMissionTripService.java"
         } ]
       } ]
     }, {
@@ -526,17 +526,17 @@
         "name" : "L3/M4/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.helpers.security.AllowedRoles_java"
+          "name" : "femr/ui/helpers/security/AllowedRoles.java"
         }, {
           "@type" : "item",
-          "name" : "femr.ui.helpers.security.AllowedRolesAction_java"
+          "name" : "femr/ui/helpers/security/AllowedRolesAction.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L3/M4/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.helpers.security.FEMRAuthenticated_java"
+          "name" : "femr/ui/helpers/security/FEMRAuthenticated.java"
         } ]
       } ]
     } ]
@@ -554,7 +554,7 @@
           "name" : "L4/M0/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.IConceptPrescriptionAdministration_java"
+            "name" : "femr/data/models/core/IConceptPrescriptionAdministration.java"
           } ]
         } ]
       }, {
@@ -571,7 +571,7 @@
               "name" : "L4/M0/L1/M0/L0/M0",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.core.IConceptMedicationForm_java"
+                "name" : "femr/data/models/core/IConceptMedicationForm.java"
               } ]
             } ]
           }, {
@@ -588,7 +588,7 @@
                   "name" : "L4/M0/L1/M0/L1/M0/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.core.IPatientPrescriptionReplacementReason_java"
+                    "name" : "femr/data/models/core/IPatientPrescriptionReplacementReason.java"
                   } ]
                 } ]
               }, {
@@ -605,7 +605,7 @@
                       "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L0/M0",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "femr.data.models.core.IMedication_java"
+                        "name" : "femr/data/models/core/IMedication.java"
                       } ]
                     } ]
                   }, {
@@ -616,17 +616,17 @@
                       "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L1/M0",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "femr.data.models.core.IMedicationInventory_java"
+                        "name" : "femr/data/models/core/IMedicationInventory.java"
                       } ]
                     }, {
                       "@type" : "group",
                       "name" : "L4/M0/L1/M0/L1/M0/L1/M0/L1/M1",
                       "nested" : [ {
                         "@type" : "item",
-                        "name" : "femr.data.models.core.IPatientPrescription_java"
+                        "name" : "femr/data/models/core/IPatientPrescription.java"
                       }, {
                         "@type" : "item",
-                        "name" : "femr.data.models.core.IPatientPrescriptionReplacement_java"
+                        "name" : "femr/data/models/core/IPatientPrescriptionReplacement.java"
                       } ]
                     } ]
                   }, {
@@ -634,7 +634,7 @@
                     "name" : "L4/M0/L1/M0/L1/M0/L1/M0/Control",
                     "nested" : [ {
                       "@type" : "item",
-                      "name" : "femr.data.models.mysql.MedicationInventory_java"
+                      "name" : "femr/data/models/mysql/MedicationInventory.java"
                     } ]
                   } ]
                 }, {
@@ -642,7 +642,7 @@
                   "name" : "L4/M0/L1/M0/L1/M0/L1/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.mysql.PatientPrescriptionReplacementReason_java"
+                    "name" : "femr/data/models/mysql/PatientPrescriptionReplacementReason.java"
                   } ]
                 } ]
               }, {
@@ -650,7 +650,7 @@
                 "name" : "L4/M0/L1/M0/L1/M0/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "femr.data.models.mysql.PatientPrescriptionReplacement_java"
+                  "name" : "femr/data/models/mysql/PatientPrescriptionReplacement.java"
                 } ]
               } ]
             }, {
@@ -664,14 +664,14 @@
                   "name" : "L4/M0/L1/M0/L1/M1/L0/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.core.IMedicationGeneric_java"
+                    "name" : "femr/data/models/core/IMedicationGeneric.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L4/M0/L1/M0/L1/M1/L0/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.core.IConceptMedicationUnit_java"
+                    "name" : "femr/data/models/core/IConceptMedicationUnit.java"
                   } ]
                 } ]
               }, {
@@ -682,21 +682,21 @@
                   "name" : "L4/M0/L1/M0/L1/M1/L1/M0",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.core.IMedicationGenericStrength_java"
+                    "name" : "femr/data/models/core/IMedicationGenericStrength.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L4/M0/L1/M0/L1/M1/L1/M1",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.mysql.concepts.ConceptMedicationUnit_java"
+                    "name" : "femr/data/models/mysql/concepts/ConceptMedicationUnit.java"
                   } ]
                 }, {
                   "@type" : "group",
                   "name" : "L4/M0/L1/M0/L1/M1/L1/M2",
                   "nested" : [ {
                     "@type" : "item",
-                    "name" : "femr.data.models.mysql.MedicationGeneric_java"
+                    "name" : "femr/data/models/mysql/MedicationGeneric.java"
                   } ]
                 } ]
               }, {
@@ -704,7 +704,7 @@
                 "name" : "L4/M0/L1/M0/L1/M1/Control",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "femr.data.models.mysql.MedicationGenericStrength_java"
+                  "name" : "femr/data/models/mysql/MedicationGenericStrength.java"
                 } ]
               } ]
             }, {
@@ -712,7 +712,7 @@
               "name" : "L4/M0/L1/M0/L1/M2",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.mysql.concepts.ConceptMedicationForm_java"
+                "name" : "femr/data/models/mysql/concepts/ConceptMedicationForm.java"
               } ]
             } ]
           }, {
@@ -720,7 +720,7 @@
             "name" : "L4/M0/L1/M0/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.mysql.Medication_java"
+              "name" : "femr/data/models/mysql/Medication.java"
             } ]
           } ]
         }, {
@@ -728,7 +728,7 @@
           "name" : "L4/M0/L1/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.concepts.ConceptPrescriptionAdministration_java"
+            "name" : "femr/data/models/mysql/concepts/ConceptPrescriptionAdministration.java"
           } ]
         } ]
       }, {
@@ -736,14 +736,14 @@
         "name" : "L4/M0/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.mysql.PatientPrescription_java"
+          "name" : "femr/data/models/mysql/PatientPrescription.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L4/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.core.IVital_java"
+          "name" : "femr/data/models/core/IVital.java"
         } ]
       } ]
     }, {
@@ -757,21 +757,21 @@
           "name" : "L4/M1/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.ITabFieldSize_java"
+            "name" : "femr/data/models/core/ITabFieldSize.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L4/M1/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.ITab_java"
+            "name" : "femr/data/models/core/ITab.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L4/M1/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.ITabFieldType_java"
+            "name" : "femr/data/models/core/ITabFieldType.java"
           } ]
         } ]
       }, {
@@ -782,7 +782,7 @@
           "name" : "L4/M1/L1/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.TabFieldSize_java"
+            "name" : "femr/data/models/mysql/TabFieldSize.java"
           } ]
         }, {
           "@type" : "group",
@@ -792,21 +792,21 @@
             "name" : "L4/M1/L1/M1/M0",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.ITabField_java"
+              "name" : "femr/data/models/core/ITabField.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L4/M1/L1/M1/M1",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.IPatientEncounterTabField_java"
+              "name" : "femr/data/models/core/IPatientEncounterTabField.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L4/M1/L1/M1/M2",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.mysql.PatientEncounterTabField_java"
+              "name" : "femr/data/models/mysql/PatientEncounterTabField.java"
             } ]
           } ]
         }, {
@@ -814,14 +814,14 @@
           "name" : "L4/M1/L1/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.Tab_java"
+            "name" : "femr/data/models/mysql/Tab.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L4/M1/L1/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.TabFieldType_java"
+            "name" : "femr/data/models/mysql/TabFieldType.java"
           } ]
         } ]
       }, {
@@ -829,7 +829,7 @@
         "name" : "L4/M1/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.mysql.TabField_java"
+          "name" : "femr/data/models/mysql/TabField.java"
         } ]
       } ]
     }, {
@@ -837,14 +837,14 @@
       "name" : "L4/M2",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.helpers.LogicDoer_java"
+        "name" : "femr/business/helpers/LogicDoer.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L4/M3",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IPatientService_java"
+        "name" : "femr/business/services/core/IPatientService.java"
       } ]
     } ]
   }, {
@@ -858,17 +858,17 @@
         "name" : "L5/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.core.ILoginAttempt_java"
+          "name" : "femr/data/models/core/ILoginAttempt.java"
         }, {
           "@type" : "item",
-          "name" : "femr.data.daos.core.IUserRepository_java"
+          "name" : "femr/data/daos/core/IUserRepository.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L5/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.core.IPatientEncounterVital_java"
+          "name" : "femr/data/models/core/IPatientEncounterVital.java"
         } ]
       } ]
     }, {
@@ -885,21 +885,21 @@
             "name" : "L5/M1/L0/M0/M0",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.research.IResearchEncounter_java"
+              "name" : "femr/data/models/core/research/IResearchEncounter.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L5/M1/L0/M0/M1",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.mysql.research.ResearchEncounter_java"
+              "name" : "femr/data/models/mysql/research/ResearchEncounter.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L5/M1/L0/M0/M2",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.research.IResearchEncounterVital_java"
+              "name" : "femr/data/models/core/research/IResearchEncounterVital.java"
             } ]
           } ]
         }, {
@@ -907,7 +907,7 @@
           "name" : "L5/M1/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.Vital_java"
+            "name" : "femr/data/models/mysql/Vital.java"
           } ]
         } ]
       }, {
@@ -915,7 +915,7 @@
         "name" : "L5/M1/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.models.mysql.research.ResearchEncounterVital_java"
+          "name" : "femr/data/models/mysql/research/ResearchEncounterVital.java"
         } ]
       } ]
     }, {
@@ -923,7 +923,7 @@
       "name" : "L5/M2",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.business.services.core.IEncounterService_java"
+        "name" : "femr/business/services/core/IEncounterService.java"
       } ]
     } ]
   }, {
@@ -934,7 +934,7 @@
       "name" : "L6/M0",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.IDataModelMapper_java"
+        "name" : "femr/data/IDataModelMapper.java"
       } ]
     }, {
       "@type" : "group",
@@ -953,24 +953,24 @@
               "name" : "L6/M1/L0/M0/L0/M0",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.mysql.SystemSetting_java"
+                "name" : "femr/data/models/mysql/SystemSetting.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L6/M1/L0/M0/L0/M1",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.mysql.PatientEncounterVital_java"
+                "name" : "femr/data/models/mysql/PatientEncounterVital.java"
               } ]
             }, {
               "@type" : "group",
               "name" : "L6/M1/L0/M0/L0/M2",
               "nested" : [ {
                 "@type" : "item",
-                "name" : "femr.data.models.mysql.PatientEncounterPhoto_java"
+                "name" : "femr/data/models/mysql/PatientEncounterPhoto.java"
               }, {
                 "@type" : "item",
-                "name" : "femr.data.models.core.IPatientEncounterPhoto_java"
+                "name" : "femr/data/models/core/IPatientEncounterPhoto.java"
               } ]
             }, {
               "@type" : "group",
@@ -980,21 +980,21 @@
                 "name" : "L6/M1/L0/M0/L0/M3/M0",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "femr.data.models.mysql.concepts.ConceptMedicationGeneric_java"
+                  "name" : "femr/data/models/mysql/concepts/ConceptMedicationGeneric.java"
                 } ]
               }, {
                 "@type" : "group",
                 "name" : "L6/M1/L0/M0/L0/M3/M1",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "femr.data.models.mysql.concepts.ConceptMedicationGenericStrength_java"
+                  "name" : "femr/data/models/mysql/concepts/ConceptMedicationGenericStrength.java"
                 } ]
               }, {
                 "@type" : "group",
                 "name" : "L6/M1/L0/M0/L0/M3/M2",
                 "nested" : [ {
                   "@type" : "item",
-                  "name" : "femr.data.models.mysql.concepts.ConceptMedication_java"
+                  "name" : "femr/data/models/mysql/concepts/ConceptMedication.java"
                 } ]
               } ]
             } ]
@@ -1003,7 +1003,7 @@
             "name" : "L6/M1/L0/M0/Control",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.business.helpers.QueryProvider_java"
+              "name" : "femr/business/helpers/QueryProvider.java"
             } ]
           } ]
         }, {
@@ -1011,10 +1011,10 @@
           "name" : "L6/M1/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.models.core.IConceptDiagnosis_java"
+            "name" : "femr/data/models/core/IConceptDiagnosis.java"
           }, {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.concepts.ConceptDiagnosis_java"
+            "name" : "femr/data/models/mysql/concepts/ConceptDiagnosis.java"
           } ]
         } ]
       }, {
@@ -1022,14 +1022,14 @@
         "name" : "L6/M1/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.daos.core.IPatientRepository_java"
+          "name" : "femr/data/daos/core/IPatientRepository.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L6/M1/M1",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.data.daos.IRepository_java"
+          "name" : "femr/data/daos/IRepository.java"
         } ]
       } ]
     } ]
@@ -1044,17 +1044,17 @@
         "name" : "L7/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.business.wrappers.sessions.ISessionHelper_java"
+          "name" : "femr/business/wrappers/sessions/ISessionHelper.java"
         }, {
           "@type" : "item",
-          "name" : "femr.business.services.system.SessionService_java"
+          "name" : "femr/business/services/system/SessionService.java"
         } ]
       }, {
         "@type" : "group",
         "name" : "L7/M0/M0",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.common.IItemModelMapper_java"
+          "name" : "femr/common/IItemModelMapper.java"
         } ]
       } ]
     }, {
@@ -1062,28 +1062,28 @@
       "name" : "L7/M1",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.daos.core.IMedicationRepository_java"
+        "name" : "femr/data/daos/core/IMedicationRepository.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L7/M2",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.daos.core.IEncounterRepository_java"
+        "name" : "femr/data/daos/core/IEncounterRepository.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L7/M3",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.daos.core.IPrescriptionRepository_java"
+        "name" : "femr/data/daos/core/IPrescriptionRepository.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L7/M4",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.data.daos.core.IPhotoRepository_java"
+        "name" : "femr/data/daos/core/IPhotoRepository.java"
       } ]
     } ]
   }, {
@@ -1100,7 +1100,7 @@
           "name" : "L8/M0/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.InternetConnnection.InternetConnectionUtil_java"
+            "name" : "femr/util/InternetConnnection/InternetConnectionUtil.java"
           } ]
         } ]
       }, {
@@ -1111,28 +1111,28 @@
           "name" : "L8/M0/L1/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.encryptions.BCryptPasswordEncryptor_java"
+            "name" : "femr/util/encryptions/BCryptPasswordEncryptor.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M0/L1/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.tasks.SendLocationDataTask_java"
+            "name" : "femr/util/tasks/SendLocationDataTask.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M0/L1/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.tasks.MaintainReverseSshTunnelTask_java"
+            "name" : "femr/util/tasks/MaintainReverseSshTunnelTask.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M0/L1/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.tasks.CheckInternetConnectionTask_java"
+            "name" : "femr/util/tasks/CheckInternetConnectionTask.java"
           } ]
         } ]
       }, {
@@ -1140,7 +1140,7 @@
         "name" : "L8/M0/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.dependencyinjection.modules.UtilitiesModule_java"
+          "name" : "femr/util/dependencyinjection/modules/UtilitiesModule.java"
         } ]
       } ]
     }, {
@@ -1154,21 +1154,21 @@
           "name" : "L8/M1/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.stringhelpers.GsonFlattener_java"
+            "name" : "femr/util/stringhelpers/GsonFlattener.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.stringhelpers.CSVWriterGson_java"
+            "name" : "femr/util/stringhelpers/CSVWriterGson.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.calculations.LocaleUnitConverter_java"
+            "name" : "femr/util/calculations/LocaleUnitConverter.java"
           } ]
         } ]
       }, {
@@ -1182,21 +1182,21 @@
             "name" : "L8/M1/L1/M0/M0",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.core.IFeedback_java"
+              "name" : "femr/data/models/core/IFeedback.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L8/M1/L1/M0/M1",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.data.models.mysql.Feedback_java"
+              "name" : "femr/data/models/mysql/Feedback.java"
             } ]
           }, {
             "@type" : "group",
             "name" : "L8/M1/L1/M0/M2",
             "nested" : [ {
               "@type" : "item",
-              "name" : "femr.business.services.system.UserService_java"
+              "name" : "femr/business/services/system/UserService.java"
             } ]
           } ]
         }, {
@@ -1204,107 +1204,107 @@
           "name" : "L8/M1/L1/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.InventoryService_java"
+            "name" : "femr/business/services/system/InventoryService.java"
           }, {
             "@type" : "item",
-            "name" : "femr.common.models.InventoryExportItem_java"
+            "name" : "femr/common/models/InventoryExportItem.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.wrappers.sessions.SessionHelper_java"
+            "name" : "femr/business/wrappers/sessions/SessionHelper.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.VitalService_java"
+            "name" : "femr/business/services/system/VitalService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M4",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.TabService_java"
+            "name" : "femr/business/services/system/TabService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M5",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.SearchService_java"
+            "name" : "femr/business/services/system/SearchService.java"
           }, {
             "@type" : "item",
-            "name" : "femr.business.helpers.QueryHelper_java"
+            "name" : "femr/business/helpers/QueryHelper.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M6",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.RoleService_java"
+            "name" : "femr/business/services/system/RoleService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M7",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.common.models.ResearchExportItem_java"
+            "name" : "femr/common/models/ResearchExportItem.java"
           }, {
             "@type" : "item",
-            "name" : "femr.business.services.system.ResearchService_java"
+            "name" : "femr/business/services/system/ResearchService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M8",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.PhotoService_java"
+            "name" : "femr/business/services/system/PhotoService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M9",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.PatientService_java"
+            "name" : "femr/business/services/system/PatientService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M10",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.MissionTripService_java"
+            "name" : "femr/business/services/system/MissionTripService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M11",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.MedicationService_java"
+            "name" : "femr/business/services/system/MedicationService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M12",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.EncounterService_java"
+            "name" : "femr/business/services/system/EncounterService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M13",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.ConfigureService_java"
+            "name" : "femr/business/services/system/ConfigureService.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M1/L1/M14",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.business.services.system.ConceptService_java"
+            "name" : "femr/business/services/system/ConceptService.java"
           } ]
         } ]
       }, {
@@ -1312,7 +1312,7 @@
         "name" : "L8/M1/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.dependencyinjection.modules.BusinessLayerModule_java"
+          "name" : "femr/util/dependencyinjection/modules/BusinessLayerModule.java"
         } ]
       } ]
     }, {
@@ -1326,14 +1326,14 @@
           "name" : "L8/M2/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.startup.MedicationDatabaseSeeder_java"
+            "name" : "femr/util/startup/MedicationDatabaseSeeder.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M2/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.startup.DatabaseSeeder_java"
+            "name" : "femr/util/startup/DatabaseSeeder.java"
           } ]
         } ]
       }, {
@@ -1341,7 +1341,7 @@
         "name" : "L8/M2/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.dependencyinjection.modules.SeederModule_java"
+          "name" : "femr/util/dependencyinjection/modules/SeederModule.java"
         } ]
       } ]
     }, {
@@ -1349,10 +1349,10 @@
       "name" : "L8/M3",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.util.filters.ResearchFilter_java"
+        "name" : "femr/util/filters/ResearchFilter.java"
       }, {
         "@type" : "item",
-        "name" : "femr.util.filters.Filters_java"
+        "name" : "femr/util/filters/Filters.java"
       } ]
     }, {
       "@type" : "group",
@@ -1365,283 +1365,283 @@
           "name" : "L8/M4/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.Repository_java"
+            "name" : "femr/data/daos/Repository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.system.UserRepository_java"
+            "name" : "femr/data/daos/system/UserRepository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.system.PrescriptionRepository_java"
+            "name" : "femr/data/daos/system/PrescriptionRepository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.system.PhotoRepository_java"
+            "name" : "femr/data/daos/system/PhotoRepository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M4",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.system.PatientRepository_java"
+            "name" : "femr/data/daos/system/PatientRepository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M5",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.system.MedicationRepository_java"
+            "name" : "femr/data/daos/system/MedicationRepository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M6",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.VitalProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/VitalProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M7",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.UserProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/UserProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M8",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.TabProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/TabProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M9",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.TabFieldTypeProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/TabFieldTypeProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M10",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.LoginAttemptProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/LoginAttemptProvider.java"
           }, {
             "@type" : "item",
-            "name" : "femr.data.models.mysql.LoginAttempt_java"
+            "name" : "femr/data/models/mysql/LoginAttempt.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M11",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.TabFieldSizeProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/TabFieldSizeProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M12",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.TabFieldProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/TabFieldProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M13",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.SystemSettingProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/SystemSettingProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M14",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.RoleProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/RoleProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M15",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.ResearchEncounterProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/ResearchEncounterProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M16",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PhotoProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PhotoProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M17",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M18",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientPrescriptionReplacementReasonProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientPrescriptionReplacementReasonProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M19",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientPrescriptionReplacementProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientPrescriptionReplacementProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M20",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientPrescriptionProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientPrescriptionProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M21",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientEncounterVitalProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientEncounterVitalProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M22",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientEncounterTabFieldProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientEncounterTabFieldProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M23",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientEncounterProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientEncounterProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M24",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientEncounterPhotoProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientEncounterPhotoProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M25",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.PatientAgeClassificationProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/PatientAgeClassificationProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M26",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MissionTripProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MissionTripProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M27",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MissionTeamProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MissionTeamProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M28",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MissionCountryProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MissionCountryProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M29",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MissionCityProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MissionCityProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M30",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MedicationProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MedicationProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M31",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MedicationInventoryProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MedicationInventoryProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M32",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MedicationGenericStrengthProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MedicationGenericStrengthProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M33",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.MedicationGenericProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/MedicationGenericProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M34",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.ConceptPrescriptionAdministrationProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/ConceptPrescriptionAdministrationProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M35",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.ConceptMedicationUnitProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/ConceptMedicationUnitProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M36",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.ConceptMedicationFormProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/ConceptMedicationFormProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M37",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.ConceptDiagnosisProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/ConceptDiagnosisProvider.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M38",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.daos.system.EncounterRepository_java"
+            "name" : "femr/data/daos/system/EncounterRepository.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M4/L0/M39",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.util.dependencyinjection.providers.ChiefComplaintProvider_java"
+            "name" : "femr/util/dependencyinjection/providers/ChiefComplaintProvider.java"
           } ]
         } ]
       }, {
@@ -1649,7 +1649,7 @@
         "name" : "L8/M4/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.dependencyinjection.modules.DataLayerModule_java"
+          "name" : "femr/util/dependencyinjection/modules/DataLayerModule.java"
         } ]
       } ]
     }, {
@@ -1657,7 +1657,7 @@
       "name" : "L8/M5",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.util.dependencyinjection.providers.ResearchEncounterVitalProvider_java"
+        "name" : "femr/util/dependencyinjection/providers/ResearchEncounterVitalProvider.java"
       } ]
     }, {
       "@type" : "group",
@@ -1670,14 +1670,14 @@
           "name" : "L8/M6/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.data.DataModelMapper_java"
+            "name" : "femr/data/DataModelMapper.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M6/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.common.ItemModelMapper_java"
+            "name" : "femr/common/ItemModelMapper.java"
           } ]
         } ]
       }, {
@@ -1685,7 +1685,7 @@
         "name" : "L8/M6/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.util.dependencyinjection.modules.MapperModule_java"
+          "name" : "femr/util/dependencyinjection/modules/MapperModule.java"
         } ]
       } ]
     }, {
@@ -1693,7 +1693,7 @@
       "name" : "L8/M7",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.views.partials.helpers.AuthenticatedPartialHelper_java"
+        "name" : "femr/ui/views/partials/helpers/AuthenticatedPartialHelper.java"
       } ]
     }, {
       "@type" : "group",
@@ -1706,14 +1706,14 @@
           "name" : "L8/M8/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.triage.IndexViewModelPost_java"
+            "name" : "femr/ui/models/triage/IndexViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M8/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.triage.IndexViewModelGet_java"
+            "name" : "femr/ui/models/triage/IndexViewModelGet.java"
           } ]
         } ]
       }, {
@@ -1721,7 +1721,7 @@
         "name" : "L8/M8/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.TriageController_java"
+          "name" : "femr/ui/controllers/TriageController.java"
         } ]
       } ]
     }, {
@@ -1729,7 +1729,7 @@
       "name" : "L8/M9",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.triage.EditViewModelPost_java"
+        "name" : "femr/ui/models/triage/EditViewModelPost.java"
       } ]
     }, {
       "@type" : "group",
@@ -1742,28 +1742,28 @@
           "name" : "L8/M10/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.superuser.TabsViewModelPost_java"
+            "name" : "femr/ui/models/superuser/TabsViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M10/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.superuser.TabsViewModelGet_java"
+            "name" : "femr/ui/models/superuser/TabsViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M10/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.superuser.ContentViewModelPost_java"
+            "name" : "femr/ui/models/superuser/ContentViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M10/L0/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.superuser.ContentViewModelGet_java"
+            "name" : "femr/ui/models/superuser/ContentViewModelGet.java"
           } ]
         } ]
       }, {
@@ -1771,7 +1771,7 @@
         "name" : "L8/M10/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.superuser.TabController_java"
+          "name" : "femr/ui/controllers/superuser/TabController.java"
         } ]
       } ]
     }, {
@@ -1779,10 +1779,10 @@
       "name" : "L8/M11",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.sessions.CreateViewModel_java"
+        "name" : "femr/ui/models/sessions/CreateViewModel.java"
       }, {
         "@type" : "item",
-        "name" : "femr.ui.controllers.SessionsController_java"
+        "name" : "femr/ui/controllers/SessionsController.java"
       } ]
     }, {
       "@type" : "group",
@@ -1795,14 +1795,14 @@
           "name" : "L8/M12/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.search.json.PatientSearch_java"
+            "name" : "femr/ui/models/search/json/PatientSearch.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M12/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.search.json.CitySearch_java"
+            "name" : "femr/ui/models/search/json/CitySearch.java"
           } ]
         } ]
       }, {
@@ -1810,7 +1810,7 @@
         "name" : "L8/M12/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.SearchController_java"
+          "name" : "femr/ui/controllers/SearchController.java"
         } ]
       } ]
     }, {
@@ -1818,10 +1818,10 @@
       "name" : "L8/M13",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.research.FilterViewModel_java"
+        "name" : "femr/ui/models/research/FilterViewModel.java"
       }, {
         "@type" : "item",
-        "name" : "femr.ui.controllers.ResearchController_java"
+        "name" : "femr/ui/controllers/ResearchController.java"
       } ]
     }, {
       "@type" : "group",
@@ -1834,14 +1834,14 @@
           "name" : "L8/M14/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.pharmacy.EditViewModelPost_java"
+            "name" : "femr/ui/models/pharmacy/EditViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M14/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.pharmacy.EditViewModelGet_java"
+            "name" : "femr/ui/models/pharmacy/EditViewModelGet.java"
           } ]
         } ]
       }, {
@@ -1849,7 +1849,7 @@
         "name" : "L8/M14/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.PharmaciesController_java"
+          "name" : "femr/ui/controllers/PharmaciesController.java"
         } ]
       } ]
     }, {
@@ -1863,21 +1863,21 @@
           "name" : "L8/M15/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.medical.UpdateVitalsModel_java"
+            "name" : "femr/ui/models/medical/UpdateVitalsModel.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M15/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.medical.EditViewModelGet_java"
+            "name" : "femr/ui/models/medical/EditViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M15/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.controllers.helpers.FieldHelper_java"
+            "name" : "femr/ui/controllers/helpers/FieldHelper.java"
           } ]
         } ]
       }, {
@@ -1885,7 +1885,7 @@
         "name" : "L8/M15/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.MedicalController_java"
+          "name" : "femr/ui/controllers/MedicalController.java"
         } ]
       } ]
     }, {
@@ -1893,10 +1893,10 @@
       "name" : "L8/M16",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.manager.IndexViewModelGet_java"
+        "name" : "femr/ui/models/manager/IndexViewModelGet.java"
       }, {
         "@type" : "item",
-        "name" : "femr.ui.controllers.manager.ManagerController_java"
+        "name" : "femr/ui/controllers/manager/ManagerController.java"
       } ]
     }, {
       "@type" : "group",
@@ -1909,35 +1909,35 @@
           "name" : "L8/M17/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.history.fieldValueViewModel_java"
+            "name" : "femr/ui/models/history/fieldValueViewModel.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M17/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.history.IndexPatientViewModelGet_java"
+            "name" : "femr/ui/models/history/IndexPatientViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M17/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.history.IndexEncounterViewModel_java"
+            "name" : "femr/ui/models/history/IndexEncounterViewModel.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M17/L0/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.history.IndexEncounterPharmacyViewModel_java"
+            "name" : "femr/ui/models/history/IndexEncounterPharmacyViewModel.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M17/L0/M4",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.history.IndexEncounterMedicalViewModel_java"
+            "name" : "femr/ui/models/history/IndexEncounterMedicalViewModel.java"
           } ]
         } ]
       }, {
@@ -1945,7 +1945,7 @@
         "name" : "L8/M17/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.HistoryController_java"
+          "name" : "femr/ui/controllers/HistoryController.java"
         } ]
       } ]
     }, {
@@ -1953,10 +1953,10 @@
       "name" : "L8/M18",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.FeedbackController_java"
+        "name" : "femr/ui/controllers/FeedbackController.java"
       }, {
         "@type" : "item",
-        "name" : "femr.ui.models.feedback.IndexViewModelPost_java"
+        "name" : "femr/ui/models/feedback/IndexViewModelPost.java"
       } ]
     }, {
       "@type" : "group",
@@ -1969,21 +1969,21 @@
           "name" : "L8/M19/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.users.ManageViewModelGet_java"
+            "name" : "femr/ui/models/admin/users/ManageViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M19/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.users.EditViewModel_java"
+            "name" : "femr/ui/models/admin/users/EditViewModel.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M19/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.users.CreateViewModel_java"
+            "name" : "femr/ui/models/admin/users/CreateViewModel.java"
           } ]
         } ]
       }, {
@@ -1991,7 +1991,7 @@
         "name" : "L8/M19/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.admin.UsersController_java"
+          "name" : "femr/ui/controllers/admin/UsersController.java"
         } ]
       } ]
     }, {
@@ -1999,7 +1999,7 @@
       "name" : "L8/M20",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.models.admin.users.IndexViewModelGet_java"
+        "name" : "femr/ui/models/admin/users/IndexViewModelGet.java"
       } ]
     }, {
       "@type" : "group",
@@ -2012,28 +2012,28 @@
           "name" : "L8/M21/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.trips.TripViewModelPost_java"
+            "name" : "femr/ui/models/admin/trips/TripViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M21/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.trips.TripViewModelGet_java"
+            "name" : "femr/ui/models/admin/trips/TripViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M21/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.trips.EditViewModelPost_java"
+            "name" : "femr/ui/models/admin/trips/EditViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M21/L0/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.trips.EditViewModelGet_java"
+            "name" : "femr/ui/models/admin/trips/EditViewModelGet.java"
           } ]
         } ]
       }, {
@@ -2041,7 +2041,7 @@
         "name" : "L8/M21/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.admin.TripController_java"
+          "name" : "femr/ui/controllers/admin/TripController.java"
         } ]
       } ]
     }, {
@@ -2055,42 +2055,42 @@
           "name" : "L8/M22/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.inventory.ManageViewModelGet_java"
+            "name" : "femr/ui/models/admin/inventory/ManageViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M22/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.inventory.ExistingViewModelPost_java"
+            "name" : "femr/ui/models/admin/inventory/ExistingViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M22/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.inventory.ExistingViewModelGet_java"
+            "name" : "femr/ui/models/admin/inventory/ExistingViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M22/L0/M3",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.inventory.CustomViewModelPost_java"
+            "name" : "femr/ui/models/admin/inventory/CustomViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M22/L0/M4",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.inventory.CustomViewModelGet_java"
+            "name" : "femr/ui/models/admin/inventory/CustomViewModelGet.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M22/L0/M5",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.inventory.ManageViewModelPost_java"
+            "name" : "femr/ui/models/admin/inventory/ManageViewModelPost.java"
           } ]
         } ]
       }, {
@@ -2098,7 +2098,7 @@
         "name" : "L8/M22/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.admin.InventoryController_java"
+          "name" : "femr/ui/controllers/admin/InventoryController.java"
         } ]
       } ]
     }, {
@@ -2112,14 +2112,14 @@
           "name" : "L8/M23/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.configure.IndexViewModelPost_java"
+            "name" : "femr/ui/models/admin/configure/IndexViewModelPost.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L8/M23/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "femr.ui.models.admin.configure.IndexViewModelGet_java"
+            "name" : "femr/ui/models/admin/configure/IndexViewModelGet.java"
           } ]
         } ]
       }, {
@@ -2127,7 +2127,7 @@
         "name" : "L8/M23/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "femr.ui.controllers.admin.ConfigureController_java"
+          "name" : "femr/ui/controllers/admin/ConfigureController.java"
         } ]
       } ]
     }, {
@@ -2135,42 +2135,42 @@
       "name" : "L8/M24",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.superuser.SuperuserController_java"
+        "name" : "femr/ui/controllers/superuser/SuperuserController.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L8/M25",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.admin.AdminController_java"
+        "name" : "femr/ui/controllers/admin/AdminController.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L8/M26",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.ReferenceController_java"
+        "name" : "femr/ui/controllers/ReferenceController.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L8/M27",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.PhotoController_java"
+        "name" : "femr/ui/controllers/PhotoController.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L8/M28",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.PDFController_java"
+        "name" : "femr/ui/controllers/PDFController.java"
       } ]
     }, {
       "@type" : "group",
       "name" : "L8/M29",
       "nested" : [ {
         "@type" : "item",
-        "name" : "femr.ui.controllers.HomeController_java"
+        "name" : "femr/ui/controllers/HomeController.java"
       } ]
     } ]
   }, {
@@ -2178,13 +2178,13 @@
     "name" : "Isolated",
     "nested" : [ {
       "@type" : "item",
-      "name" : "femr.util.ErrorHandler_java"
+      "name" : "femr/util/ErrorHandler.java"
     }, {
       "@type" : "item",
-      "name" : "femr.util.DataStructure.Pair_java"
+      "name" : "femr/util/DataStructure/Pair.java"
     }, {
       "@type" : "item",
-      "name" : "femr.ui.controllers.ApplicationController_java"
+      "name" : "femr/ui/controllers/ApplicationController.java"
     } ]
   } ]
 }

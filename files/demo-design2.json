@@ -6,11 +6,16 @@
             "type": "download",
             "data": {
                 "dsm": "demo-design2.json",
-                "functionGroups": "demo-design2_function_groups.zip",
+                "functionGroups": "demo-design2_FunctionGroups.zip",
                 "downloads": [
                     {
                         "name": "Source Code",
                         "path": "design_2.zip"
+                    },
+                    {
+                        "name": "Uses-Hierarchy Dot File",
+                        "path": "demo-design2_UH.dot",
+                        "desc": "The dot file of Uses-Hierarchy which can be opened by GraphViz"
                     }
                 ]
             }
@@ -25,11 +30,11 @@
         {
             "name": "Function Groups",
             "type": "pca",
-            "subDsmDownloadPath": "demo-design2_set0_SubDSM",
+            "subDsmDownloadPath": "demo-design2_UH_SubDSM",
             "dataFiles": [
-                "demo-design2_set0.json",
-                "demo-design2_set0_TopFiles.json",
-                "demo-design2_set0_tfidf.json"
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_tfidf.json"
             ]
         }
     ]

@@ -1,1 +1,0 @@
-{"name":"demo-design1_6.json","variables":["Question.java","SaveLoadFile.java","Survey.java","UI.java"],"cells":[{"src":0,"dest":3,"values":{"Call":7.0,"Parameter":8.0}},{"src":1,"dest":2,"values":{"Cast":1.0,"Parameter":1.0,"Return":1.0,"Contain":1.0}},{"src":2,"dest":0,"values":{"Parameter":4.0,"Use":2.0}}],"relationTypes":["Call","Parameter","Cast","Return","Contain","Use"]}
