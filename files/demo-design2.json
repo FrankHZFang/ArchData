@@ -36,6 +36,17 @@
                 "demo-design2_UH_EntryFiles.json",
                 "demo-design2_UH_tfidf.json"
             ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_DSM.json",
+                "demo-design2_UH_tfidf.json",
+                "demo-design2_UH_EntryFiles_tfidf.json"
+            ]
         }
     ]
 }

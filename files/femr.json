@@ -35,6 +35,17 @@
                 "femr_UH_EntryFiles.json",
                 "femr_UH_tfidf.json"
             ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "femr_UH.json",
+                "femr_UH_EntryFiles.json",
+                "femr_UH_DSM.json",
+                "femr_UH_tfidf.json",
+                "femr_UH_EntryFiles_tfidf.json"
+            ]
         }
     ]
 }
