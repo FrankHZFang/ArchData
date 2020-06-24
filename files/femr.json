@@ -43,6 +43,7 @@
                 "femr_UH.json",
                 "femr_UH_EntryFiles.json",
                 "femr_UH_DSM.json",
+                "femr.json",
                 "femr_UH_tfidf.json",
                 "femr_UH_EntryFiles_tfidf.json"
             ]

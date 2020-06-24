@@ -44,6 +44,7 @@
                 "demo-design1_UH.json",
                 "demo-design1_UH_EntryFiles.json",
                 "demo-design1_UH_DSM.json",
+                "demo-design1.json",
                 "demo-design1_UH_tfidf.json",
                 "demo-design1_UH_EntryFiles_tfidf.json"
             ]
