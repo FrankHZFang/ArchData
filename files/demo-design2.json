@@ -46,7 +46,8 @@
                 "demo-design2_UH_DSM.json",
                 "demo-design2.json",
                 "demo-design2_UH_tfidf.json",
-                "demo-design2_UH_EntryFiles_tfidf.json"
+                "demo-design2_UH_EntryFiles_tfidf.json",
+                "demo-design2_UH_EntryFiles_DSM.json"
             ]
         }
     ]
