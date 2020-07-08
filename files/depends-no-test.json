@@ -51,7 +51,7 @@
                 "depends-no-test.json",
                 "depends-no-test_UH_tfidf.json",
                 "depends-no-test_UH_EntryFiles_tfidf.json",
-                "depends-no-test_UH_EntryFiles_DSM"
+                "depends-no-test_UH_EntryFiles_DSM.json"
             ]
         }
     ]
