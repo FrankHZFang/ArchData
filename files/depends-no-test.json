@@ -53,6 +53,15 @@
                 "depends-no-test_UH_EntryFiles_tfidf.json",
                 "depends-no-test_UH_EntryFiles_DSM.json"
             ]
+        },
+        {
+            "name": "DRH Dag",
+            "type": "dag",
+            "dataFiles": [
+                "depends-no-test_drh.json",
+                "depends-no-test_UH_EntryFiles.json",
+                "depends-no-test_UH_EntryFiles_DSM.json"
+            ]
         }
     ]
 }
