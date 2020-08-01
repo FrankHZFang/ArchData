@@ -68,7 +68,7 @@
             ]
         },
         {
-            "name": "Call Hierarchy Dag",
+            "name": "Use Hierarchy Dag",
             "type": "dag",
             "dataFiles": [
                 "depends-no-test_drh.json",
