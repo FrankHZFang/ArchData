@@ -1,0 +1,58 @@
+{
+    "name": "mazegame",
+    "dsm": "mazegame.json",
+    "items": [
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "mazegame_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "mazegame_UH_SubDSM",
+            "dataFiles": [
+                "mazegame_UH.json",
+                "mazegame_UH_EntryFiles.json",
+                "mazegame_UH_tfidf.json"
+            ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "mazegame_UH.json",
+                "mazegame_UH_EntryFiles.json",
+                "mazegame_UH_DSM.json",
+                "mazegame.json",
+                "mazegame_UH_tfidf.json",
+                "mazegame_UH_EntryFiles_tfidf.json",
+                "mazegame_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Facet Hierarchy",
+            "type": "facet-hierarchy",
+            "dataFiles": [
+                "mazegame_UH.json",
+                "mazegame_UH_EntryFiles.json",
+                "mazegame_UH_DSM.json",
+                "mazegame.json",
+                "mazegame_UH_tfidf.json",
+                "mazegame_UH_EntryFiles_tfidf.json",
+                "mazegame_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Use Hierarchy Dag",
+            "type": "dag",
+            "dataFiles": [
+                "mazegame_drh.json",
+                "mazegame_UH_EntryFiles.json",
+                "mazegame_UH_EntryFiles_DSM.json"
+            ]
+        }
+    ]
+}

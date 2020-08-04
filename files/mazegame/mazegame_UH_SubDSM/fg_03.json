@@ -1,0 +1,1 @@
+{"name":"fg_03.json","variables":["src.maze.MapSite.java","src.maze.Wall.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}
