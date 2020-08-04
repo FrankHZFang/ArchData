@@ -71,7 +71,7 @@
             "name": "Use Hierarchy Dag",
             "type": "dag",
             "dataFiles": [
-                "depends-no-test_drh.json",
+                "depends-no-test_UH.json",
                 "depends-no-test_UH_EntryFiles.json",
                 "depends-no-test_UH_EntryFiles_DSM.json"
             ]

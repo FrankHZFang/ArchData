@@ -49,7 +49,7 @@
             "name": "Use Hierarchy Dag",
             "type": "dag",
             "dataFiles": [
-                "mazegame_drh.json",
+                "mazegame_UH.json",
                 "mazegame_UH_EntryFiles.json",
                 "mazegame_UH_EntryFiles_DSM.json"
             ]
