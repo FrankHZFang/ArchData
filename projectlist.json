@@ -18,5 +18,10 @@
         "name": "Demo: Questionnaire 2",
         "file": "demo-design2",
         "desc": "Questionnaire demo #2"
+    },
+    {
+        "name": "Demo: Maze Game",
+        "file": "mazegame",
+        "desc": "A small maze-game program for demo"
     }
 ]
