@@ -49,6 +49,28 @@
                 "demo-design2_UH_EntryFiles_tfidf.json",
                 "demo-design2_UH_EntryFiles_DSM.json"
             ]
+        },
+        {
+            "name": "Facet Hierarchy",
+            "type": "facet-hierarchy",
+            "dataFiles": [
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_DSM.json",
+                "demo-design2.json",
+                "demo-design2_UH_tfidf.json",
+                "demo-design2_UH_EntryFiles_tfidf.json",
+                "demo-design2_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Use Hierarchy Dag",
+            "type": "dag",
+            "dataFiles": [
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_EntryFiles_DSM.json"
+            ]
         }
     ]
 }
