@@ -68,7 +68,7 @@
             ]
         },
         {
-            "name": "Use Hierarchy Dag",
+            "name": "Uses Hierarchy",
             "type": "dag",
             "dataFiles": [
                 "depends-no-test_UH.json",

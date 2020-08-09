@@ -63,7 +63,7 @@
             ]
         },
         {
-            "name": "Use Hierarchy Dag",
+            "name": "Uses Hierarchy",
             "type": "dag",
             "dataFiles": [
                 "femr_UH.json",
