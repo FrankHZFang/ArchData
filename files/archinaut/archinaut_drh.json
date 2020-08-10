@@ -1,0 +1,764 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "archinaut_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src.main.java.mx.uam.dsmviewer.model.ElementMetric_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src.main.java.mx.uam.dsmviewer.model.AggregateMatrixDependencyGroup_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src.main.java.mx.uam.dsmviewer.model.MatrixElementGroup_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "src.main.java.mx.uam.dsmviewer.model.MatrixDependencyGroup_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src.main.java.mx.uam.dsmviewer.model.ElementMethod_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src.main.java.mx.uam.dsmviewer.model.ElementConstraint_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "src.main.java.mx.uam.dsmviewer.model.MatrixElement_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.Message_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src.test.java.mx.uam.dsmviewer.model.MatrixElementTest_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M1/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.model.DesignStructureMatrixModel_java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.model.DependencyConstraint_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.model.DependencyMetric_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L0/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.model.Delta_java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.model.ArchitecturalDiff_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "src.main.java.mx.uam.dsmviewer.model.DesignStructureMatrix_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M1/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src.main.java.mx.uam.dsmviewer.presentation.util.HeatmapColorProvider_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.DSMTableModel_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M1/L0/M0/L2",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L2/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L2/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L2/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.model.TrendsAnalysis_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L2/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L2/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.util.TabbedComponent_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.mainview.TabManager_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "src.main.java.mx.uam.dsmviewer.model.DependencyConstraintViolation_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M1",
+                                  "nested" : [ {
+                                    "@type" : "group",
+                                    "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M1/L0",
+                                    "nested" : [ {
+                                      "@type" : "group",
+                                      "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M1/L0/M0",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "src.main.java.mx.uam.dsmviewer.model.dto.ElementConstraintDTO_java"
+                                      } ]
+                                    }, {
+                                      "@type" : "group",
+                                      "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M1/L0/M1",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "src.main.java.mx.uam.dsmviewer.model.dto.DependencyConstraintDTO_java"
+                                      } ]
+                                    }, {
+                                      "@type" : "group",
+                                      "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M1/L0/M2",
+                                      "nested" : [ {
+                                        "@type" : "item",
+                                        "name" : "src.main.java.mx.uam.dsmviewer.data.constraintsloader.ConstraintsLoader_java"
+                                      } ]
+                                    } ]
+                                  }, {
+                                    "@type" : "group",
+                                    "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/L0/M1/Control",
+                                    "nested" : [ {
+                                      "@type" : "item",
+                                      "name" : "src.main.java.mx.uam.dsmviewer.model.dto.MatrixConstraintsDTO_java"
+                                    } ]
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L0/M0/L0/M1/Control",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "src.main.java.mx.uam.dsmviewer.business.constraintservice.ConstraintsService_java"
+                                } ]
+                              } ]
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.data.nameprocessing.NameProcessor_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L1",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L1/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.data.nameprocessing.PrefixRemovalNameProcessor_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L1/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.data.nameprocessing.CharacterSubstituteNameProcessor_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L2",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L2/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.DesignStructureMatrixViewerController_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L2/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.data.metricsloader.MetricsLoader_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.business.metricsservice.MetricsService_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L2/M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.data.logloader.LogLoader_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.business.logservice.GitLogService_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/L2/M3",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.data.dsmloader.DesignStructureMatrixLoader_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L1/M0/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.business.dsmservice.DesignStructureMatrixService_java"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0/L0",
+                                "nested" : [ {
+                                  "@type" : "group",
+                                  "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0/L0/M0",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.Topic_java"
+                                  } ]
+                                }, {
+                                  "@type" : "group",
+                                  "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0/L0/M1",
+                                  "nested" : [ {
+                                    "@type" : "item",
+                                    "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.EventReceiver_java"
+                                  } ]
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0/Control",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.EventChannel_java"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0/M0",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.treeview.DSMTreeModel_java"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L0/M0/M1",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.ElementSelectedMessage_java"
+                                } ]
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L1",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L1/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.treeview.JTreeDesignStuctureMatrixMouseListener_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L1/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.treemapview.TreeMapDesignStructureMatrix_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/L1/M2",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.ElementExpandedMessage_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.treeview.JTreeDesignStructureMatrix_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M0/M0",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.treemapview.TreeMapModelBuilder_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M1",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M1/M0",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.model.dto.DesignStructureMatrixDTO_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M1/M1",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.model.dto.TrendsAnalysisDTO_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M1/M2",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.data.trendsanalysisloader.TrendsAnalysisLoader_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L2/M1/M3",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.business.trendsanalysisservice.TrendsAnalysisService_java"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L3",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L3/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L3/M0/M0",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.tableview.HotspotsTableModel_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L3/M0/M1",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.tableview.HotspotsTable_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L3/M0/M2",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.DesignStructureMatrixViewer_java"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src.main.java.mx.uam.dsmviewer.presentation.deltatreemapview.DeltaTreeMapView_java"
+                          }, {
+                            "@type" : "item",
+                            "name" : "src.main.java.mx.uam.dsmviewer.presentation.deltatreemapview.DeltaTreeMapController_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M1",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M1/M0",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.creatediffview.DiffViewModel_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M1/M1",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.creatediffview.CreateDiffViewController_java"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M1/M2",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.creatediffview.CreateDiffView_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src.main.java.mx.uam.dsmviewer.presentation.elementdetails.ElementDetailsController_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M3",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M3/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M3/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.loadproject.LoadProjectView_java"
+                              }, {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.loadproject.LoadProjectController_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M3/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.business.issueanalysisservice.IssueAnalysisService_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M3/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.trendsanalysis.TrendsAnalysisController_java"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M4",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src.main.java.mx.uam.dsmviewer.presentation.util.ClosableTabbedPane_java"
+                          }, {
+                            "@type" : "item",
+                            "name" : "src.main.java.mx.uam.dsmviewer.presentation.mainview.MainWindow_java"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M5",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M5/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M5/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.constraintsview.LoadConstraintsView_java"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M5/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src.main.java.mx.uam.dsmviewer.presentation.constraintsview.CheckConstraintsView_java"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/L4/M5/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src.main.java.mx.uam.dsmviewer.presentation.constraintsview.ConstraintsController_java"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "src.main.java.mx.uam.dsmviewer.presentation.mainview.MainWindowController_java"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L1/M1/L0/M0/L2/M0/L1/M0/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "src.main.java.mx.uam.dsmviewer.presentation.elementdetails.ElementDetailsTableModel_java"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M1/L0/M0/L2/M0/L1/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "src.main.java.mx.uam.dsmviewer.presentation.elementdetails.ElementDetailsView_java"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L2/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.presentation.trendsanalysis.TrendsAnalysisTableModel_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L2/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "src.main.java.mx.uam.dsmviewer.presentation.trendsanalysis.TrendsAnalysisView_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L2/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.RowHeaderRenderer_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L2/M2",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L2/M2/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L2/M2/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.CellColor_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L2/M2/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.HeatmapSource_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M1/L0/M0/L2/M2/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.CellContents_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M1/L0/M0/L2/M2/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.MatrixCellRenderer_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M1/L0/M0/L2/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.HeaderRenderer_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M1/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "src.main.java.mx.uam.dsmviewer.presentation.views.matrixview.JTableDesignStructureMatrix_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src.main.java.mx.uam.dsmviewer.presentation.splashscreen.SplashScreen_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "src.main.java.mx.uam.dsmviewer.Application_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src.main.java.mx.uam.dsmviewer.presentation.events.ShowDependentsMessage_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "src.test.java.mx.uam.dsmviewer.AppTest_java"
+    }, {
+      "@type" : "item",
+      "name" : "src.main.java.mx.uam.dsmviewer.model.ElementMethodMetric_java"
+    } ]
+  } ]
+}

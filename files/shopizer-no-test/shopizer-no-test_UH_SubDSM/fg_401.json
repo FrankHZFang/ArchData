@@ -1,0 +1,1 @@
+{"name":"fg_401.json","variables":["sm-shop-model.src.main.java.com.salesmanager.shop.model.catalog.catalog.CatalogEntity_java","sm-shop-model.src.main.java.com.salesmanager.shop.model.entity.Entity_java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}

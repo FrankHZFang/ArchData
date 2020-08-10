@@ -23,5 +23,20 @@
         "name": "Demo: Maze Game",
         "file": "mazegame",
         "desc": "A small maze-game program for demo"
+    },
+    {
+        "name": "Dv8",
+        "file": "dv8-no-test",
+        "desc": ""
+    },
+    {
+        "name": "Archinaut",
+        "file": "archinaut",
+        "desc": ""
+    },
+    {
+        "name": "Shopizer",
+        "file": "shopizer-no-test",
+        "desc": ""
     }
 ]

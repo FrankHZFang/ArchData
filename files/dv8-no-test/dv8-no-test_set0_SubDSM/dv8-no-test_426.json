@@ -1,0 +1,1 @@
+{"name":"dv8-no-test_426.json","variables":["dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.AttributeElement_java","dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.XmlConstants_java"],"cells":[{"src":0,"dest":1,"values":{"Use":1.0,"Import":1.0}}],"relationTypes":["Use","Import"]}

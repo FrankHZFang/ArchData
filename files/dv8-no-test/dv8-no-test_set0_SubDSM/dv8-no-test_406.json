@@ -1,0 +1,1 @@
+{"name":"dv8-no-test_406.json","variables":["dv8.console.api.src.main.java.com.archdia.dv8.console.command.ConsoleCommand_java","dv8.core.cli.src.main.java.com.archdia.dv8.io.Console_java"],"cells":[{"src":0,"dest":1,"values":{"Parameter":1.0,"Import":1.0}}],"relationTypes":["Parameter","Import"]}

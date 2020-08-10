@@ -1,0 +1,1 @@
+{"name":"shopizer-no-test_711.json","variables":["sm-shop-model.src.main.java.com.salesmanager.shop.model.security.GroupEntity_java","sm-shop-model.src.main.java.com.salesmanager.shop.model.security.PersistableGroup_java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Extend":1.0,"Use":1.0}}],"relationTypes":["Call","Extend","Use"]}

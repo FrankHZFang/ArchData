@@ -1,0 +1,1 @@
+{"name":"shopizer-no-test_733.json","variables":["sm-core.src.main.java.com.salesmanager.core.business.utils.CoreConfiguration_java","sm-shop.src.main.java.com.salesmanager.shop.tags.ConfigurationTag_java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Import":1.0,"Contain":1.0}}],"relationTypes":["Call","Import","Contain"]}

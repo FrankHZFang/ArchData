@@ -1,0 +1,1 @@
+{"name":"dv8-no-test_414.json","variables":["dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.issue.IssueListType_java","dv8.core.api.src.main.java.com.archdia.dv8.constant.ArchIssueKey_java"],"cells":[{"src":0,"dest":1,"values":{"Call":4.0,"Import":1.0,"Use":8.0}}],"relationTypes":["Call","Import","Use"]}

@@ -1,0 +1,1 @@
+{"name":"archinaut_45.json","variables":["src.main.java.mx.uam.dsmviewer.presentation.events.ElementExpandedMessage_java","src.main.java.mx.uam.dsmviewer.presentation.events.Message_java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Call":2.0}}],"relationTypes":["Extend","Call"]}

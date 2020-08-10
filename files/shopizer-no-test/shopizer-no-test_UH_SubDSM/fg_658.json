@@ -1,0 +1,1 @@
+{"name":"fg_658.json","variables":["sm-core.src.main.java.com.salesmanager.core.business.modules.cms.impl.VendorCacheManager_java","sm-shop.src.main.java.com.salesmanager.shop.application.config.ShopServletContextListener_java"],"cells":[{"src":1,"dest":0,"values":{"Call":2.0,"Import":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Call","Import","Contain","Use"]}

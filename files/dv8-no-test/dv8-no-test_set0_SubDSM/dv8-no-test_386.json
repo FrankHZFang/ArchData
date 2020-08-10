@@ -1,0 +1,1 @@
+{"name":"dv8-no-test_386.json","variables":["dv8.core.api.src.main.java.com.archdia.dv8.ErrorCode_java","dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.ErrorCodeRegistry_java"],"cells":[{"src":1,"dest":0,"values":{"Import":1.0}}],"relationTypes":["Import"]}

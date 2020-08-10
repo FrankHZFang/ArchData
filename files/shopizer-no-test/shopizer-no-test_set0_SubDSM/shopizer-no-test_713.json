@@ -1,0 +1,1 @@
+{"name":"shopizer-no-test_713.json","variables":["sm-shop.src.main.java.com.salesmanager.shop.store.api.exception.GenericRuntimeException_java","sm-shop.src.main.java.com.salesmanager.shop.store.api.exception.UnauthorizedException_java"],"cells":[{"src":1,"dest":0,"values":{"Call":3.0,"Extend":1.0}}],"relationTypes":["Call","Extend"]}

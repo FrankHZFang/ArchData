@@ -1,0 +1,1 @@
+{"name":"shopizer-no-test_747.json","variables":["sm-core-model.src.main.java.com.salesmanager.core.model.common.Address_java","sm-core-modules.src.main.java.com.salesmanager.core.modules.utils.GeoLocation_java"],"cells":[{"src":1,"dest":0,"values":{"Import":1.0,"Return":1.0}}],"relationTypes":["Import","Return"]}

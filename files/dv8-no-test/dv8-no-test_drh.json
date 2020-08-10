@@ -1,0 +1,4356 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "dv8-no-test_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.ErrorCode_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.StringFormatUtil_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.ResourceUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.cli.src.main.java.com.archdia.dv8.cli.ConsoleHelpFormatter_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.cli.src.main.java.com.archdia.dv8.cli.OptionsConfigurationReader_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.cli.src.main.java.com.archdia.dv8.cli.OptionConfiguration_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.SizeUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.observer.AbstractObservable_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.observer.SimpleObservable_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.metadata.MetadataAccessor_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.ProjectResource_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.Depth_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.observer.Observable_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.constant.ClusterName_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyType_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.TableHeaderCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.license.LicenseInfoService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.license.Licensed_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.SwingUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M16",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M16/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M16/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.history.HistoryPath_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M16/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.history.HistoryConstants_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M16/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.history.HistoryEntry_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.Language_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.observer.Observer_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixType_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.ArchReportParams_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-report.src.main.java.com.archdia.dv8.archreport.model.ArchReport_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-report.src.main.java.com.archdia.dv8.archreport.service.ArchReportDocumentService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M22",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.constant.ArchIssueKey_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M23",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.constant.ArchRootSummaryKey_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M24",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.constant.ArchRootDebtKey_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.constant.IssueListKey_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.FilePathUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M27",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.ColorPalette_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M28",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyTypeFileService_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyTypeCode_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M29",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.SwingUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M30",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.core.JsonExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M31",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.metadata.MetadataFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M32",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.core.JsonImportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M33",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.model.ModifiedFile_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M34",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.xml.time.OffsetDateTimeXmlAdapter_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M35",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.io.CompactDataOutputStream_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M36",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.io.CompactDataInputStream_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M37",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.key.ProjectKeyConverter_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M38",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.math.IntSequence_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.DeviateException_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.AbstractDeviateException_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.hotspot.src.main.java.com.archdia.dv8.hotspot.constant.FileName_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.hotspot.src.main.java.com.archdia.dv8.console.hotspot.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.core.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.metrics.src.main.java.com.archdia.dv8.console.metrics.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.SimpleSaveFileChooser_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.IconUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M15",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M15/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.ui.swing.ribbon.JRibbonPanel_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M15/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.ui.swing.ribbon.JRibbonTab_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M15/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.ui.swing.ribbon.JRibbonBar_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M15/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.plugin.ExplorerPlugin_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.metadata.AbstractMetadataCollection_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M17",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M17/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M17/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.Named_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M17/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M17/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M17/L1/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterVisitor_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M17/L1/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterComponent_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M17/L1/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterItem_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M17/L1/M0/M3",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterComponentCopier_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M17/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterParent_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M17/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterGroup_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.IntegerInterval_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.TreeNode_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.Dependency_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.Location_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.Version_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.Repository_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M22",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.git.GitLogParser_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.LicenseException_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.DeviateFatalException_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.function.TriFunction_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.LicenseRestrictionException_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.api.src.main.java.com.archdia.dv8.DeviateExceptionBuilder_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.naming.NameProcessingService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.NamePreProcessor_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.Ordered_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.arch-root.src.main.java.com.archdia.dv8.scm.list.service.RevisionException_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.ui.swing.action.SimpleAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.plugin.AbstractExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.SimpleProjectContext_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.ArchIssueInstanceMetaData_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.Clustering_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.TreeCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrix_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.geom.BoundingBox_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.TableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyTypeFamily_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L3/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.AnalyzeSoftwareStep_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.AnalyzeSoftwareStatus_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.service.ArchReportConfigService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.cli.src.main.java.com.archdia.dv8.io.Console_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.console.api.src.main.java.com.archdia.dv8.console.command.ConsoleCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.api.src.main.java.com.archdia.dv8.console.ErrorCodeRegistry_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.api.src.main.java.com.archdia.dv8.console.command.AbstractConsoleCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.depends-parser.src.main.java.com.archdia.dv8.dependsparser.ErrorCodeRegistry_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.depends-parser.src.main.java.com.archdia.dv8.dependsparser.DependsParserService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M3",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M3/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M3/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L3/M3/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L3/M3/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.ErrorCodeRegistry_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L3/M3/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.git.GitVersion_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3/M3/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.git.GitRepository_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M3/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.ScmLoader_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M3/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.git.GitLoader_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M4",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M4/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M4/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M4/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.AnalyzeSoftwareStep_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M4/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.AnalyzeSoftwareStatus_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M4/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.service.ArchReportConfigService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.ChangeSpaceIOService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M6",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M6/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.content.MeasureListParser_java"
+        }, {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.ErrorCodeRegistry_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M6/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.content.OfficeCellStyle_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.AbstractOrdered_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.TargetListFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M9",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M9/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.traversal.TraversalVisitResult_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M9/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.traversal.ClusterTraversalVisitor_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M9/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.traversal.ClusterTraversal_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusteringFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusteringExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusteringImportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.Project_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.ProjectResourceCollection_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.core.DependencyMatrixReclusterService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.BidiDependencyMatrix_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.FilteredBidiDependencyMatrix_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.service.PropagationCostService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.LaunchNewAppContext_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.MergeDependencyMatrixService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixImportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M22",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M22/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M22/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.AbstractPrinter_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.model.ArchIssue_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M22/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M22/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.UnstableInterfacePrinter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M22/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.UnhealthyInheritancePrinter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M22/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.PackageCyclePrinter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M22/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.ModularityViolationPrinter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M22/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.CrossingPrinter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M22/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.printer.CliquePrinter_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M22/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.model.ArchIssueType_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M23",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.SplitDependsService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M24",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M24/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M24/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixBuilder_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M24/L0/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L3/M24/L0/M1/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.api.src.main.java.com.archdia.dv8.flavor.Flavor_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3/M24/L0/M1/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.standard.java.com.archdia.dv8.flavor.FlavorService_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L3/M24/L0/M1/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.academy.java.com.archdia.dv8.flavor.FlavorService_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M24/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependency_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M24/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependencyMatrix_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M24/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependencyMatrixBuilder_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyMatrixTypeDetection_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.util.RelationUtil_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L4",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L4/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.api.src.main.java.com.archdia.dv8.console.internal.Shell_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.api.src.main.java.com.archdia.dv8.console.command.AbstractSimpleConsoleCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.traversal.AbstractClusterTraversalVisitor_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.AbstractClusteringExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.ExplorerUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.ProjectFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M6",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4/M6/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.office.src.main.java.com.archdia.dv8.office.spreadsheet.SpreadsheetUtils_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M6/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.office.src.main.java.com.archdia.dv8.office.spreadsheet.StyleUtils_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M6/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.office.src.main.java.com.archdia.dv8.office.spreadsheet.ExportSpreadsheetService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixFilterService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M8",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4/M8/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L4/M8/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.SaveMatrixAsAction_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.SaveMatrixAction_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M8/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.SaveClusteringAsAction_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.SaveClusteringAction_java"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.AbstractDependencyMatrixExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.UnorderedDependencyMatrixBuilder_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.AbstractDetector_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.ParameterConfig_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L5",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L5/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ReportCommand_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.AbstractReportCommand_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ChangeListCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.TargetListCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.StructureDsmCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.PropagationCostCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.NamespaceClusterCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.MergeDsmCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.IndependenceLevelCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M7",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ArchIssueCostCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M8",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.HotspotCostCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M9",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.HotspotCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M10",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.HistoryDsmCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M11",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ExportStructureMatrixCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M12",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ExportNamespaceClusterCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M13",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ExportMergeMatrixCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M14",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ExportHistoryMatrixCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M15",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ExportDrhClusterCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M16",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ArchIssueCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M17",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.ArchReportService_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.ZipUtil_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M18",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.DrhClusterCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M19",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.DecouplingLevelCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M20",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ChangeSpaceCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M21",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ArchRootDebtCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L2/M22",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.command.ArchRootCommand_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.ArchReportMode_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M1/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.constant.FileName_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M1/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.ChangeSpaceService_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M1/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.AbstractGenerateChangeSpaceCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.AbstractGenerateChangeListCommand_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.ChangeListFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M3",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M3/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M3/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.HistoryDependencyMatrixBuilder_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M3/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.model.HistoryResult_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M3/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.AbstractImportHistoryToMatrixCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.gentargetlist.ErrorCodeRegistry_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.gentargetlist.AbstractGenerateTargetListCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterUtils_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.core.internal.NamespaceClusterService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.ClusteringXmlExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.ClusteringJsonExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M9",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M9/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M9/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.cluster.vm.ClusterTreeModel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M9/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.TreeCellRenderer_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M9/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.ClusterViewer_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.LoadMatrixAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyMatrixXmlExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyMatrixJsonExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M13",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M13/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M13/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.HierarchyServiceOptions_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M13/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M13/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L5/M13/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L5/M13/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.traversal.TraversalVisitResult_java"
+              }, {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.traversal.DependencyMatrixTraversalVisitor_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5/M13/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L5/M13/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L5/M13/L1/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L5/M13/L1/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixCondenseService_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L5/M13/L1/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.HierarchyService_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L5/M13/L1/M0/L1/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleBidiDependencyMatrix_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L5/M13/L1/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.AbstractHierarchyService_java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L5/M13/L1/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.traversal.DependencyMatrixTraversal_java"
+              }, {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.TIntRangeIterator_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L5/M13/L1/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.traversal.AbstractDependencyMatrixTraversalVisitor_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L5/M13/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependencyMatrixCondenseService_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M13/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.selector.VariableSelectors_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.VariableSelector_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M13/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.AbstractRecursiveHierarchyServiceOptions_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M13/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleFilteredBidiDependencyMatrix_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M14",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M14/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M14/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.util.ArchIssueUtil_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M14/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.DetectorLoader_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M14/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.ArchIssueService_java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L6",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L6/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L6/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.svn.SubversionLogPath_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.svn.SubversionLogEntry_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.svn.ImportSubversionHistoryToMatrixCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.core.internal.SubSystemService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L6/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L6/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L6/M2/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L6/M2/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.IntervalResult_java"
+              }, {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.IntegerIntervalUtil_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L6/M2/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.BorderStyle_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L6/M2/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.TableCell_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L6/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.TableHeaderCell_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.ui.MatrixViewer_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ui.RecentFilesMenu_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M4",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L6/M4/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.RecursiveHierarchyServiceOptions_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M4/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.RecursiveHierarchyTask_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M4/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.RecursiveHierarchyService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.service.HierarchyBasedMetricService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.AbstractHierarchyProcessor_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L7",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L7/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.DesignRuleSplitService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.service.IndependenceLevelService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.service.DecouplingLevelService_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L8",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L8/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M0/L0/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.license.generator.src.main.java.com.archdia.dv8.license.generate.LicensePolicy_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M0/L0/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.license.generator.src.main.java.com.archdia.dv8.license.generate.GenerateLicenseRequest_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M0/L0/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.license.generator.src.main.java.com.archdia.dv8.license.generate.LicenseGenerationService_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.license.generator.src.main.java.com.archdia.dv8.license.generate.ErrorCodeRegistry_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M0/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M0/Control/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.license.generator.src.main.java.com.archdia.dv8.license.generate.internal.SimpleLicenseGenerationService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M0/Control/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.license.generator.src.main.java.com.archdia.dv8.license.generate.Program_java"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.viewer.java.com.archdia.dv8.explorer.action.AdvancedAnalysisAction_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.viewer.java.com.archdia.dv8.explorer.Viewer_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.standard.java.com.archdia.dv8.explorer.Viewer_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.StatusBar_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M1/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.GuidingViewer_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.AbstractViewer_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.swing.SwingStyleUtils_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.UncaughtExceptionMessageHandler_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.InstallLicenseDialog_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.ActivationDialog_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.RestartProgram_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.Program_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.DeactivationDialog_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.action.DeactivateAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.action.EnterViewerAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.action.AboutAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.office.src.main.java.com.archdia.dv8.explorer.office.ExportSpreadsheetAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.office.src.main.java.com.archdia.dv8.explorer.office.ExportExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.metrics.src.standard.java.com.archdia.dv8.explorer.metrics.IndependenceLevelAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.metrics.src.standard.java.com.archdia.dv8.explorer.metrics.DecouplingLevelAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.metrics.src.main.java.com.archdia.dv8.explorer.metrics.PropagationCostAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.metrics.src.main.java.com.archdia.dv8.explorer.metrics.MetricsExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M12",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M12/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M12/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.PathChooser_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.LabelTextField_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M12/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M12/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.ConfigHistoryPanel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.ArchReportTabbedPane_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.ArchReportProgressPanel_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.service.RunHotspotService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.AnalyzeDependencyFilePanel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.AnalyzeCodebasePanel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M12/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.HotspotAction_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M12/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.ArchReportConfigDialog_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.ui.ArchReportFinishDialog_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.FinishAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.SaveLogAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.RunArchReportAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.PreviousAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.LoadDependencyAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.LoadCodebaseAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.action.CancelAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.hotspot.src.main.java.com.archdia.dv8.explorer.hotspot.HotspotPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.dr-hier.src.standard.java.com.archdia.dv8.explorer.drhier.HierarchyClusterAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M22",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.dr-hier.src.standard.java.com.archdia.dv8.explorer.drhier.DesignRuleSplitAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M23",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.dr-hier.src.main.java.com.archdia.dv8.explorer.drhier.NamespaceClusterAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M24",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.dr-hier.src.main.java.com.archdia.dv8.explorer.drhier.ClusterExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.standard.java.com.archdia.dv8.explorer.matrix.action.ToggleModularityViolationDecorationAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.standard.java.com.archdia.dv8.explorer.core.ui.ModularityViolationTableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M27",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.ZoomOutAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M28",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.ZoomInAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M29",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.ToggleShortLabelAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M30",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.ToggleRowLabelAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M31",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.ToggleCellDetailsAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M32",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.MergeDependencyMatrixAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M33",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.matrix.action.AutoSizeColumnsAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M34",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ui.MatrixSelectorDialog_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M35",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ui.DependencyTypeSelectionPanel_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ui.DependencyTypeFamilySelectionPanel_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M36",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M36/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ui.DependencyTypeFamilyOptionsPanel_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M36/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ui.DependencyTypeOptionsPanel_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M36/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.DependencyTypeOptionsAction_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M37",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.export.ExportMatrixAsXmlAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M38",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.export.ExportMatrixAsJsonAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M39",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.export.ExportClusterAsXmlAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M40",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.export.ExportClusterAsJsonAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M41",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.decorator.SearchTableHeaderCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M42",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.decorator.SearchTableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M43",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.decorator.ClusterSelectionTableHeaderCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M44",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.decorator.ClusterSelectionTableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M45",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.SubSystemAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M46",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.SearchAction_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.matrix.vm.RowHeaderListModel_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M47",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.action.RedrawAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M48",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ViewOptionsExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M49",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ResourceExportPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M50",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.MatrixExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M51",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.FileExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M52",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.core.ClusterExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M53",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.RemoveClusterGroupAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M54",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.MoveClusterUpAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M55",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.MoveClusterDownAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M56",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.HideClusterTreeAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M57",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.ExpandClusterTreeAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M58",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.DeleteClusterTreeAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M59",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.CreateClusterGroupAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M60",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.cluster.action.CollapseClusterTreeAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M61",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M61/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M61/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.LoadDependencyTypeAction_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.convert.ImportMatrixAction_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M61/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.LoadClusteringAction_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M61/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.convert.ImportClusteringAction_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M61/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.ArchIssueViewAction_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M62",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.RefreshPreferenceAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M63",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.core.src.main.java.com.archdia.dv8.explorer.action.ExitAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M64",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M64/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M64/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.PathChooser_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M64/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.LabelTextField_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M64/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M64/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ArchReportAction_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M64/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.ConfigHistoryPanel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M64/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.ArchReportTabbedPane_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M64/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.ArchReportProgressPanel_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.service.RunArchReportService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M64/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.AnalyzeDependencyFilePanel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M64/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.AnalyzeCodebasePanel_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M64/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.ArchReportConfigDialog_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M65",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.FinishAction_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ui.ArchReportFinishDialog_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M66",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.SaveLogAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M67",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.RunArchReportAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M68",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.PreviousAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M69",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.LoadDependencyAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M70",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.LoadCodebaseAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M71",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.action.CancelAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M72",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-report.src.main.java.com.archdia.dv8.explorer.archreport.ArchReportPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M73",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M73/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M73/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-issue.src.standard.java.com.archdia.dv8.explorer.archissue.ParameterConfigResource_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M73/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-issue.src.standard.java.com.archdia.dv8.explorer.archissue.ArchIssueProgress_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M73/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M73/Control/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-issue.src.standard.java.com.archdia.dv8.explorer.archissue.ArchIssueAction_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M73/Control/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.explorer.plugins.arch-issue.src.standard.java.com.archdia.dv8.explorer.archissue.ArchIssueSettingAction_java"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M74",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.decorator.UnstableInterfaceTreeCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M75",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.decorator.UnstableInterfaceTableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M76",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.decorator.UnhealthyInheritanceTreeCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M77",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.decorator.UnhealthyInheritanceTableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M78",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.decorator.CrossingTreeCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M79",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.decorator.CrossingTableCellDecorator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M80",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.ToggleArchIssueHighLightAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M81",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.OpenArchIssueAction_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M82",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.plugins.arch-issue.src.main.java.com.archdia.dv8.explorer.archissue.ArchIssueExplorerPlugin_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M83",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.explorer.api.src.main.java.com.archdia.dv8.explorer.matrix.vm.DependencyMatrixTableModel_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M84",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.RevisionException_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M85",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.svn.package-info_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M86",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.package-info_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M87",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.model.PropagationCostResult_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.metrics.src.main.java.com.archdia.dv8.console.metrics.PropagationCostCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M88",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.model.IndependenceLevelResult_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.metrics.src.main.java.com.archdia.dv8.console.metrics.IndependenceLevelCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M89",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.metrics.src.main.java.com.archdia.dv8.metrics.model.DecouplingLevelResult_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.metrics.src.main.java.com.archdia.dv8.console.metrics.DecouplingLevelCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M90",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M90/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.hotspot.src.main.java.com.archdia.dv8.hotspot.service.UnionFind_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M90/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.hotspot.src.main.java.com.archdia.dv8.hotspot.service.HotspotService_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M90/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.hotspot.src.main.java.com.archdia.dv8.console.hotspot.HotspotCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M91",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M91/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.RecursiveStrictHierarchyServiceOptions_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M91/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.StrictModuleHierarchyTask_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M91/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.RecursiveStrictHierarchyProcessor_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M91/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.RecursiveStrictHierarchyService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M92",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M92/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.SimpleHierarchyProcessor_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M92/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.plugins.dr-hier.src.main.java.com.archdia.dv8.drhier.service.SimpleHierarchyService_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M92/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.dr-hier.src.main.java.com.archdia.dv8.console.drhier.HierarchyCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M93",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M93/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M93/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M93/L0/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.XmlConstants_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M93/L0/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.AttributeElement_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M93/L0/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.GraphComponent_java"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M93/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M93/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.cytoscape.src.main.java.com.archdia.dv8.console.cytoscape.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M93/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.GraphNode_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M93/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.cytoscape.src.main.java.com.archdia.dv8.scm.cytoscape.model.GraphEdge_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M93/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.cytoscape.src.main.java.com.archdia.dv8.console.cytoscape.ImportDependencyMatrix_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M94",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M94/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M94/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-root.src.main.java.com.archdia.dv8.archroot.model.RootIndexElement_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M94/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M94/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-root.src.main.java.com.archdia.dv8.console.archroot.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M94/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependencyMatrixFilterService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M94/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-root.src.main.java.com.archdia.dv8.archroot.service.RootCoverService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M94/L1/M3",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M94/L1/M3/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.arch-root.src.main.java.com.archdia.dv8.archroot.ErrorCodeRegistry_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M94/L1/M3/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.arch-root.src.main.java.com.archdia.dv8.archroot.ArchRootException_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M94/L1/M3/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.plugins.arch-root.src.main.java.com.archdia.dv8.archroot.service.RootCoverFileService_java"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M94/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.arch-root.src.main.java.com.archdia.dv8.console.archroot.RootCoverCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M95",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-report.src.main.java.com.archdia.dv8.archreport.ErrorCodeRegistry_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-report.src.main.java.com.archdia.dv8.archreport.service.ArchReportDocxFileService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M96",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.UnstableInterfaceDetector_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M97",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.UnhealthyInheritanceDetector_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M98",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.PackageCycleDetector_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M99",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.ModularityViolationDetector_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M100",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.CrossingDetector_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M101",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.detector.CliqueDetector_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M102",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M102/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M102/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.ArchIssueOutputService_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.plugins.arch-issue.src.main.java.com.archdia.dv8.archissue.service.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M102/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.arch-issue.src.main.java.com.archdia.dv8.console.archissue.ErrorCodeRegistry_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M102/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.arch-issue.src.main.java.com.archdia.dv8.console.archissue.ArchIssueCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M103",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M103/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M103/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.entity.MachineEntity_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M103/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.entity.LicenseEntity_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M103/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.entity.LicenseTime_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M103/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M103/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M103/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.license.src.standard.java.com.archdia.dv8.license.LicenseTypeValidator_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.HardwareInformation_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M0/L0/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.license.src.academy.java.com.archdia.dv8.license.LicenseTypeValidator_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M103/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.LicenseRequestService_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M103/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.entity.TokenEntity_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M103/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.entity.LicenseFile_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M103/L1/M3",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M103/L1/M3/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M3/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.license.timechecker.TimeServer_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M103/L1/M3/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M3/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.license.timechecker.NtpTimeServer_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M3/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.license.timechecker.HttpTimeServer_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M103/L1/M3/L1/M2",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L8/M103/L1/M3/L1/M2/M0",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.ErrorCodeRegistry_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L8/M103/L1/M3/L1/M2/M1",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.License_java"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L8/M103/L1/M3/L1/M2/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.SimpleLicenseInfoService_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M103/L1/M3/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.api.src.main.java.com.archdia.dv8.license.TimeChecker_java"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M103/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.license.src.license.java.com.archdia.dv8.license.LicenseService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M104",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M104/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M104/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.converter.SimpleProjectResourceConverter_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.converter.ProjectConverter_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M104/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M104/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M104/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.ProjectBuilder_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M104/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L8/M104/L1/M0/L0/M1/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L8/M104/L1/M0/L0/M1/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.SimpleProjectResourceCollection_java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.ref.LazyReference_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L8/M104/L1/M0/L0/M1/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.SimpleMutableProject_java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L8/M104/L1/M0/L0/M1/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.ProjectResourceCollectionConstants_java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L8/M104/L1/M0/L0/M1/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.SimpleProject_java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M104/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.SimpleProjectBuilder_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.SimpleClusteringFileService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.function.TriConsumer_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.function.QuadConsumer_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.DependencyMatrixBuilderFactory_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependencyMatrixFileService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.converter.MatrixResourceConverter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M104/L1/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.converter.ClusteringResourceConverter_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M104/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.internal.SimpleProjectFileService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M105",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M105/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M105/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.metadata.converter.MetadataConverter_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M105/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M105/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.metadata.converter.StringMetadataConverter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M105/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.metadata.converter.IntegerMetadataConverter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M105/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.metadata.converter.DoubleMetadataConverter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M105/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.metadata.converter.BooleanMetadataConverter_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M105/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.metadata.ErrorCodeRegistry_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M105/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.metadata.internal.SimpleMetadataFileService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M106",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.project.key.UUIDKeyConverter_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.project.key.SimpleProjectKeyConverter_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M107",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.ErrorCodeRegistry_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.SimplePlatformNamePreProcessor_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M108",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.SimpleNameAffixFilteringPreProcessor_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M109",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.SimpleAffixRemovalNamePreProcessor_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M110",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.NamePostProcessor_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.naming.NameProcessors_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M111",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M111/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M111/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyMatrixJsonImportService_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.matrix.ImportDependencyMatrixCommand_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M111/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.XmlVariableList_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M111/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.XmlDependency_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.XmlDependencyCell_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M111/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyMatrixXmlImportService_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M112",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleSplitDependsService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M113",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleMergeDependencyMatrixService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M114",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.SimpleDependencyTypeFileService_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyTypeJsonDeserializer_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M115",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.matrix.internal.DependencyMatrixMinosImportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M116",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.math.PolynomialIntSequence_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M117",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.math.OffsetIntSequence_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M118",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.math.MersenneSequence_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M119",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.math.FibonacciSequence_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M120",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.math.ConstantIntSequence_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M121",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.core.internal.SimpleJsonImportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M122",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.core.internal.SimpleJsonExportService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M123",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.core.internal.SimpleDependencyMatrixReclusterService_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M124",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M124/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M124/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M124/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M124/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.ClusteringJsonImportService_java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M124/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.ClusteringXmlImportService_java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M124/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.cluster.ImportClusteringCommand_java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M124/L0/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M124/L0/M1/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.JsonClusterComponent_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M124/L0/M1/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.JsonClusterItem_java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M124/L0/M1/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.JsonClusterGroup_java"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M124/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.cluster.internal.JsonClustering_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M125",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M125/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M125/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.cli.src.main.java.com.archdia.dv8.io.SimpleConsole_java"
+          }, {
+            "@type" : "item",
+            "name" : "dv8.core.cli.src.main.java.com.archdia.dv8.io.EmbeddedConsole_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M125/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.command.src.main.java.com.archdia.dv8.console.ActivateCommand_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M125/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.command.src.main.java.com.archdia.dv8.console.Program_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M126",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.scm.history.HistoryLog_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M127",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusteringComparator_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.core.api.src.main.java.com.archdia.dv8.cluster.ClusterComponentComparator_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M128",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M128/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M128/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.core.api.src.main.java.com.archdia.dv8.ExceptionUtils_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M128/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.sdk.src.main.java.com.archdia.dv8.console.EmbeddedShell_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M128/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.sample.src.com.archdia.dv8.sample.console.Program_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M129",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.git.ImportGitTxtHistoryToMatrixCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M130",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.git.ImportGitHistoryToMatrixCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M131",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.history.ImportJsonHistoryToMatrixCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M132",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.gentargetlist.svn.GenerateTargetListFromSubversionHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M133",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.gentargetlist.git.GenerateTargetListFromGitTxtHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M134",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.gentargetlist.git.GenerateTargetListFromGitHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M135",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.svn.GenerateChangeListFromSubversionHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M136",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.git.GenerateChangeSpaceFromGitTxtHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M137",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.git.GenerateChangeSpaceFromGitHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M138",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.git.GenerateChangeListFromGitTxtHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M139",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.scm.src.main.java.com.archdia.dv8.console.scm.genchangelist.git.GenerateChangeListFromGitHistoryCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M140",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.office.src.main.java.com.archdia.dv8.console.office.ExportSpreadsheetCommand_java"
+      }, {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.office.src.main.java.com.archdia.dv8.console.office.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M141",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.minos.src.main.java.com.archdia.dv8.console.minos.ImportDependencyMatrix_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M142",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M142/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M142/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.minos.src.main.java.com.archdia.dv8.console.minos.ErrorCodeRegistry_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M142/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.cluster.AbstractImportClusteringCommand_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M142/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.minos.src.main.java.com.archdia.dv8.console.minos.ImportClustering_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M143",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.hotspot.src.main.java.com.archdia.dv8.console.hotspot.HotspotCostCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M144",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.dr-hier.src.main.java.com.archdia.dv8.console.drhier.ErrorCodeRegistry_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M145",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.dr-hier.src.main.java.com.archdia.dv8.console.drhier.DesignRuleSplitCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M146",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.depends-parser.src.main.java.com.archdia.dv8.console.dependsparser.DependsParserCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M147",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M147/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M147/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.root.RootDebtSpace_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M147/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M147/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.root.RootListType_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M147/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.root.RootDebtSpaceCalculatorService_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M147/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.root.RootDebtExcel_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M147/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.RootDebtExportCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M148",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M148/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M148/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.issue.ArchIssueCostSpace_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M148/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M148/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.issue.IssueListType_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M148/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.issue.ArchIssueCostExcel_java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M148/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.issue.ArchIssueCostCalculatorService_java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M148/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.debt-export.src.main.java.com.archdia.dv8.console.debtexport.ArchIssueCostExportCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M149",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.matrix.SplitDependsCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M150",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.matrix.MergeDependencyMatrixCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M151",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.arch-report.src.main.java.com.archdia.dv8.console.archreport.ArchReportCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M152",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.matrix.ExportDependencyMatrixCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M153",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.cluster.ExportClusteringCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M154",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.SubSystemSplitCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M155",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.NamespaceClusterCommand_java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M156",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M156/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.ErrorCodeRegistry_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M156/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.AbstractProjectConsoleCommand_java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M156/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.AbstractListResourceCommand_java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M157",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "dv8.console.plugins.core.src.main.java.com.archdia.dv8.console.core.DeactivateCommand_java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "dv8.core.license.src.main.java.com.archdia.dv8.license.internal.DigestCheckEntry_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.test-api.src.main.java.com.archdia.dv8.test.TemporaryFile_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.test-api.src.main.java.com.archdia.dv8.test.CollectionMatcher_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.list.service.NameProcessor_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.api.src.main.java.com.archdia.dv8.util.function.QuadFunction_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.xml.time.ZonedDateTimeXmlAdapter_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.xml.time.LocalDateTimeXmlAdapter_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.impl.src.main.java.com.archdia.dv8.xml.NamespaceAwareXmlStreamWriter_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.api.src.main.java.com.archdia.dv8.matrix.Cell_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.api.src.main.java.com.archdia.dv8.io.XorMaskingOutputStream_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.api.src.main.java.com.archdia.dv8.io.XorMaskingInputStream_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.api.src.main.java.com.archdia.dv8.io.CharBufferReader_java"
+    }, {
+      "@type" : "item",
+      "name" : "dv8.core.api.src.main.java.com.archdia.dv8.io.ByteBufferInputStream_java"
+    } ]
+  } ]
+}

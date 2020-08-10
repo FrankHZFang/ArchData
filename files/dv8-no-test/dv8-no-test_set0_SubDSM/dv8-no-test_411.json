@@ -1,0 +1,1 @@
+{"name":"dv8-no-test_411.json","variables":["dv8.core.api.src.main.java.com.archdia.dv8.flavor.Flavor_java","dv8.core.impl.src.standard.java.com.archdia.dv8.flavor.FlavorService_java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

@@ -1,0 +1,1 @@
+{"name":"fg_506.json","variables":["sm-shop.src.main.java.com.salesmanager.shop.store.security.AuthenticationTokenFilter_java","sm-shop.src.main.java.com.salesmanager.shop.store.security.common.CustomAuthenticationManager_java"],"cells":[{"src":0,"dest":1,"values":{"Call":3.0,"Import":1.0,"Contain":3.0}}],"relationTypes":["Call","Import","Contain"]}

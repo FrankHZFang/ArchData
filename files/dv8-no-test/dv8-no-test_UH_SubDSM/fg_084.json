@@ -1,0 +1,1 @@
+{"name":"fg_084.json","variables":["dv8.core.api.src.main.java.com.archdia.dv8.geom.BoundingBox_java","dv8.core.api.src.main.java.com.archdia.dv8.util.Location_java"],"cells":[{"src":0,"dest":1,"values":{"Call":2.0,"Parameter":2.0,"Import":1.0}}],"relationTypes":["Call","Parameter","Import"]}

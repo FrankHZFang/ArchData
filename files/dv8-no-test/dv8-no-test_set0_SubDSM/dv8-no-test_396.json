@@ -1,0 +1,1 @@
+{"name":"dv8-no-test_396.json","variables":["dv8.core.api.src.main.java.com.archdia.dv8.util.ResourceUtils_java","dv8.explorer.viewer.src.main.java.com.archdia.dv8.explorer.ui.StatusBar_java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Import":1.0,"Use":1.0}}],"relationTypes":["Call","Import","Use"]}

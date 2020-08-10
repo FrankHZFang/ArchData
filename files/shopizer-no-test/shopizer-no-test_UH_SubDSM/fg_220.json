@@ -1,0 +1,1 @@
+{"name":"fg_220.json","variables":["sm-shop-model.src.main.java.com.salesmanager.shop.model.catalog.product.attribute.ProductOptionValue_java","sm-shop-model.src.main.java.com.salesmanager.shop.model.entity.Entity_java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}
