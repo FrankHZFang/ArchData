@@ -1,1 +1,1 @@
-{"name":"fg_203.json","variables":["femr/common/models/UserItem.java","femr/ui/models/admin/users/ManageViewModelGet.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":2.0,"Import":1.0,"Return":1.0,"Use":2.0}}],"relationTypes":["Parameter","Import","Return","Use"]}
+{"name":"fg_203.json","variables":["femr/ui/models/superuser/ContentViewModelPost.java"],"cells":[],"relationTypes":[]}

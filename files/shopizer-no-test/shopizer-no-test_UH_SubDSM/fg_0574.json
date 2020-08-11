@@ -1,0 +1,1 @@
+{"name":"fg_0574.json","variables":["sm-shop/src/main/java/com/salesmanager/shop/store/security/AuthenticationRequest.java","sm-shop/src/main/java/com/salesmanager/shop/store/security/PasswordRequest.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}

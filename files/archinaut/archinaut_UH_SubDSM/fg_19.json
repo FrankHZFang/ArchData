@@ -1,1 +1,1 @@
-{"name":"fg_19.json","variables":["src.main.java.mx.uam.dsmviewer.data.nameprocessing.NameProcessor_java"],"cells":[],"relationTypes":[]}
+{"name":"fg_19.json","variables":["src/main/java/mx/uam/dsmviewer/model/dto/DependencyConstraintDTO.java","src/main/java/mx/uam/dsmviewer/model/dto/ElementConstraintDTO.java","src/main/java/mx/uam/dsmviewer/model/dto/MatrixConstraintsDTO.java"],"cells":[{"src":2,"dest":1,"values":{"Parameter":1.0,"Use":2.0}},{"src":2,"dest":0,"values":{"Parameter":1.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}

@@ -1,0 +1,1 @@
+{"name":"fg_0265.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/content/Content.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/content/ContentName.java"],"cells":[{"src":1,"dest":0,"values":{"Call":3.0,"Extend":1.0}}],"relationTypes":["Call","Extend"]}

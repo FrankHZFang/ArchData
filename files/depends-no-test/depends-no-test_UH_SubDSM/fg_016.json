@@ -1,1 +1,1 @@
-{"name":"fg_016.json","variables":["depends/extractor/FileParser.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_016.json","variables":["depends/entity/repo/IdGenerator.java","depends/entity/repo/SimpleIdGenerator.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

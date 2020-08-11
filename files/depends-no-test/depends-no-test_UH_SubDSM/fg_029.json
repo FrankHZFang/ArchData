@@ -1,1 +1,1 @@
-{"name":"fg_029.json","variables":["depends/extractor/ruby/IncludedFileLocator.java","depends/util/FileUtil.java"],"cells":[{"src":0,"dest":1,"values":{"Call":6.0,"Import":1.0,"Use":6.0}}],"relationTypes":["Call","Import","Use"]}
+{"name":"fg_029.json","variables":["depends/entity/GenericName.java","depends/extractor/java/context/ClassTypeContextHelper.java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Parameter":8.0,"Import":1.0,"Use":9.0}}],"relationTypes":["Call","Parameter","Import","Use"]}

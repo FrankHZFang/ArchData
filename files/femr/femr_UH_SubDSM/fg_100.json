@@ -1,1 +1,1 @@
-{"name":"fg_100.json","variables":["femr/util/InternetConnnection/InternetConnectionUtil.java","femr/util/tasks/MaintainReverseSshTunnelTask.java"],"cells":[{"src":1,"dest":0,"values":{"Call":3.0,"Import":1.0,"Use":3.0}}],"relationTypes":["Call","Import","Use"]}
+{"name":"fg_100.json","variables":["femr/data/models/core/IMedicationGeneric.java","femr/data/models/mysql/concepts/ConceptMedicationGeneric.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

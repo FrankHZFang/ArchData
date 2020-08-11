@@ -15,7 +15,7 @@
           "name" : "L0/M0/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.MapSite.java"
+            "name" : "MapSite.java"
           } ]
         } ]
       }, {
@@ -26,10 +26,10 @@
           "name" : "L0/M0/L1/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.Room.java"
+            "name" : "Room.java"
           }, {
             "@type" : "item",
-            "name" : "src.maze.Direction.java"
+            "name" : "Direction.java"
           } ]
         } ]
       }, {
@@ -40,21 +40,21 @@
           "name" : "L0/M0/L2/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.Wall.java"
+            "name" : "Wall.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L0/M0/L2/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.Maze.java"
+            "name" : "Maze.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L0/M0/L2/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.Door.java"
+            "name" : "Door.java"
           } ]
         } ]
       }, {
@@ -62,7 +62,7 @@
         "name" : "L0/M0/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "src.maze.MazeFactory.java"
+          "name" : "MazeFactory.java"
         } ]
       } ]
     } ]
@@ -80,14 +80,14 @@
           "name" : "L1/M0/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.RedWall.java"
+            "name" : "RedWall.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L1/M0/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.RedRoom.java"
+            "name" : "RedRoom.java"
           } ]
         } ]
       }, {
@@ -95,7 +95,7 @@
         "name" : "L1/M0/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "src.maze.RedMazeFactory.java"
+          "name" : "RedMazeFactory.java"
         } ]
       } ]
     }, {
@@ -109,21 +109,21 @@
           "name" : "L1/M1/L0/M0",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.GreenRoom.java"
+            "name" : "GreenRoom.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L1/M1/L0/M1",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.BrownDoor.java"
+            "name" : "BrownDoor.java"
           } ]
         }, {
           "@type" : "group",
           "name" : "L1/M1/L0/M2",
           "nested" : [ {
             "@type" : "item",
-            "name" : "src.maze.BlueWall.java"
+            "name" : "BlueWall.java"
           } ]
         } ]
       }, {
@@ -131,7 +131,7 @@
         "name" : "L1/M1/Control",
         "nested" : [ {
           "@type" : "item",
-          "name" : "src.maze.BlueMazeFactory.java"
+          "name" : "BlueMazeFactory.java"
         } ]
       } ]
     } ]
@@ -140,7 +140,7 @@
     "name" : "Control",
     "nested" : [ {
       "@type" : "item",
-      "name" : "src.maze.MazeGameAbstractFactory.java"
+      "name" : "MazeGameAbstractFactory.java"
     } ]
   } ]
 }

@@ -1,1 +1,0 @@
-{"name":"dv8-no-test_422.json","variables":["dv8.core.impl.src.main.java.com.archdia.dv8.math.IntSequence_java","dv8.core.impl.src.main.java.com.archdia.dv8.math.PolynomialIntSequence_java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

@@ -1,1 +1,1 @@
-{"name":"fg_026.json","variables":["depends/extractor/java/context/QualitiedNameContextHelper.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_026.json","variables":["depends/matrix/transform/strip/ILeadingNameStrippper.java","depends/matrix/transform/strip/LeadingNameStripper.java","depends/util/FileUtil.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}},{"src":1,"dest":2,"values":{"Call":1.0,"Import":1.0,"Use":1.0}}],"relationTypes":["Implement","Call","Import","Use"]}

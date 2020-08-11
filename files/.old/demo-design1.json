@@ -1,0 +1,76 @@
+{
+    "name": "demo-design1",
+    "items": [
+        {
+            "name": "Downloads",
+            "type": "download",
+            "data": {
+                "dsm": "demo-design1.json",
+                "functionGroups": "demo-design1_FunctionGroups.zip",
+                "downloads": [
+                    {
+                        "name": "Source Code",
+                        "path": "design_1.zip"
+                    },
+                    {
+                        "name": "Uses-Hierarchy Dot File",
+                        "path": "demo-design1_UH.dot",
+                        "desc": "The dot file of Uses-Hierarchy which can be opened by GraphViz"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "demo-design1_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "demo-design1_UH_SubDSM",
+            "dataFiles": [
+                "demo-design1_UH.json",
+                "demo-design1_UH_EntryFiles.json",
+                "demo-design1_UH_tfidf.json"
+            ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "demo-design1_UH.json",
+                "demo-design1_UH_EntryFiles.json",
+                "demo-design1_UH_DSM.json",
+                "demo-design1.json",
+                "demo-design1_UH_tfidf.json",
+                "demo-design1_UH_EntryFiles_tfidf.json",
+                "demo-design1_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Facet Hierarchy",
+            "type": "facet-hierarchy",
+            "dataFiles": [
+                "demo-design1_UH.json",
+                "demo-design1_UH_EntryFiles.json",
+                "demo-design1_UH_DSM.json",
+                "demo-design1.json",
+                "demo-design1_UH_tfidf.json",
+                "demo-design1_UH_EntryFiles_tfidf.json",
+                "demo-design1_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Uses Hierarchy",
+            "type": "dag",
+            "dataFiles": [
+                "demo-design1_UH.json",
+                "demo-design1_UH_EntryFiles.json",
+                "demo-design1_UH_EntryFiles_DSM.json"
+            ]
+        }
+    ]
+}

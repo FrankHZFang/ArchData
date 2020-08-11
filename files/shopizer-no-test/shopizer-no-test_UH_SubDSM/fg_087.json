@@ -1,1 +1,0 @@
-{"name":"fg_087.json","variables":["sm-shop-model.src.main.java.com.salesmanager.shop.model.entity.Entity_java","sm-shop.src.main.java.com.salesmanager.shop.store.security.AuthenticationResponse_java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Import":1.0,"Extend":1.0,"Use":1.0}}],"relationTypes":["Call","Import","Extend","Use"]}

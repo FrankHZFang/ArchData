@@ -1,1 +1,0 @@
-{"name":"dv8-no-test_403.json","variables":["dv8.core.api.src.main.java.com.archdia.dv8.license.timechecker.HttpTimeServer_java","dv8.core.api.src.main.java.com.archdia.dv8.license.timechecker.TimeServer_java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

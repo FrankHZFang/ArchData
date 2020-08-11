@@ -1,1 +1,1 @@
-{"name":"fg_051.json","variables":["depends/extractor/cpp/MacroRepo.java","depends/extractor/cpp/cdt/GPPParserExtensionConfigurationExtension.java","depends/util/FileUtil.java"],"cells":[{"src":0,"dest":2,"values":{"Call":1.0,"Import":1.0,"Use":1.0}},{"src":0,"dest":1,"values":{"Call":1.0,"Import":1.0,"Create":1.0}}],"relationTypes":["Call","Import","Use","Create"]}
+{"name":"fg_051.json","variables":["depends/extractor/kotlin/ContextHelper.java"],"cells":[],"relationTypes":[]}

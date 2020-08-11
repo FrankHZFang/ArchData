@@ -1,0 +1,1 @@
+{"name":"fg_0744.json","variables":["sm-shop/src/main/java/com/salesmanager/shop/admin/model/permission/ShopGroup.java","sm-shop/src/main/java/com/salesmanager/shop/admin/model/permission/ShopPermission.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Return","Contain","Use"]}

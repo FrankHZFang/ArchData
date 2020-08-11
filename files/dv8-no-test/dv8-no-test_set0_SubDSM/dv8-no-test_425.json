@@ -1,1 +1,0 @@
-{"name":"dv8-no-test_425.json","variables":["dv8.core.impl.src.main.java.com.archdia.dv8.xml.time.OffsetDateTimeXmlAdapter_java","dv8.core.plugins.scm.src.main.java.com.archdia.dv8.scm.history.svn.package-info_java"],"cells":[{"src":1,"dest":0,"values":{"Use":1.0,"Import":1.0}}],"relationTypes":["Use","Import"]}

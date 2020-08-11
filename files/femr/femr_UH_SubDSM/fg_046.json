@@ -1,1 +1,1 @@
-{"name":"fg_046.json","variables":["femr/common/models/TripItem.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_046.json","variables":["femr/data/models/core/IMissionCountry.java","femr/data/models/mysql/MissionCountry.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

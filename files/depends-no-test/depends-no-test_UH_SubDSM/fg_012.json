@@ -1,1 +1,1 @@
-{"name":"fg_012.json","variables":["depends/matrix/transform/strip/EmptyLeadingNameStripper.java","depends/matrix/transform/strip/ILeadingNameStrippper.java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}
+{"name":"fg_012.json","variables":["depends/deptypes/DependencyType.java"],"cells":[],"relationTypes":[]}

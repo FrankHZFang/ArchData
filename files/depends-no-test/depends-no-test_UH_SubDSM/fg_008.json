@@ -1,1 +1,1 @@
-{"name":"fg_008.json","variables":["depends/matrix/core/DependencyDetail.java","depends/matrix/core/DependencyValue.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":3.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}
+{"name":"fg_008.json","variables":["depends/matrix/core/DependencyDetail.java"],"cells":[],"relationTypes":[]}

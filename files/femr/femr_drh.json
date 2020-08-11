@@ -533,7 +533,7 @@
         } ]
       }, {
         "@type" : "group",
-        "name" : "L3/M4/M0",
+        "name" : "L3/M4/M1",
         "nested" : [ {
           "@type" : "item",
           "name" : "femr/ui/helpers/security/FEMRAuthenticated.java"
@@ -740,7 +740,7 @@
         } ]
       }, {
         "@type" : "group",
-        "name" : "L4/M0/M0",
+        "name" : "L4/M0/M3",
         "nested" : [ {
           "@type" : "item",
           "name" : "femr/data/models/core/IVital.java"
@@ -865,7 +865,7 @@
         } ]
       }, {
         "@type" : "group",
-        "name" : "L5/M0/M0",
+        "name" : "L5/M0/M1",
         "nested" : [ {
           "@type" : "item",
           "name" : "femr/data/models/core/IPatientEncounterVital.java"
@@ -1019,14 +1019,14 @@
         } ]
       }, {
         "@type" : "group",
-        "name" : "L6/M1/M0",
+        "name" : "L6/M1/M1",
         "nested" : [ {
           "@type" : "item",
           "name" : "femr/data/daos/core/IPatientRepository.java"
         } ]
       }, {
         "@type" : "group",
-        "name" : "L6/M1/M1",
+        "name" : "L6/M1/M2",
         "nested" : [ {
           "@type" : "item",
           "name" : "femr/data/daos/IRepository.java"
@@ -1051,7 +1051,7 @@
         } ]
       }, {
         "@type" : "group",
-        "name" : "L7/M0/M0",
+        "name" : "L7/M0/M1",
         "nested" : [ {
           "@type" : "item",
           "name" : "femr/common/IItemModelMapper.java"

@@ -1,0 +1,75 @@
+{
+    "name": "femr",
+    "items": [
+        {
+            "name": "Downloads",
+            "type": "download",
+            "data": {
+                "dsm": "femr.json",
+                "functionGroups": "femr_FunctionGroups.zip",
+                "downloads": [
+                    {
+                        "name": "Uses-Hierarchy Dot File",
+                        "path": "femr_UH.dot",
+                        "desc": "The dot file of Uses-Hierarchy which can be opened by GraphViz"
+                    }
+                ],
+                "url": {
+                    "Source Code": "https://github.com/FEMR/femr"
+                }
+            }
+        },
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "femr_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "femr_UH_SubDSM",
+            "dataFiles": [
+                "femr_UH.json",
+                "femr_UH_EntryFiles.json",
+                "femr_UH_tfidf.json"
+            ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "femr_UH.json",
+                "femr_UH_EntryFiles.json",
+                "femr_UH_DSM.json",
+                "femr.json",
+                "femr_UH_tfidf.json",
+                "femr_UH_EntryFiles_tfidf.json",
+                "femr_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Facet Hierarchy",
+            "type": "facet-hierarchy",
+            "dataFiles": [
+                "femr_UH.json",
+                "femr_UH_EntryFiles.json",
+                "femr_UH_DSM.json",
+                "femr.json",
+                "femr_UH_tfidf.json",
+                "femr_UH_EntryFiles_tfidf.json",
+                "femr_UH_EntryFiles_DSM.json"
+            ]
+        },
+        {
+            "name": "Uses Hierarchy",
+            "type": "dag",
+            "dataFiles": [
+                "femr_UH.json",
+                "femr_UH_EntryFiles.json",
+                "femr_UH_EntryFiles_DSM.json"
+            ]
+        }
+    ]
+}

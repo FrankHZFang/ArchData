@@ -1,1 +1,1 @@
-{"name":"fg_03.json","variables":["src.maze.MapSite.java","src.maze.Wall.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}
+{"name":"fg_03.json","variables":["Direction.java","MapSite.java","Room.java"],"cells":[{"src":2,"dest":1,"values":{"Call":2.0,"Return":1.0,"Extend":1.0,"Use":4.0,"Create":1.0,"Parameter":1.0,"Contain":1.0}},{"src":2,"dest":0,"values":{"Parameter":2.0}}],"relationTypes":["Call","Return","Extend","Use","Create","Parameter","Contain"]}

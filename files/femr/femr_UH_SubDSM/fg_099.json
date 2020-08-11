@@ -1,1 +1,1 @@
-{"name":"fg_099.json","variables":["femr/util/InternetConnnection/InternetConnectionUtil.java","femr/util/tasks/SendLocationDataTask.java"],"cells":[{"src":1,"dest":0,"values":{"Call":4.0,"Import":1.0,"Use":4.0}}],"relationTypes":["Call","Import","Use"]}
+{"name":"fg_099.json","variables":["femr/data/models/core/IPatientEncounterPhoto.java"],"cells":[],"relationTypes":[]}
