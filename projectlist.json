@@ -5,8 +5,28 @@
         "desc": "Health care management system"
     },
     {
+        "name": "femr_depth5",
+        "file": "femr_depth5",
+        "desc": "Health care management system"
+    },
+    {
+        "name": "femr_depth6",
+        "file": "femr_depth6",
+        "desc": "Health care management system"
+    },
+    {
         "name": "Depends",
         "file": "depends-no-test",
+        "desc": "Depend extraction tool without test files"
+    },
+    {
+        "name": "Depends_depth5",
+        "file": "depends-no-test_depth5",
+        "desc": "Depend extraction tool without test files"
+    },
+    {
+        "name": "Depends_depth6",
+        "file": "depends-no-test_depth6",
         "desc": "Depend extraction tool without test files"
     },
     {
@@ -30,13 +50,43 @@
         "desc": ""
     },
     {
+        "name": "Dv8_depth5",
+        "file": "dv8-no-test_depth5",
+        "desc": ""
+    },
+    {
+        "name": "Dv8_depth6",
+        "file": "dv8-no-test_depth6",
+        "desc": ""
+    },
+    {
         "name": "Archinaut",
         "file": "archinaut",
         "desc": ""
     },
     {
+        "name": "Archinaut_depth5",
+        "file": "archinaut_depth5",
+        "desc": ""
+    },
+    {
+        "name": "Archinaut_depth6",
+        "file": "archinaut_depth6",
+        "desc": ""
+    },
+    {
         "name": "Shopizer",
         "file": "shopizer-no-test",
+        "desc": ""
+    },
+    {
+        "name": "Shopizer_depth5",
+        "file": "shopizer-no-test_depth5",
+        "desc": ""
+    },
+    {
+        "name": "Shopizer_depth6",
+        "file": "shopizer-no-test_depth6",
         "desc": ""
     }
 ]
