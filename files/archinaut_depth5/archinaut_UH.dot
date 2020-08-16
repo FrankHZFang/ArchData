@@ -1,0 +1,26 @@
+digraph G { 
+"fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement" -> "fg_01: ElementMetric"; 
+"fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement" -> "fg_03: ElementMethod"; 
+"fg_05: MatrixElementTest" -> "fg_01: ElementMetric"; 
+"fg_05: MatrixElementTest" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement"; 
+"fg_06: " -> "fg_01: ElementMetric"; 
+"fg_06: " -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement"; 
+"fg_07: " -> "fg_06: "; 
+"fg_07: " -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement"; 
+"fg_08: " -> "fg_06: "; 
+"fg_08: " -> "fg_04: Message"; 
+"fg_08: " -> "fg_01: ElementMetric"; 
+"fg_08: " -> "fg_03: ElementMethod"; 
+"fg_08: " -> "fg_07: "; 
+"fg_08: " -> "fg_09: JTableDesignStructureMatrix"; 
+"fg_08: " -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement"; 
+"fg_09: JTableDesignStructureMatrix" -> "fg_06: "; 
+"fg_09: JTableDesignStructureMatrix" -> "fg_04: Message"; 
+"fg_09: JTableDesignStructureMatrix" -> "fg_01: ElementMetric"; 
+"fg_09: JTableDesignStructureMatrix" -> "fg_07: "; 
+"fg_09: JTableDesignStructureMatrix" -> "fg_08: "; 
+"fg_09: JTableDesignStructureMatrix" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement"; 
+"fg_11: Application" -> "fg_08: "; 
+"fg_11: Application" -> "fg_10: SplashScreen"; 
+"fg_12: ShowDependentsMessage" -> "fg_04: Message"; 
+}

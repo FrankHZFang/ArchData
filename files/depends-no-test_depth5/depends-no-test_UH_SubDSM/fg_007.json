@@ -1,0 +1,1 @@
+{"name":"fg_007.json","variables":["depends/util/FileTraversal.java","depends/util/FolderCollector.java"],"cells":[{"src":1,"dest":0,"values":{"Call":2.0,"Import":1.0,"Use":1.0,"Create":1.0,"Implement":1.0,"Contain":1.0}}],"relationTypes":["Call","Import","Use","Create","Implement","Contain"]}

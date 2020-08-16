@@ -1,0 +1,1 @@
+{"name":"fg_008.json","variables":["femr/common/models/MedicationItem.java","femr/common/models/PrescriptionItem.java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Parameter":3.0,"Return":1.0,"Contain":1.0,"Use":3.0}}],"relationTypes":["Call","Parameter","Return","Contain","Use"]}

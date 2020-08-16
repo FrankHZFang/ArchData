@@ -1,0 +1,28 @@
+digraph G { 
+"fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup" -> "fg_01: ElementMetric"; 
+"fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup" -> "fg_03: ElementMethod"; 
+"fg_05: MatrixElementTest" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup"; 
+"fg_05: MatrixElementTest" -> "fg_01: ElementMetric"; 
+"fg_06: DesignStructureMatrix" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup"; 
+"fg_06: DesignStructureMatrix" -> "fg_01: ElementMetric"; 
+"fg_08: DSMTableModel" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup"; 
+"fg_08: DSMTableModel" -> "fg_06: DesignStructureMatrix"; 
+"fg_09: TrendsAnalysisView" -> "fg_08: DSMTableModel"; 
+"fg_09: TrendsAnalysisView" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup"; 
+"fg_09: TrendsAnalysisView" -> "fg_07: HeatmapColorProvider"; 
+"fg_09: TrendsAnalysisView" -> "fg_01: ElementMetric"; 
+"fg_09: TrendsAnalysisView" -> "fg_06: DesignStructureMatrix"; 
+"fg_09: TrendsAnalysisView" -> "fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer"; 
+"fg_09: TrendsAnalysisView" -> "fg_03: ElementMethod"; 
+"fg_09: TrendsAnalysisView" -> "fg_04: Message"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_08: DSMTableModel"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_02: MatrixDependencyGroup,ElementConstraint,MatrixElement,AggregateMatrixDependencyGroup,MatrixElementGroup"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_07: HeatmapColorProvider"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_01: ElementMetric"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_06: DesignStructureMatrix"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_09: TrendsAnalysisView"; 
+"fg_10: RowHeaderRenderer,HeaderRenderer,JTableDesignStructureMatrix,MatrixCellRenderer" -> "fg_04: Message"; 
+"fg_12: Application" -> "fg_11: SplashScreen"; 
+"fg_12: Application" -> "fg_09: TrendsAnalysisView"; 
+"fg_13: ShowDependentsMessage" -> "fg_04: Message"; 
+}

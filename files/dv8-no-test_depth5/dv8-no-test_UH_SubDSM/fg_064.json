@@ -1,0 +1,1 @@
+{"name":"fg_064.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/cluster/ClusterParent.java","dv8/core/api/src/main/java/com/archdia/dv8/util/Named.java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}

@@ -1,0 +1,1 @@
+{"name":"fg_062.json","variables":["femr/data/models/core/ITabFieldSize.java","femr/data/models/mysql/TabFieldSize.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

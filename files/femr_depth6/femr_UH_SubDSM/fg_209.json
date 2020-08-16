@@ -1,0 +1,1 @@
+{"name":"fg_209.json","variables":["femr/common/models/MedicationItem.java","femr/common/models/MissionTripItem.java","femr/ui/models/admin/inventory/ManageViewModelPost.java"],"cells":[{"src":2,"dest":1,"values":{"Import":1.0}},{"src":2,"dest":0,"values":{"Import":1.0}}],"relationTypes":["Import"]}

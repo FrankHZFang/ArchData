@@ -1,0 +1,1 @@
+{"name":"fg_0267.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/model/order/payment/CreditCard.java","sm-core-model/src/main/java/com/salesmanager/core/model/payments/CreditCardType.java"],"cells":[{"src":0,"dest":1,"values":{"Parameter":1.0,"Import":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Import","Return","Contain","Use"]}

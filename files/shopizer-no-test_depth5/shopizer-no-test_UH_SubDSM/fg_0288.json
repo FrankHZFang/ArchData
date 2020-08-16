@@ -1,0 +1,1 @@
+{"name":"fg_0288.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/catalog/product/attribute/ReadableProductVariant.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/catalog/product/attribute/ReadableProductVariantValue.java"],"cells":[{"src":0,"dest":1,"values":{"Parameter":2.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}

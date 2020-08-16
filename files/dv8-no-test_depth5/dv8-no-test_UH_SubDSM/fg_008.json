@@ -1,0 +1,1 @@
+{"name":"fg_008.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/project/ProjectResource.java","dv8/core/api/src/main/java/com/archdia/dv8/project/metadata/MetadataAccessor.java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}

@@ -1,0 +1,1 @@
+{"name":"fg_0106.json","variables":["sm-shop/src/main/java/com/salesmanager/shop/store/api/exception/GenericRuntimeException.java","sm-shop/src/main/java/com/salesmanager/shop/store/api/exception/RestApiException.java"],"cells":[{"src":1,"dest":0,"values":{"Call":5.0,"Extend":1.0}}],"relationTypes":["Call","Extend"]}

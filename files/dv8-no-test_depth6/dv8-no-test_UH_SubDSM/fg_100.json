@@ -1,0 +1,1 @@
+{"name":"fg_100.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/ErrorCode.java","dv8/explorer/plugins/arch-report/src/main/java/com/archdia/dv8/explorer/archreport/ErrorCodeRegistry.java"],"cells":[{"src":1,"dest":0,"values":{"Import":1.0}}],"relationTypes":["Import"]}
