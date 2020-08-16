@@ -1,1 +1,1 @@
-{"name":"fg_072.json","variables":["femr/data/models/core/IRole.java","femr/data/models/core/IUser.java","femr/ui/models/admin/users/IndexViewModelGet.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":1.0}},{"src":2,"dest":1,"values":{"Parameter":2.0,"Import":1.0,"Return":1.0,"Use":2.0}}],"relationTypes":["Parameter","Import","Return","Use"]}
+{"name":"fg_072.json","variables":["femr/data/models/core/IVital.java","femr/data/models/mysql/Vital.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

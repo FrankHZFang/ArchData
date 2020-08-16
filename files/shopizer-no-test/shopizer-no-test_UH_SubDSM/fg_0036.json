@@ -1,1 +1,1 @@
-{"name":"fg_0036.json","variables":["sm-shop/src/main/java/com/salesmanager/shop/store/model/filter/QueryFilter.java","sm-shop/src/main/java/com/salesmanager/shop/store/model/filter/QueryFilterType.java"],"cells":[{"src":0,"dest":1,"values":{"Parameter":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Return","Contain","Use"]}
+{"name":"fg_0036.json","variables":["sm-shop/src/main/java/com/salesmanager/shop/admin/security/SecurityDataAccessException.java"],"cells":[],"relationTypes":[]}

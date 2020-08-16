@@ -1,1 +1,1 @@
-{"name":"fg_0074.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/entity/Entity.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/entity/ShopEntity.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}
+{"name":"fg_0074.json","variables":["sm-core/src/main/java/com/salesmanager/core/business/modules/integration/shipping/impl/ShippingInputParameters.java"],"cells":[],"relationTypes":[]}

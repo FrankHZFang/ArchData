@@ -1,1 +1,1 @@
-{"name":"fg_0003.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/model/generic/SalesManagerEntity.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_0003.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/model/common/audit/AuditSection.java","sm-core-model/src/main/java/com/salesmanager/core/utils/CloneUtils.java"],"cells":[{"src":0,"dest":1,"values":{"Call":4.0,"Import":1.0,"Use":4.0}}],"relationTypes":["Call","Import","Use"]}

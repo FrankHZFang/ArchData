@@ -1,1 +1,1 @@
-{"name":"fg_448.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/license/timechecker/HttpTimeServer.java","dv8/core/api/src/main/java/com/archdia/dv8/license/timechecker/TimeServer.java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}
+{"name":"fg_448.json","variables":["dv8/console/plugins/minos/src/main/java/com/archdia/dv8/console/minos/ErrorCodeRegistry.java","dv8/core/api/src/main/java/com/archdia/dv8/ErrorCode.java"],"cells":[{"src":0,"dest":1,"values":{"Import":1.0}}],"relationTypes":["Import"]}

@@ -1,6 +1,13 @@
 digraph G { 
-"fg_03: MatrixElementTest" -> "fg_01: MatrixElement"; 
-"fg_04: Application" -> "fg_01: MatrixElement"; 
-"fg_04: Application" -> "fg_02: Message"; 
-"fg_05: ShowDependentsMessage" -> "fg_02: Message"; 
+"fg_05: MatrixElement" -> "fg_01: ElementMetric"; 
+"fg_05: MatrixElement" -> "fg_03: ElementMethod"; 
+"fg_07: MatrixElementTest" -> "fg_05: MatrixElement"; 
+"fg_07: MatrixElementTest" -> "fg_01: ElementMetric"; 
+"fg_08: JTableDesignStructureMatrix" -> "fg_06: Message"; 
+"fg_08: JTableDesignStructureMatrix" -> "fg_05: MatrixElement"; 
+"fg_08: JTableDesignStructureMatrix" -> "fg_03: ElementMethod"; 
+"fg_08: JTableDesignStructureMatrix" -> "fg_01: ElementMetric"; 
+"fg_10: Application" -> "fg_09: SplashScreen"; 
+"fg_10: Application" -> "fg_08: JTableDesignStructureMatrix"; 
+"fg_11: ShowDependentsMessage" -> "fg_06: Message"; 
 }

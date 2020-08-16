@@ -1,1 +1,1 @@
-{"name":"fg_359.json","variables":["dv8/explorer/plugins/arch-report/src/main/java/com/archdia/dv8/explorer/archreport/ui/LabelTextField.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_359.json","variables":["dv8/console/plugins/cytoscape/src/main/java/com/archdia/dv8/console/cytoscape/ErrorCodeRegistry.java","dv8/core/api/src/main/java/com/archdia/dv8/ErrorCode.java"],"cells":[{"src":0,"dest":1,"values":{"Import":1.0}}],"relationTypes":["Import"]}

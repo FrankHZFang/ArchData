@@ -1,1 +1,1 @@
-{"name":"fg_0031.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/customer/UserAlreadyExistException.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_0031.json","variables":["sm-shop/src/main/java/com/salesmanager/shop/store/security/common/CustomAuthenticationException.java"],"cells":[],"relationTypes":[]}
