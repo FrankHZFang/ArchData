@@ -1,1 +1,1 @@
-{"name":"fg_0768.json","variables":["sm-core/_mvn/wrapper/MavenWrapperDownloader.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_0768.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/content/Content.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/content/ReadableContent.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}

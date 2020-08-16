@@ -1,1 +1,0 @@
-{"name":"fg_35.json","variables":["src/main/java/mx/uam/dsmviewer/presentation/events/ElementSelectedMessage.java","src/main/java/mx/uam/dsmviewer/presentation/events/Message.java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Call":2.0}}],"relationTypes":["Extend","Call"]}

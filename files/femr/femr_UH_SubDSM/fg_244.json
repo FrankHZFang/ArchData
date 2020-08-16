@@ -1,1 +1,0 @@
-{"name":"fg_244.json","variables":["femr/common/models/MissionTripItem.java","femr/ui/models/admin/inventory/CustomViewModelGet.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":1.0,"Import":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Import","Return","Contain","Use"]}

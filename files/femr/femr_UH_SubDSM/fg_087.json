@@ -1,1 +1,1 @@
-{"name":"fg_087.json","variables":["femr/util/encryptions/BCryptPasswordEncryptor.java","femr/util/encryptions/IPasswordEncryptor.java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}
+{"name":"fg_087.json","variables":["femr/business/wrappers/sessions/ISessionHelper.java","femr/business/wrappers/sessions/SessionHelper.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

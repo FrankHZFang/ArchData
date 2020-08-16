@@ -1,1 +1,1 @@
-{"name":"fg_416.json","variables":["dv8/core/impl/src/main/java/com/archdia/dv8/math/IntSequence.java","dv8/core/impl/src/main/java/com/archdia/dv8/math/PolynomialIntSequence.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}
+{"name":"fg_416.json","variables":["dv8/core/impl/src/main/java/com/archdia/dv8/math/IntSequence.java","dv8/core/impl/src/main/java/com/archdia/dv8/math/MersenneSequence.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

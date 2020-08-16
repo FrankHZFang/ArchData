@@ -1,1 +1,1 @@
-{"name":"fg_105.json","variables":["dv8/console/plugins/debt-export/src/main/java/com/archdia/dv8/console/debtexport/content/OfficeCellStyle.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_105.json","variables":["dv8/core/impl/src/main/java/com/archdia/dv8/naming/AbstractOrdered.java","dv8/core/impl/src/main/java/com/archdia/dv8/naming/Ordered.java"],"cells":[{"src":0,"dest":1,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}

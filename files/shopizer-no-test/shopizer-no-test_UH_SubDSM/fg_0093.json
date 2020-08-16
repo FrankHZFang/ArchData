@@ -1,1 +1,1 @@
-{"name":"fg_0093.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/entity/Entity.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/order/total/OrderTotal.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}
+{"name":"fg_0093.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/validation/Enum.java","sm-shop-model/src/main/java/com/salesmanager/shop/validation/EnumValidator.java"],"cells":[{"src":0,"dest":1,"values":{"Use":1.0}}],"relationTypes":["Use"]}

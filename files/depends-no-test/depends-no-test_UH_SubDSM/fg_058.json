@@ -1,1 +1,0 @@
-{"name":"fg_058.json","variables":["depends/extractor/cpp/Scanner.java","depends/extractor/cpp/cdt/FileCache.java"],"cells":[{"src":0,"dest":1,"values":{"Call":8.0,"Import":1.0,"Use":4.0}}],"relationTypes":["Call","Import","Use"]}

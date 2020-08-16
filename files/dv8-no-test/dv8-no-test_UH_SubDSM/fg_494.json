@@ -1,1 +1,0 @@
-{"name":"fg_494.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/matrix/DependencyType.java","dv8/core/impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyTypeJsonDeserializer.java"],"cells":[{"src":1,"dest":0,"values":{"Call":2.0,"Import":1.0,"Return":1.0,"Use":1.0,"Create":1.0}}],"relationTypes":["Call","Import","Return","Use","Create"]}

@@ -1,1 +1,0 @@
-{"name":"fg_101.json","variables":["depends/format/xml/XCell.java","depends/format/xml/XCells.java","depends/format/xml/XDepend.java"],"cells":[{"src":0,"dest":2,"values":{"Parameter":2.0,"Use":2.0}},{"src":1,"dest":0,"values":{"Parameter":2.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}
