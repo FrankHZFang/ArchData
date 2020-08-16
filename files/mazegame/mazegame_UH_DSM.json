@@ -1,1 +1,1 @@
-{"name":"mazegame_UH_DSM.json","variables":["fg_01","fg_02","fg_03"],"cells":[{"src":1,"dest":0,"values":{"Any":1.0}},{"src":2,"dest":0,"values":{"Any":1.0}}],"relationTypes":["Any"]}
+{"name":"mazegame_UH_DSM.json","variables":["fg_01","fg_02","fg_03","fg_04"],"cells":[{"src":1,"dest":0,"values":{"Any":1.0}},{"src":2,"dest":0,"values":{"Any":1.0}},{"src":3,"dest":0,"values":{"Any":1.0}},{"src":3,"dest":2,"values":{"Any":1.0}},{"src":3,"dest":1,"values":{"Any":1.0}}],"relationTypes":["Any"]}

@@ -1,4 +1,7 @@
 digraph G { 
 "fg_02: Test" -> "fg_01: "; 
 "fg_03: Survey" -> "fg_01: "; 
+"fg_04: Interface" -> "fg_03: Survey"; 
+"fg_04: Interface" -> "fg_01: "; 
+"fg_04: Interface" -> "fg_02: Test"; 
 }

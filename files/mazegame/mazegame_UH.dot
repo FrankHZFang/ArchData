@@ -1,4 +1,7 @@
 digraph G { 
 "fg_02: RedMazeFactory" -> "fg_01: MazeFactory"; 
 "fg_03: BlueMazeFactory" -> "fg_01: MazeFactory"; 
+"fg_04: MazeGameAbstractFactory" -> "fg_01: MazeFactory"; 
+"fg_04: MazeGameAbstractFactory" -> "fg_03: BlueMazeFactory"; 
+"fg_04: MazeGameAbstractFactory" -> "fg_02: RedMazeFactory"; 
 }

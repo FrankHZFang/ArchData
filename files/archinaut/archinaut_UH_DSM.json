@@ -1,1 +1,1 @@
-{"name":"archinaut_UH_DSM.json","variables":["fg_01","fg_02","fg_03","fg_04","fg_05"],"cells":[{"src":2,"dest":0,"values":{"Any":1.0}},{"src":3,"dest":0,"values":{"Any":1.0}},{"src":3,"dest":1,"values":{"Any":1.0}},{"src":4,"dest":1,"values":{"Any":1.0}}],"relationTypes":["Any"]}
+{"name":"archinaut_UH_DSM.json","variables":["fg_01","fg_02","fg_03","fg_04","fg_05","fg_06"],"cells":[{"src":2,"dest":0,"values":{"Any":1.0}},{"src":3,"dest":0,"values":{"Any":1.0}},{"src":3,"dest":1,"values":{"Any":1.0}},{"src":4,"dest":1,"values":{"Any":1.0}}],"relationTypes":["Any"]}

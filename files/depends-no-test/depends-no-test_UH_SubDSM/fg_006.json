@@ -1,1 +1,1 @@
-{"name":"fg_006.json","variables":["depends/util/TemporaryFile.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_006.json","variables":["depends/extractor/cpp/cdt/ANSICParserExtensionConfigurationExtension.java","depends/extractor/cpp/cdt/CommentManager.java"],"cells":[],"relationTypes":[]}
