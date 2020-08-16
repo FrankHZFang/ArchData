@@ -1,1 +1,1 @@
-{"name":"fg_0060.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/model/search/IndexProduct.java","sm-core-model/src/main/java/com/salesmanager/core/model/search/SearchEntry.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Return","Contain","Use"]}
+{"name":"fg_0060.json","variables":["sm-core/src/main/java/com/salesmanager/core/business/modules/cms/common/AssetsManager.java"],"cells":[],"relationTypes":[]}

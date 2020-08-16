@@ -1,33 +1,4 @@
 digraph G { 
-"fg_02: Question" -> "fg_01: UI"; 
-"fg_03: Answer" -> "fg_02: Question"; 
-"fg_03: Answer" -> "fg_01: UI"; 
-"fg_04: Survey" -> "fg_02: Question"; 
-"fg_05: EssayAnswer,Written" -> "fg_02: Question"; 
-"fg_05: EssayAnswer,Written" -> "fg_03: Answer"; 
-"fg_05: EssayAnswer,Written" -> "fg_01: UI"; 
-"fg_06: AnswerSheet" -> "fg_07: Test"; 
-"fg_07: Test" -> "fg_02: Question"; 
-"fg_07: Test" -> "fg_03: Answer"; 
-"fg_07: Test" -> "fg_04: Survey"; 
-"fg_08: SaveLoadFile" -> "fg_04: Survey"; 
-"fg_09: Match,MatchingAnswer" -> "fg_03: Answer"; 
-"fg_09: Match,MatchingAnswer" -> "fg_02: Question"; 
-"fg_09: Match,MatchingAnswer" -> "fg_01: UI"; 
-"fg_10: CommandLineUI" -> "fg_01: UI"; 
-"fg_11: ChoiceAnswer,Choice" -> "fg_03: Answer"; 
-"fg_11: ChoiceAnswer,Choice" -> "fg_02: Question"; 
-"fg_11: ChoiceAnswer,Choice" -> "fg_01: UI"; 
-"fg_12: ProgramMain" -> "fg_08: SaveLoadFile"; 
-"fg_12: ProgramMain" -> "fg_02: Question"; 
-"fg_12: ProgramMain" -> "fg_03: Answer"; 
-"fg_12: ProgramMain" -> "fg_01: UI"; 
-"fg_12: ProgramMain" -> "fg_09: Match,MatchingAnswer"; 
-"fg_12: ProgramMain" -> "fg_06: AnswerSheet"; 
-"fg_12: ProgramMain" -> "fg_04: Survey"; 
-"fg_12: ProgramMain" -> "fg_11: ChoiceAnswer,Choice"; 
-"fg_12: ProgramMain" -> "fg_05: EssayAnswer,Written"; 
-"fg_12: ProgramMain" -> "fg_10: CommandLineUI"; 
-"fg_12: ProgramMain" -> "fg_07: Test"; 
-"fg_13: TextFileUI" -> "fg_01: UI"; 
+"fg_02: ProgramMain" -> "fg_01: UI"; 
+"fg_03: TextFileUI" -> "fg_01: UI"; 
 }

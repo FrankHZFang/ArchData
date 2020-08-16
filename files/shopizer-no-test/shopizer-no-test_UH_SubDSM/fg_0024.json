@@ -1,1 +1,1 @@
-{"name":"fg_0024.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/customer/address/Address.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/customer/address/AddressLocation.java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}
+{"name":"fg_0024.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/business/exception/ConversionException.java"],"cells":[],"relationTypes":[]}
