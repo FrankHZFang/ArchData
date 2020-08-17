@@ -35,6 +35,11 @@
         "desc": ""
     },
     {
+        "name": "Archinaut, depth 4",
+        "file": "archinaut_depth4",
+        "desc": ""
+    },
+    {
         "name": "Shopizer",
         "file": "shopizer-no-test",
         "desc": ""
