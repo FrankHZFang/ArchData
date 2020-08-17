@@ -1,1 +1,0 @@
-{"name":"fg_13.json","variables":["src/main/java/mx/uam/dsmviewer/presentation/events/Message.java","src/main/java/mx/uam/dsmviewer/presentation/events/ShowDependentsMessage.java"],"cells":[{"src":1,"dest":0,"values":{"Call":2.0,"Extend":1.0}}],"relationTypes":["Call","Extend"]}

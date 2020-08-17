@@ -1,1 +1,0 @@
-{"name":"fg_0100.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/business/exception/ServiceException.java","sm-core/src/main/java/com/salesmanager/core/business/services/reference/init/InitializationDatabase.java"],"cells":[{"src":1,"dest":0,"values":{"Throw":1.0,"Import":1.0}}],"relationTypes":["Throw","Import"]}

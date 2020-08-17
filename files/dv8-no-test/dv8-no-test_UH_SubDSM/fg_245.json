@@ -1,1 +1,1 @@
-{"name":"fg_245.json","variables":["dv8/explorer/plugins/hotspot/src/main/java/com/archdia/dv8/explorer/hotspot/ui/LabelTextField.java"],"cells":[],"relationTypes":[]}
+{"name":"fg_245.json","variables":["dv8/explorer/api/src/main/java/com/archdia/dv8/explorer/ui/SizeUtils.java","dv8/explorer/viewer/src/main/java/com/archdia/dv8/explorer/ui/swing/SwingStyleUtils.java"],"cells":[{"src":1,"dest":0,"values":{"Call":1.0,"Import":1.0,"Use":1.0}}],"relationTypes":["Call","Import","Use"]}

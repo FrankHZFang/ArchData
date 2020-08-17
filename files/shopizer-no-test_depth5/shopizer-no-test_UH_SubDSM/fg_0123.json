@@ -1,1 +1,0 @@
-{"name":"fg_0123.json","variables":["sm-core/src/main/java/com/salesmanager/core/business/utils/ajax/AjaxPageableResponse.java","sm-core/src/main/java/com/salesmanager/core/business/utils/ajax/AjaxResponse.java"],"cells":[{"src":0,"dest":1,"values":{"Call":5.0,"Extend":1.0,"Use":2.0}}],"relationTypes":["Call","Extend","Use"]}

@@ -1,1 +1,0 @@
-{"name":"fg_079.json","variables":["femr/data/models/core/IConceptDiagnosis.java","femr/data/models/mysql/concepts/ConceptDiagnosis.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

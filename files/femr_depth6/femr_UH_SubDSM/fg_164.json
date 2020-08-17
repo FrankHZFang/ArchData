@@ -1,1 +1,0 @@
-{"name":"fg_164.json","variables":["femr/data/models/core/IRole.java","femr/data/models/mysql/Roles.java","femr/ui/views/partials/helpers/AuthenticatedPartialHelper.java"],"cells":[{"src":2,"dest":0,"values":{"Call":7.0,"Import":1.0,"Contain":5.0}},{"src":2,"dest":1,"values":{"Use":14.0,"Import":1.0}}],"relationTypes":["Call","Import","Contain","Use"]}

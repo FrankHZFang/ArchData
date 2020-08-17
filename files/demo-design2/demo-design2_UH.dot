@@ -1,16 +1,16 @@
 digraph G { 
 "fg_02: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer" -> "fg_01: Answer"; 
-"fg_03: EssayQuestion,EssayAnswer" -> "fg_01: Answer"; 
 "fg_03: EssayQuestion,EssayAnswer" -> "fg_02: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
-"fg_04: Form" -> "fg_02: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
+"fg_03: EssayQuestion,EssayAnswer" -> "fg_01: Answer"; 
 "fg_04: Form" -> "fg_03: EssayQuestion,EssayAnswer"; 
+"fg_04: Form" -> "fg_02: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
+"fg_05: Test" -> "fg_03: EssayQuestion,EssayAnswer"; 
 "fg_05: Test" -> "fg_04: Form"; 
 "fg_05: Test" -> "fg_02: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
-"fg_05: Test" -> "fg_03: EssayQuestion,EssayAnswer"; 
 "fg_06: Survey" -> "fg_04: Form"; 
 "fg_07: Interface" -> "fg_05: Test"; 
+"fg_07: Interface" -> "fg_03: EssayQuestion,EssayAnswer"; 
+"fg_07: Interface" -> "fg_06: Survey"; 
 "fg_07: Interface" -> "fg_04: Form"; 
 "fg_07: Interface" -> "fg_02: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
-"fg_07: Interface" -> "fg_06: Survey"; 
-"fg_07: Interface" -> "fg_03: EssayQuestion,EssayAnswer"; 
 }

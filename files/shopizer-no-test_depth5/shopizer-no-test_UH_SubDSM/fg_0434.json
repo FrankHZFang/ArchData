@@ -1,1 +1,0 @@
-{"name":"fg_0434.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/customer/optin/CustomerOptin.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/entity/Entity.java"],"cells":[{"src":0,"dest":1,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}

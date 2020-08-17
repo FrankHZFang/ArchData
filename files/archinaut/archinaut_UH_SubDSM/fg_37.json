@@ -1,0 +1,1 @@
+{"name":"fg_37.json","variables":["src/main/java/mx/uam/dsmviewer/model/dto/DesignStructureMatrixDTO.java","src/main/java/mx/uam/dsmviewer/model/dto/TrendsAnalysisDTO.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":1.0,"Use":2.0}}],"relationTypes":["Parameter","Use"]}

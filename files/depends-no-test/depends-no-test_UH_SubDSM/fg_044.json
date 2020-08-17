@@ -1,0 +1,1 @@
+{"name":"fg_044.json","variables":["depends/importtypes/ExactMatchImport.java","depends/importtypes/Import.java"],"cells":[{"src":0,"dest":1,"values":{"Call":1.0,"Extend":1.0}}],"relationTypes":["Call","Extend"]}

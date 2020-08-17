@@ -1,1 +1,1 @@
-{"name":"fg_397.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/project/metadata/converter/MetadataConverter.java","dv8/core/impl/src/main/java/com/archdia/dv8/project/metadata/converter/DoubleMetadataConverter.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0}}],"relationTypes":["Implement"]}
+{"name":"fg_397.json","variables":["dv8/core/license/src/license/java/com/archdia/dv8/license/entity/LicenseEntity.java"],"cells":[],"relationTypes":[]}
