@@ -30,6 +30,11 @@
         "desc": ""
     },
     {
+        "name": "Archinaut",
+        "file": "archinaut",
+        "desc": ""
+    },
+    {
         "name": "Archinaut, depth 4",
         "file": "archinaut_depth4",
         "desc": ""
