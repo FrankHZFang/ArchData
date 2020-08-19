@@ -1,1 +1,0 @@
-{"name":"fg_0459.json","variables":["sm-core-model/src/main/java/com/salesmanager/core/model/tax/TaxBasisCalculation.java","sm-core-model/src/main/java/com/salesmanager/core/model/tax/TaxConfiguration.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":1.0,"Return":1.0,"Contain":1.0,"Use":3.0}}],"relationTypes":["Parameter","Return","Contain","Use"]}

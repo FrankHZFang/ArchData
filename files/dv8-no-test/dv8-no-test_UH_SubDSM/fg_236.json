@@ -1,1 +1,0 @@
-{"name":"fg_236.json","variables":["dv8/license/generator/src/main/java/com/archdia/dv8/license/generate/GenerateLicenseRequest.java","dv8/license/generator/src/main/java/com/archdia/dv8/license/generate/LicensePolicy.java"],"cells":[{"src":0,"dest":1,"values":{"Parameter":1.0,"Return":1.0,"Contain":1.0,"Use":1.0}}],"relationTypes":["Parameter","Return","Contain","Use"]}

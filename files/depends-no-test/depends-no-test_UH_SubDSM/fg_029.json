@@ -1,1 +1,0 @@
-{"name":"fg_029.json","variables":["depends/extractor/ruby/IncludedFileLocator.java","depends/util/FileUtil.java"],"cells":[{"src":0,"dest":1,"values":{"Call":6.0,"Import":1.0,"Use":6.0}}],"relationTypes":["Call","Import","Use"]}

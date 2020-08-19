@@ -1,1 +1,0 @@
-{"name":"fg_217.json","variables":["dv8/core/api/src/main/java/com/archdia/dv8/scm/history/HistoryPath.java","dv8/core/plugins/scm/src/main/java/com/archdia/dv8/scm/history/svn/SubversionLogPath.java"],"cells":[{"src":1,"dest":0,"values":{"Parameter":4.0,"Import":2.0,"Return":2.0,"Contain":2.0,"Use":4.0}}],"relationTypes":["Parameter","Import","Return","Contain","Use"]}

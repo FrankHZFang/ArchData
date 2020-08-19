@@ -1,1 +1,0 @@
-{"name":"fg_005.json","variables":["dv8/core/cli/src/main/java/com/archdia/dv8/cli/OptionConfiguration.java","dv8/core/cli/src/main/java/com/archdia/dv8/cli/OptionsConfigurationReader.java"],"cells":[{"src":1,"dest":0,"values":{"Call":8.0,"Parameter":14.0,"Use":13.0}}],"relationTypes":["Call","Parameter","Use"]}

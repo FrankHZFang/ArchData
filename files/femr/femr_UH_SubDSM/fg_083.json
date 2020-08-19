@@ -1,1 +1,0 @@
-{"name":"fg_083.json","variables":["femr/data/models/core/IPatientEncounterPhoto.java","femr/data/models/mysql/PatientEncounterPhoto.java"],"cells":[{"src":1,"dest":0,"values":{"Implement":1.0,"Import":1.0}}],"relationTypes":["Implement","Import"]}

@@ -1,1 +1,0 @@
-{"name":"fg_07.json","variables":["MapSite.java","RedWall.java","Wall.java"],"cells":[{"src":1,"dest":2,"values":{"Extend":1.0}},{"src":2,"dest":0,"values":{"Extend":1.0}}],"relationTypes":["Extend"]}

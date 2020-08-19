@@ -1,1 +1,0 @@
-{"name":"fg_0092.json","variables":["sm-shop-model/src/main/java/com/salesmanager/shop/model/entity/Entity.java","sm-shop-model/src/main/java/com/salesmanager/shop/model/order/total/OrderTotal.java"],"cells":[{"src":1,"dest":0,"values":{"Extend":1.0,"Import":1.0}}],"relationTypes":["Extend","Import"]}

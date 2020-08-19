@@ -1,1 +1,0 @@
-{"name":"fg_372.json","variables":["dv8/core/plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/AttributeElement.java","dv8/core/plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/XmlConstants.java"],"cells":[{"src":0,"dest":1,"values":{"Use":1.0,"Import":1.0}}],"relationTypes":["Use","Import"]}
