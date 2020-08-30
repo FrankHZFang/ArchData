@@ -1,1 +1,68 @@
-{"name": "demo-design2", "dsm": "demo-design2.json", "items": [{"name": "DRH", "type": "circle-package", "dataFiles": ["demo-design2_drh.json"]}, {"name": "Function Groups", "type": "pca", "subDsmDownloadPath": "demo-design2_UH_SubDSM", "dataFiles": ["demo-design2_UH.json", "demo-design2_UH_EntryFiles.json", "demo-design2_UH_tfidf.json"]}, {"name": "Facet Hierarchy", "type": "facet-hierarchy", "dataFiles": ["demo-design2_UH.json", "demo-design2_UH_EntryFiles.json", "demo-design2_UH_DSM.json", "demo-design2_UH_tfidf.json", "demo-design2_UH_ModuleFiles_tfidf.json"]}, {"name": "Facet Clustering", "type": "facet-clustering", "dataFiles": ["demo-design2_UH_ModuleFiles.json", "demo-design2_UH_EntryFiles.json", "demo-design2_UH_DSM.json", "demo-design2.json", "demo-design2_UH_tfidf.json", "demo-design2_UH_ModuleFiles_tfidf.json"]}, {"name": "Uses Hierarchy", "type": "dag", "dataFiles": ["demo-design2_UH.json", "demo-design2_UH_EntryFiles.json", "demo-design2_UH_DSM.json"]}]}
+{
+    "name": "demo-design2",
+    "dsm": "demo-design2.json",
+    "items": [
+        {
+            "name": "Downloads",
+            "type": "download",
+            "data": {
+                "dsm": "demo-design2.json",
+                "downloads": [
+                    {
+                        "name": "Source Code",
+                        "path": "design_2.zip"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "DRH",
+            "type": "circle-package",
+            "dataFiles": [
+                "demo-design2_drh.json"
+            ]
+        },
+        {
+            "name": "Function Groups",
+            "type": "pca",
+            "subDsmDownloadPath": "demo-design2_UH_SubDSM",
+            "dataFiles": [
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_tfidf.json"
+            ]
+        },
+        {
+            "name": "Facet Hierarchy",
+            "type": "facet-hierarchy",
+            "dataFiles": [
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_DSM.json",
+                "demo-design2_UH_tfidf.json",
+                "demo-design2_UH_ModuleFiles_tfidf.json"
+            ]
+        },
+        {
+            "name": "Facet Clustering",
+            "type": "facet-clustering",
+            "dataFiles": [
+                "demo-design2_UH_ModuleFiles.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_DSM.json",
+                "demo-design2.json",
+                "demo-design2_UH_tfidf.json",
+                "demo-design2_UH_ModuleFiles_tfidf.json"
+            ]
+        },
+        {
+            "name": "Uses Hierarchy",
+            "type": "dag",
+            "dataFiles": [
+                "demo-design2_UH.json",
+                "demo-design2_UH_EntryFiles.json",
+                "demo-design2_UH_DSM.json"
+            ]
+        }
+    ]
+}
