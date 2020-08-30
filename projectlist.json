@@ -27,21 +27,16 @@
     {
         "name": "Dv8",
         "file": "dv8-no-test",
-        "desc": ""
+        "desc": "A Tool to identify and quantify architectural and design issues"
     },
     {
         "name": "Archinaut",
         "file": "archinaut",
-        "desc": ""
-    },
-    {
-        "name": "Archinaut, depth 4",
-        "file": "archinaut_depth4",
-        "desc": ""
+        "desc": "A Tool to Understand Architecture, Identify Technical Debt Hotspots and Manage Evolution"
     },
     {
         "name": "Shopizer",
         "file": "shopizer-no-test",
-        "desc": ""
+        "desc": "An e-commerce solution built for the cloud."
     }
 ]
