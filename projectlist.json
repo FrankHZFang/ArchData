@@ -1,7 +1,12 @@
 [
     {
-        "name": "femr",
+        "name": "fEMR",
         "file": "femr",
+        "desc": "Health care management system"
+    },
+    {
+        "name": "fEMR On Chain",
+        "file": "fEMR-onChain",
         "desc": "Health care management system"
     },
     {
