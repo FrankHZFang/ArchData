@@ -1,47 +1,12 @@
 [
     {
-        "name": "fEMR",
-        "file": "femr",
-        "desc": "Health care management system"
-    },
-    {
-        "name": "fEMR On Chain",
-        "file": "fEMR-onChain",
-        "desc": "Health care management system"
-    },
-    {
         "name": "Depends",
-        "file": "depends-no-test",
+        "file": "depends-new",
         "desc": "Depend extraction tool without test files"
-    },
-    {
-        "name": "Demo: Questionnaire 1",
-        "file": "demo-design1",
-        "desc": "Questionnaire demo #1"
-    },
-    {
-        "name": "Demo: Questionnaire 2",
-        "file": "demo-design2",
-        "desc": "Questionnaire demo #2"
-    },
-    {
-        "name": "Demo: Maze Game",
-        "file": "mazegame",
-        "desc": "A small maze-game program for demo"
     },
     {
         "name": "Dv8",
         "file": "dv8-no-test",
         "desc": "A Tool to identify and quantify architectural and design issues"
-    },
-    {
-        "name": "Archinaut",
-        "file": "archinaut",
-        "desc": "A Tool to Understand Architecture, Identify Technical Debt Hotspots and Manage Evolution"
-    },
-    {
-        "name": "Shopizer",
-        "file": "shopizer-no-test",
-        "desc": "An e-commerce solution built for the cloud."
     }
 ]

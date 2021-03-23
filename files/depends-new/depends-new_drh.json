@@ -1,0 +1,2040 @@
+{
+    "@schemaVersion": "1.0",
+    "name": "depends-new_drh",
+    "structure": [
+        {
+            "@type": "group",
+            "name": "L0",
+            "nested": [
+                {
+                    "@type": "group",
+                    "name": "L0/M0",
+                    "nested": [
+                        {
+                            "@type": "group",
+                            "name": "L0/M0/L0",
+                            "nested": [
+                                {
+                                    "@type": "group",
+                                    "name": "L0/M0/L0/M0",
+                                    "nested": [
+                                        {
+                                            "@type": "group",
+                                            "name": "L0/M0/L0/M0/L0",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L0/M0/L0/M0/L0/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L0/M0/L0",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/L0/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/GenericName.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L0/M0/L1",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/L1/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0/M0",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/entity/Location.java"
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/relations/Relation.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0/M1",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/entity/DecoratedEntity.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/L0/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/entity/MultiDeclareEntities.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/entity/TypeEntity.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L0/M0/L1/M0/Control",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/entity/Entity.java"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L0/M0/L2",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L0/M0/L2/M0/L0",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M0/L0/M0",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/entity/ImportedFileCollector.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M0/L0/M1",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/importtypes/Import.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M0/L0/M2",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/entity/repo/IdGenerator.java"
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/entity/repo/EntityRepo.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M0/L0/M3",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/entity/PackageEntity.java"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L0/M0/L2/M0/Control",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/entity/FileEntity.java"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M1",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/FunctionCall.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/L2/M2",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/EmptyTypeEntity.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L0/M0/Control",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/Control/M3",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/VarEntity.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/Control/M4",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/FunctionEntity.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/Control/M5",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/AliasEntity.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/Control/M6",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/CandidateTypes.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/Control/M7",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/ContainerEntity.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L0/M0/Control/M8",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/Expression.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L0/M0/L0/M0/L1",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L0/M0/L0/M0/L1/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/entity/repo/BuiltInType.java"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L0/M0/L0/M0/L2",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L0/M0/L0/M0/L2/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L2/M0/L0",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L2/M0/L0/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L2/M0/L0/M0/M0",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/matrix/core/LocationInfo.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L2/M0/L0/M0/M1",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/matrix/core/DependencyDetail.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L2/M0/L0/M0/M2",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/matrix/core/DependencyValue.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L2/M0/L0/M0/M3",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/matrix/core/DependencyPair.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L0/M0/L0/M0/L2/M0/L0/M0/M4",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/matrix/core/DependencyMatrix.java"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L2/M0/L1",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L2/M0/L1/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/extractor/UnsolvedBindings.java"
+                                                                        },
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/relations/ImportLookupStrategy.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L2/M0/L1/M1",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/extractor/FileParser.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L2/M0/L1/M2",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/repo/SimpleIdGenerator.java"
+                                                                        },
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/repo/InMemoryEntityRepo.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L2/M0/L1/M3",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/entity/EntityNameBuilder.java"
+                                                                        },
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/generator/DependencyGenerator.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L0/M0/L0/M0/L2/M0/L1/M4",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/matrix/transform/OrderedMatrixGenerator.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L0/M0/L0/M0/L2/M0/Control",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/extractor/AbstractLangProcessor.java"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L0/M0/L0/M0/L2/M1",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/relations/FunctionMatcher.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L0/M0/L0/M0/L2/M2",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/entity/repo/NullBuiltInType.java"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L0/M0/L0/M0/Control",
+                                            "nested": [
+                                                {
+                                                    "@type": "item",
+                                                    "name": "depends/relations/Inferer.java"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "group",
+                            "name": "L0/M0/L1",
+                            "nested": [
+                                {
+                                    "@type": "group",
+                                    "name": "L0/M0/L1/M0",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/entity/FunctionEntityProto.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L0/M0/L1/M1",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/entity/FunctionEntityImpl.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L0/M0/L1/M2",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/deptypes/DependencyType.java"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "group",
+                            "name": "L0/M0/Control",
+                            "nested": [
+                                {
+                                    "@type": "item",
+                                    "name": "depends/relations/RelationCounter.java"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "group",
+                    "name": "L0/M1",
+                    "nested": [
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/cpp/cdt/GPPParserExtensionConfigurationExtension.java"
+                        },
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/cpp/MacroRepo.java"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "L1",
+            "nested": [
+                {
+                    "@type": "group",
+                    "name": "L1/M0",
+                    "nested": [
+                        {
+                            "@type": "group",
+                            "name": "L1/M0/M0",
+                            "nested": [
+                                {
+                                    "@type": "item",
+                                    "name": "depends/extractor/HandlerContext.java"
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "group",
+                            "name": "L1/M0/M1",
+                            "nested": [
+                                {
+                                    "@type": "item",
+                                    "name": "depends/extractor/java/JavaHandlerContext.java"
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "group",
+                            "name": "L1/M0/M2",
+                            "nested": [
+                                {
+                                    "@type": "item",
+                                    "name": "depends/extractor/kotlin/KotlinHandlerContext.java"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "L2",
+            "nested": [
+                {
+                    "@type": "group",
+                    "name": "L2/M0",
+                    "nested": [
+                        {
+                            "@type": "group",
+                            "name": "L2/M0/L0",
+                            "nested": [
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L0/M0",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/extractor/LangProcessorRegistration.java"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "group",
+                            "name": "L2/M0/L1",
+                            "nested": [
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M0",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/matrix/transform/MatrixLevelReducer.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M1",
+                                    "nested": [
+                                        {
+                                            "@type": "group",
+                                            "name": "L2/M0/L1/M1/L0",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L0/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/QualitiedNameContextHelper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L0/M1",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/ClassTypeContextHelper.java"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L2/M0/L1/M1/L1",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M1/L1/M0/L0",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/importtypes/PackageWildCardImport.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L0",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L0/M0",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/importtypes/FileImport.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L0/M1",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/extractor/ruby/IncludedFileLocator.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L0/M2",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/extractor/java/JavaImportLookupStrategy.java"
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L0/M3",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/extractor/java/JavaBuiltInType.java"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L1",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L1/M0",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/extractor/cpp/CppImportLookupStrategy.java"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M0",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M0/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M0/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/kotlin/KotlinFileParser.java"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/kotlin/KotlinProcessor.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M0/L0/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/kotlin/ContextHelper.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M0/L0/M2",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/importtypes/ExactMatchImport.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M0/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/extractor/kotlin/KotlinListener.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L0",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L0/M0",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/ParserCreator.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0/L0",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "group",
+                                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0/L0/M0",
+                                                                                                                                    "nested": [
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/ruby/RubyHandlerContext.java"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "@type": "group",
+                                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0/L0/M1",
+                                                                                                                                    "nested": [
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/ruby/RubyBuiltInType.java"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0/Control",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "group",
+                                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0/Control/M1",
+                                                                                                                                    "nested": [
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/ruby/jruby/RubyParserHelper.java"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "@type": "group",
+                                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M0/Control/M2",
+                                                                                                                                    "nested": [
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/ruby/jruby/ExpressionUsage.java"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/L1/M1",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/ruby/jruby/JRubyFileParser.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M0/Control",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "item",
+                                                                                                                    "name": "depends/extractor/ruby/jruby/JRubyVisitor.java"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/L0/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/ruby/RubyImportLookupStrategy.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M1/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/extractor/ruby/RubyProcessor.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0/M0",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/python/union/PythonFileParser.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0/M1",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0/M1/L0",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "group",
+                                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0/M1/L0/M0",
+                                                                                                                                    "nested": [
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/python/PythonImportLookupStrategy.java"
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/python/NameAliasImport.java"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "@type": "group",
+                                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0/M1/L0/M1",
+                                                                                                                                    "nested": [
+                                                                                                                                        {
+                                                                                                                                            "@type": "item",
+                                                                                                                                            "name": "depends/extractor/python/PythonBuiltInType.java"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/L0/M1/Control",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "item",
+                                                                                                                                    "name": "depends/extractor/python/BasePythonProcessor.java"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M0/Control",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "item",
+                                                                                                                    "name": "depends/extractor/python/union/PythonProcessor.java"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/L0/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/python/union/ExpressionUsage.java"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/python/PythonHandlerContext.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M2/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/extractor/python/union/PythonCodeListener.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/pom/PomParent.java"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/pom/PomCoords.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M0/L0",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M0/L0/M0",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/empty/EmptyImportLookupStategy.java"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/pom/PomImportLookupStategy.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M0/L0/M1",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/empty/EmptyBuiltInType.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M0/L0/M2",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/pom/PomFileParser.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M0/Control",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "item",
+                                                                                                                    "name": "depends/extractor/pom/PomProcessor.java"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/pom/PomHandlerContext.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M2",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/pom/PomArtifactEntity.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/L1/M3",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/pom/PomLocator.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M3/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/extractor/pom/PomListener.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/golang/TypeDefHelper.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M0/L0",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M0/L0/M0",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/golang/GoImportLookupStrategy.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M0/L0/M1",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/golang/GoFileParser.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M0/L0/M2",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/golang/GoBuiltInType.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M0/Control",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "item",
+                                                                                                                    "name": "depends/extractor/golang/GoProcessor.java"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/golang/GoHandlerContext.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/L1/M2",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/golang/FieldDeclHelper.java"
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/golang/TypeSpecHelper.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M4/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/extractor/golang/GoListener.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M0",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/cpp/MacroEhcacheRepo.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0/M0",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/cpp/CppFileParser.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0/M1",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "item",
+                                                                                                                            "name": "depends/extractor/cpp/cdt/PreprocessorHandler.java"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "@type": "group",
+                                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0/M2",
+                                                                                                                    "nested": [
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0/M2/M0",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "item",
+                                                                                                                                    "name": "depends/extractor/cpp/cdt/FileCache.java"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0/M2/M1",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "item",
+                                                                                                                                    "name": "depends/extractor/cpp/Scanner.java"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "@type": "group",
+                                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/L0/M2/M2",
+                                                                                                                            "nested": [
+                                                                                                                                {
+                                                                                                                                    "@type": "item",
+                                                                                                                                    "name": "depends/extractor/cpp/cdt/CDTParser.java"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "@type": "group",
+                                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M1/Control",
+                                                                                                            "nested": [
+                                                                                                                {
+                                                                                                                    "@type": "item",
+                                                                                                                    "name": "depends/extractor/cpp/cdt/CdtCppFileParser.java"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                },
+                                                                                                {
+                                                                                                    "@type": "group",
+                                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/L0/M2",
+                                                                                                    "nested": [
+                                                                                                        {
+                                                                                                            "@type": "item",
+                                                                                                            "name": "depends/extractor/cpp/CppBuiltInType.java"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "group",
+                                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M5/Control",
+                                                                                            "nested": [
+                                                                                                {
+                                                                                                    "@type": "item",
+                                                                                                    "name": "depends/extractor/cpp/CppProcessor.java"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "@type": "group",
+                                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M1/L2/M6",
+                                                                                    "nested": [
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/extractor/java/JavaProcessor.java"
+                                                                                        },
+                                                                                        {
+                                                                                            "@type": "item",
+                                                                                            "name": "depends/extractor/java/JavaFileParser.java"
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M1/Control",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/LangRegister.java"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M2",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M2/M0",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/extractor/cpp/cdt/ASTStringUtilExt.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M2/M1",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/extractor/cpp/cdt/TemplateParameterASTVisitor.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M1/L1/M0/L0/M2/M2",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/extractor/cpp/cdt/ExpressionUsage.java"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M1/L1/M0/L0/M3",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/extractor/cpp/CppHandlerContext.java"
+                                                                        },
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/extractor/cpp/cdt/MacroExtractor.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M1/L1/M0/Control",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/extractor/cpp/cdt/CppVisitor.java"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M1",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/VariableDeclaratorsContextHelper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M2",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/TypeParameterContextHelper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M3",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M1/L1/M3/L0",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M1/L1/M3/L0/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/extractor/java/context/OpHelper.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M1/L1/M3/L0/M1",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/extractor/java/context/CreatorContextHelper.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M1/L1/M3/Control",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/extractor/java/context/ExpressionUsage.java"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M4",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/IdentifierContextHelper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M5",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/AnnotationProcessor.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M1/L1/M6",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/extractor/java/context/FormalParameterListContextHelper.java"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L2/M0/L1/M1/Control",
+                                            "nested": [
+                                                {
+                                                    "@type": "item",
+                                                    "name": "depends/extractor/java/JavaListener.java"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M2",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/generator/StructureDependencyGenerator.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M3",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/generator/FunctionDependencyGenerator.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M4",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/generator/FileDependencyGenerator.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M5",
+                                    "nested": [
+                                        {
+                                            "@type": "group",
+                                            "name": "L2/M0/L1/M5/L0",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L0/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/AbstractFormatDependencyDumper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L0/M1",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/FileAttributes.java"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L2/M0/L1/M5/L1",
+                                            "nested": [
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L1/M0",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/excel/ExcelXlsxFormatDependencyDumper.java"
+                                                        },
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/excel/ExcelXlsFormatDependencyDumper.java"
+                                                        },
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/plantuml/BriefPlantUmlFormatDependencyDumper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L1/M1",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/dot/DotFullnameDependencyDumper.java"
+                                                        },
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/dot/DotFormatDependencyDumper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L1/M2",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/detail/DetailTextFormatDependencyDumper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L1/M3",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "item",
+                                                            "name": "depends/format/plantuml/PlantUmlFormatDependencyDumper.java"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L1/M4",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M4/M0",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/format/json/DetailItem.java"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M4/M1",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/format/json/JCellObject.java"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M4/M2",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/format/json/JDepObject.java"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M4/M3",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/format/json/JsonFormatDependencyDumper.java"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M4/M4",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "item",
+                                                                    "name": "depends/format/json/JDataBuilder.java"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "@type": "group",
+                                                    "name": "L2/M0/L1/M5/L1/M5",
+                                                    "nested": [
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M5/L0",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M5/L1/M5/L0/M0",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/format/xml/XmlFormatDependencyDumper.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M5/L1/M5/L0/M1",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/format/xml/XFiles.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M5/L1/M5/L0/M2",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M5/L1/M5/L0/M2/M0",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/format/xml/XDepend.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M5/L1/M5/L0/M2/M1",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/format/xml/XCell.java"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "@type": "group",
+                                                                            "name": "L2/M0/L1/M5/L1/M5/L0/M2/M2",
+                                                                            "nested": [
+                                                                                {
+                                                                                    "@type": "item",
+                                                                                    "name": "depends/format/xml/XCells.java"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "@type": "group",
+                                                            "name": "L2/M0/L1/M5/L1/M5/Control",
+                                                            "nested": [
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M5/L1/M5/Control/M1",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/format/xml/XDepObject.java"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "@type": "group",
+                                                                    "name": "L2/M0/L1/M5/L1/M5/Control/M2",
+                                                                    "nested": [
+                                                                        {
+                                                                            "@type": "item",
+                                                                            "name": "depends/format/xml/XDataBuilder.java"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "@type": "group",
+                                            "name": "L2/M0/L1/M5/Control",
+                                            "nested": [
+                                                {
+                                                    "@type": "item",
+                                                    "name": "depends/format/DependencyDumper.java"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M6",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/format/detail/UnsolvedSymbolDumper.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M7",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/ParameterException.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M8",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/addons/DV8MappingFileBuilder.java"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "@type": "group",
+                                    "name": "L2/M0/L1/M9",
+                                    "nested": [
+                                        {
+                                            "@type": "item",
+                                            "name": "depends/DependsCommand.java"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "group",
+                            "name": "L2/M0/Control",
+                            "nested": [
+                                {
+                                    "@type": "item",
+                                    "name": "depends/Main.java"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "@type": "group",
+                    "name": "L2/M1",
+                    "nested": [
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/python/union/PythonParserBase.java"
+                        },
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/python/union/PythonVersion.java"
+                        }
+                    ]
+                },
+                {
+                    "@type": "group",
+                    "name": "L2/M2",
+                    "nested": [
+                        {
+                            "@type": "item",
+                            "name": "depends/entity/AnonymousBlock.java"
+                        }
+                    ]
+                },
+                {
+                    "@type": "group",
+                    "name": "L2/M3",
+                    "nested": [
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/kotlin/context/ExpressionUsage.java"
+                        }
+                    ]
+                },
+                {
+                    "@type": "group",
+                    "name": "L2/M4",
+                    "nested": [
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/cpp/MacroMemoryRepo.java"
+                        }
+                    ]
+                },
+                {
+                    "@type": "group",
+                    "name": "L2/M5",
+                    "nested": [
+                        {
+                            "@type": "item",
+                            "name": "depends/extractor/cpp/MacroFileRepo.java"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "group",
+            "name": "Isolated",
+            "nested": [
+                {
+                    "@type": "item",
+                    "name": "depends/extractor/python/union/PythonLexerBase.java"
+                },
+                {
+                    "@type": "item",
+                    "name": "depends/extractor/cpp/cdt/CommentManager.java"
+                },
+                {
+                    "@type": "item",
+                    "name": "depends/extractor/cpp/cdt/ANSICParserExtensionConfigurationExtension.java"
+                },
+                {
+                    "@type": "item",
+                    "name": "depends/extractor/golang/GoParserBase.java"
+                }
+            ]
+        }
+    ]
+}
