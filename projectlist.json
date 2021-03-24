@@ -9,4 +9,9 @@
         "file": "dv8-no-test",
         "desc": "A Tool to identify and quantify architectural and design issues"
     }
+        {
+        "name": "Demo design",
+        "file": "demo-design1",
+        "desc": "demo-design1"
+    }
 ]
