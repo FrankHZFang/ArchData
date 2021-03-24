@@ -1,0 +1,125 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "demo-design1_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "UI.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Question.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Answer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Survey.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Written.java"
+          }, {
+            "@type" : "item",
+            "name" : "EssayAnswer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L2/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "Test.java"
+          }, {
+            "@type" : "item",
+            "name" : "AnswerSheet.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L2/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "SaveLoadFile.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L2/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "MatchingAnswer.java"
+          }, {
+            "@type" : "item",
+            "name" : "Match.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L2/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "CommandLineUI.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L2/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "ChoiceAnswer.java"
+          }, {
+            "@type" : "item",
+            "name" : "Choice.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "ProgramMain.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "TextFileUI.java"
+      } ]
+    } ]
+  } ]
+}
