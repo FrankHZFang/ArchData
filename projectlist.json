@@ -13,5 +13,15 @@
         "name": "Demo design",
         "file": "demo-design1",
         "desc": "demo-design1"
+    },
+    {
+        "name": "Bash",
+        "file": "bash",
+        "desc": "GNU Bash"
+    },
+    {
+        "name": "Libxml",
+        "file": "libxml",
+        "desc": "C xml library"
     }
 ]
