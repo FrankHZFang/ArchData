@@ -23,5 +23,10 @@
         "name": "Libxml",
         "file": "libxml",
         "desc": "C xml library"
+    },
+    {
+        "name": "mij",
+        "file": "mij",
+        "desc": "Java Calculator"
     }
 ]
