@@ -1,0 +1,16 @@
+digraph G { 
+"fg_2: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer" -> "fg_1: Answer"; 
+"fg_3: EssayQuestion,EssayAnswer" -> "fg_2: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
+"fg_3: EssayQuestion,EssayAnswer" -> "fg_1: Answer"; 
+"fg_4: Form" -> "fg_3: EssayQuestion,EssayAnswer"; 
+"fg_4: Form" -> "fg_2: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
+"fg_5: Test" -> "fg_3: EssayQuestion,EssayAnswer"; 
+"fg_5: Test" -> "fg_4: Form"; 
+"fg_5: Test" -> "fg_2: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
+"fg_6: Survey" -> "fg_4: Form"; 
+"fg_7: Interface" -> "fg_3: EssayQuestion,EssayAnswer"; 
+"fg_7: Interface" -> "fg_5: Test"; 
+"fg_7: Interface" -> "fg_4: Form"; 
+"fg_7: Interface" -> "fg_2: MultipleChoiceAnswer,Question,MatchingQuestion,MultipleChoiceQuestion,MatchingAnswer"; 
+"fg_7: Interface" -> "fg_6: Survey"; 
+}

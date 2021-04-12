@@ -10,9 +10,14 @@
         "desc": "A Tool to identify and quantify architectural and design issues"
     },
     {
-        "name": "Demo design",
+        "name": "Demo design 1",
         "file": "demo-design1",
-        "desc": "demo-design1"
+        "desc": "A demo exam system (1)"
+    },
+    {
+        "name": "Demo design 2",
+        "file": "demo-design2",
+        "desc": "A demo exam system (1)"
     },
     {
         "name": "Bash",
