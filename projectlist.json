@@ -1,8 +1,13 @@
 [
     {
-        "name": "Depends",
-        "file": "depends-new",
-        "desc": "Depend extraction tool without test files"
+        "name": "Depends v0.9.4",
+        "file": "depends-0.9.4",
+        "desc": "Depend extraction tool without test files (v0.9.4)"
+    },
+    {
+        "name": "Depends v0.9.6",
+        "file": "depends-0.9.6",
+        "desc": "Depend extraction tool without test files (v0.9.6)"
     },
     {
         "name": "Dv8",
@@ -17,7 +22,7 @@
     {
         "name": "Demo design 2",
         "file": "demo-design2",
-        "desc": "A demo exam system (1)"
+        "desc": "A demo exam system (2)"
     },
     {
         "name": "Bash",
