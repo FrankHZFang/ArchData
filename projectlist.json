@@ -38,5 +38,15 @@
         "name": "mij",
         "file": "mij",
         "desc": "Java Calculator"
+    },
+    {
+        "name": "archinaut",
+        "file": "archinaut",
+        "desc": "archinaut"
+    },
+    {
+        "name": "fEMR",
+        "file": "femr",
+        "desc": "A simple and fast EMR system used in low resource settings"
     }
 ]
