@@ -1,0 +1,2082 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "dv8-core-no-test_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/ErrorCode.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/AbstractDeviateException.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/DeviateException.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/VisibleForTest.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/scm/history/HistoryPath.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/FilePathUtils.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/xml/time/OffsetDateTimeXmlAdapter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyType.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/project/metadata/MetadataAccessor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/Depth.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/license/Licensed.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/constant/ClusterName.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/core/JsonExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M11",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M11/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/XmlConstants.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M11/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/AttributeElement.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M11/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/GraphComponent.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/model/ArchIssueType.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/constant/ArchIssueKey.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/project/metadata/MetadataFileService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/flavor/Flavor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/io/CompactDataOutputStream.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/io/CompactDataInputStream.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/project/key/ProjectKeyConverter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/math/IntSequence.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/LicenseException.java"
+        }, {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/DeviateFatalException.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/LicenseRestrictionException.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/model/ModifiedFile.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/ErrorCodeRegistry.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/scm/history/HistoryEntry.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/scm/history/HistoryConstants.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/TreeNode.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/IntegerInterval.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/Ordered.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/NamePreProcessor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/core/ErrorCodeRegistry.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/ErrorCodeRegistry.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/cluster/ErrorCodeRegistry.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/naming/NameProcessingService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/project/metadata/AbstractMetadataCollection.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/project/ProjectResource.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/function/TriFunction.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/DeviateExceptionBuilder.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/constant/IssueListKey.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/RevisionException.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M3",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2/M3/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/util/Location.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M3/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/matrix/Dependency.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M3/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrix.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M4",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2/M4/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M4/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/util/Named.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M4/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M4/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L2/M4/L1/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterVisitor.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M4/L1/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterComponent.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M4/L1/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterItem.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M4/L1/M0/M3",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterComponentCopier.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M4/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterParent.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M4/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M4/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterGroup.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M4/Control/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/cluster/Clustering.java"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/AbstractOrdered.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L3/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/cluster/traversal/TraversalVisitResult.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/cluster/traversal/ClusterTraversalVisitor.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "api/src/main/java/com/archdia/dv8/cluster/traversal/ClusterTraversal.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/core/DependencyMatrixReclusterService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/model/ArchIssue.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-root/src/main/java/com/archdia/dv8/archroot/model/RootIndexElement.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixFileService.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyTypeFamily.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/BidiDependencyMatrix.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusteringImportService.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusteringFileService.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusteringExportService.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L4",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L4/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L4/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependencyMatrix.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependency.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L4/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixBuilder.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependencyMatrixBuilder.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixImportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/CustomDependencyTypeFactory.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/AbstractClusteringExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/FilteredBidiDependencyMatrix.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/AbstractPrinter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/AbstractDependencyMatrixExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/traversal/AbstractClusterTraversalVisitor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyMatrixTypeDetection.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/util/RelationUtil.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L5",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L5/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/UnorderedDependencyMatrixBuilder.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/AbstractDetector.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/ParameterConfig.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixFilterService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleBidiDependencyMatrix.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L6",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L6/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterUtils.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/service/HierarchyBasedMetricService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L6/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L6/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L6/M2/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L6/M2/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/matrix/traversal/TraversalVisitResult.java"
+              }, {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/matrix/traversal/DependencyMatrixTraversalVisitor.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L6/M2/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L6/M2/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/matrix/traversal/AbstractDependencyMatrixTraversalVisitor.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L6/M2/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/util/TIntRangeIterator.java"
+              }, {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/matrix/traversal/DependencyMatrixTraversal.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L6/M2/L0/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixCondenseService.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L6/M2/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependencyMatrixCondenseService.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L6/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/HierarchyServiceOptions.java"
+          }, {
+            "@type" : "item",
+            "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/HierarchyService.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L6/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/AbstractHierarchyService.java"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L7",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L7/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L7/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/selector/VariableSelectors.java"
+        }, {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/VariableSelector.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L7/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleFilteredBidiDependencyMatrix.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L7/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/AbstractRecursiveHierarchyServiceOptions.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L7/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/AbstractHierarchyProcessor.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L8",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L8/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/ChangeSpaceIOService.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/constant/FileName.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/ChangeSpaceService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/svn/SubversionLogPath.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/svn/SubversionLogEntry.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/scm/Version.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M2/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M2/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M2/L1/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/scm/Repository.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M2/L1/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/scm/ScmLoader.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M2/L1/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/git/GitLoader.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M2/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/ErrorCodeRegistry.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M2/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/git/GitVersion.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/git/GitRepository.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M3",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M3/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M3/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/geom/BoundingBox.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M3/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/office/src/main/java/com/archdia/dv8/office/spreadsheet/SpreadsheetUtils.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M3/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M3/Control/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/office/src/main/java/com/archdia/dv8/office/spreadsheet/StyleUtils.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M3/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/office/src/main/java/com/archdia/dv8/office/spreadsheet/ExportSpreadsheetService.java"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M4",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M4/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/hotspot/src/main/java/com/archdia/dv8/hotspot/service/UnionFind.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/hotspot/src/main/java/com/archdia/dv8/hotspot/constant/FileName.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M4/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyMatrixJsonExportService.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M4/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/hotspot/src/main/java/com/archdia/dv8/hotspot/service/HotspotService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M5",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M5/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/RecursiveStrictHierarchyServiceOptions.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M5/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/StrictModuleHierarchyTask.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M5/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/RecursiveStrictHierarchyProcessor.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M5/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/RecursiveStrictHierarchyService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/SimpleHierarchyService.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/SimpleHierarchyProcessor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M7",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M7/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/RecursiveHierarchyServiceOptions.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M7/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/RecursiveHierarchyTask.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M7/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/RecursiveHierarchyService.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M7/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/dr-hier/src/main/java/com/archdia/dv8/drhier/service/DesignRuleSplitService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/depends-parser/src/main/java/com/archdia/dv8/dependsparser/DependsParserService.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/depends-parser/src/main/java/com/archdia/dv8/dependsparser/ErrorCodeRegistry.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M9",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M9/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/arch-root/src/main/java/com/archdia/dv8/archroot/ErrorCodeRegistry.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M9/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/arch-root/src/main/java/com/archdia/dv8/archroot/ArchRootException.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M9/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/arch-root/src/main/java/com/archdia/dv8/archroot/service/RootCoverFileService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M10",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M10/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M10/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/arch-report/src/main/java/com/archdia/dv8/archreport/service/ArchReportDocumentService.java"
+          }, {
+            "@type" : "item",
+            "name" : "plugins/arch-report/src/main/java/com/archdia/dv8/archreport/model/ArchReport.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M10/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/arch-report/src/main/java/com/archdia/dv8/archreport/ErrorCodeRegistry.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M10/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/arch-report/src/main/java/com/archdia/dv8/archreport/service/ArchReportDocxFileService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M11",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M11/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M11/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/DetectorLoader.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M11/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/ArchIssueInstanceMetaData.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M11/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/util/ArchIssueUtil.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M11/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/ArchIssueService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/ErrorCodeRegistry.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/ArchIssueOutputService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M13",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M13/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M13/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "license/src/license/java/com/archdia/dv8/license/entity/MachineEntity.java"
+          }, {
+            "@type" : "item",
+            "name" : "license/src/license/java/com/archdia/dv8/license/entity/LicenseEntity.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M13/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "license/src/license/java/com/archdia/dv8/license/entity/LicenseTime.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M13/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M13/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M13/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M13/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/license/timechecker/TimeServer.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M13/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M13/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/license/timechecker/HttpTimeServer.java"
+              }, {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/license/timechecker/NtpTimeServer.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M13/L1/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L8/M13/L1/M0/L1/M1/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L8/M13/L1/M0/L1/M1/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "api/src/main/java/com/archdia/dv8/license/LicenseInfoService.java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L8/M13/L1/M0/L1/M1/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "license/src/license/java/com/archdia/dv8/license/License.java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "license/src/license/java/com/archdia/dv8/license/ErrorCodeRegistry.java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L8/M13/L1/M0/L1/M1/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "license/src/license/java/com/archdia/dv8/license/SimpleLicenseInfoService.java"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M13/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "api/src/main/java/com/archdia/dv8/license/TimeChecker.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M13/L1/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M13/L1/M1/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M13/L1/M1/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "license/src/license/java/com/archdia/dv8/license/HardwareInformation.java"
+              }, {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/util/StringFormatUtil.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M13/L1/M1/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "license/src/academy/java/com/archdia/dv8/license/LicenseTypeValidator.java"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M13/L1/M1/L0/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "license/src/standard/java/com/archdia/dv8/license/LicenseTypeValidator.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M13/L1/M1/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "license/src/license/java/com/archdia/dv8/license/LicenseRequestService.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M13/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "license/src/license/java/com/archdia/dv8/license/entity/TokenEntity.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M13/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "license/src/license/java/com/archdia/dv8/license/entity/LicenseFile.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M13/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "license/src/license/java/com/archdia/dv8/license/LicenseService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M14",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M14/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M14/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/project/ProjectResourceCollection.java"
+          }, {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/project/Project.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/project/converter/SimpleProjectResourceConverter.java"
+          }, {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/project/converter/ProjectConverter.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M14/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M14/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L8/M14/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L8/M14/L1/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L8/M14/L1/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "impl/src/main/java/com/archdia/dv8/project/internal/SimpleMutableProject.java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L8/M14/L1/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "impl/src/main/java/com/archdia/dv8/project/internal/ProjectResourceCollectionConstants.java"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L8/M14/L1/M0/L0/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "impl/src/main/java/com/archdia/dv8/ref/LazyReference.java"
+                  }, {
+                    "@type" : "item",
+                    "name" : "impl/src/main/java/com/archdia/dv8/project/internal/SimpleProjectResourceCollection.java"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L8/M14/L1/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "impl/src/main/java/com/archdia/dv8/project/internal/SimpleProject.java"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L8/M14/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "api/src/main/java/com/archdia/dv8/project/ProjectBuilder.java"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M14/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "impl/src/main/java/com/archdia/dv8/project/internal/SimpleProjectBuilder.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/util/function/TriConsumer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependencyMatrixFileService.java"
+          }, {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixBuilderFactory.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/util/function/QuadConsumer.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/SimpleClusteringFileService.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/ErrorCodeRegistry.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/project/ProjectFileService.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M7",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/converter/MatrixResourceConverter.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M14/L1/M8",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/converter/ClusteringResourceConverter.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M14/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/project/internal/SimpleProjectFileService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M15",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M15/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M15/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/project/metadata/converter/MetadataConverter.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M15/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M15/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/metadata/converter/StringMetadataConverter.java"
+          }, {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/metadata/converter/IntegerMetadataConverter.java"
+          }, {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/metadata/converter/DoubleMetadataConverter.java"
+          }, {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/metadata/converter/BooleanMetadataConverter.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M15/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/project/metadata/ErrorCodeRegistry.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M15/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/project/metadata/internal/SimpleMetadataFileService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/project/key/SimpleProjectKeyConverter.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/project/key/UUIDKeyConverter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/core/internal/SubSystemService.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/core/internal/NamespaceClusterService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/core/internal/SimpleJsonImportService.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/core/JsonImportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M19",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M19/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M19/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L8/M19/L0/M0/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/JsonClusterComponent.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M19/L0/M0/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/JsonClusterItem.java"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L8/M19/L0/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/JsonClusterGroup.java"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M19/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/ClusteringJsonImportService.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M19/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/JsonClustering.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M20",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M20/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "cli/src/main/java/com/archdia/dv8/io/Console.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M20/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "cli/src/main/java/com/archdia/dv8/io/EmbeddedConsole.java"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M20/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "cli/src/main/java/com/archdia/dv8/io/SimpleConsole.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "cli/src/main/java/com/archdia/dv8/cli/OptionConfiguration.java"
+      }, {
+        "@type" : "item",
+        "name" : "cli/src/main/java/com/archdia/dv8/cli/OptionsConfigurationReader.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M22",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusteringComparator.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/cluster/ClusterComponentComparator.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M23",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/IntervalResult.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/util/IntegerIntervalUtil.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M24",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/observer/SimpleObservable.java"
+      }, {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/observer/AbstractObservable.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/SplitDependsService.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleSplitDependsService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/matrix/MergeDependencyMatrixService.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleMergeDependencyMatrixService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M27",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M27/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M27/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyTypeFileService.java"
+          }, {
+            "@type" : "item",
+            "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyTypeCode.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M27/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyTypeJsonDeserializer.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M27/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependencyTypeFileService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M28",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/SimplePlatformNamePreProcessor.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/ErrorCodeRegistry.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M29",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/NameProcessors.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/NamePostProcessor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M30",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M30/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L8/M30/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/XmlVariableList.java"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L8/M30/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/XmlDependencyCell.java"
+          }, {
+            "@type" : "item",
+            "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/XmlDependency.java"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M30/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyMatrixXmlImportService.java"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M31",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/ExceptionUtils.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M32",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/math/ConstantIntSequence.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/math/PolynomialIntSequence.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/math/OffsetIntSequence.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/math/MersenneSequence.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/math/FibonacciSequence.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M33",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/service/IndependenceLevelService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M34",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/io/XorMaskingInputStream.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M35",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/UnhealthyInheritancePrinter.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/PackageCyclePrinter.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/ModularityViolationPrinter.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/CliquePrinter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M36",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "api/src/main/java/com/archdia/dv8/scm/history/HistoryLog.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M37",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/ClusteringXmlImportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M38",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/ChangeListFileService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M39",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/ClusteringXmlExportService.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/cluster/internal/ClusteringJsonExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M40",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/svn/package-info.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/package-info.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M41",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/TargetListFileService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M42",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/PackageCycleDetector.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M43",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/git/GitLogParser.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M44",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyMatrixMinosImportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M45",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/history/HistoryDependencyMatrixBuilder.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M46",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyMatrixXmlExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M47",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/SimpleDependencyMatrixFilterService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M48",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/project/internal/SimpleProjectContext.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M49",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/standard/java/com/archdia/dv8/flavor/FlavorService.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/academy/java/com/archdia/dv8/flavor/FlavorService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M50",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/UnstableInterfacePrinter.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/printer/CrossingPrinter.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M51",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/core/internal/SimpleJsonExportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M52",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/service/DecouplingLevelService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M53",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/ModularityViolationDetector.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M54",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/matrix/internal/DependencyMatrixJsonImportService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M55",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-root/src/main/java/com/archdia/dv8/archroot/service/RootCoverService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M56",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/UnstableInterfaceDetector.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/UnhealthyInheritanceDetector.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/CrossingDetector.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/arch-issue/src/main/java/com/archdia/dv8/archissue/service/detector/CliqueDetector.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M57",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/service/PropagationCostService.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M58",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/SimpleNameAffixFilteringPreProcessor.java"
+      }, {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/naming/SimpleAffixRemovalNamePreProcessor.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M59",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/GraphNode.java"
+      }, {
+        "@type" : "item",
+        "name" : "plugins/cytoscape/src/main/java/com/archdia/dv8/scm/cytoscape/model/GraphEdge.java"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M60",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "impl/src/main/java/com/archdia/dv8/core/internal/SimpleDependencyMatrixReclusterService.java"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/io/XorMaskingOutputStream.java"
+    }, {
+      "@type" : "item",
+      "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/model/PropagationCostResult.java"
+    }, {
+      "@type" : "item",
+      "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/model/IndependenceLevelResult.java"
+    }, {
+      "@type" : "item",
+      "name" : "plugins/metrics/src/main/java/com/archdia/dv8/metrics/model/DecouplingLevelResult.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/io/CharBufferReader.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/io/ByteBufferInputStream.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/observer/Observer.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/observer/Observable.java"
+    }, {
+      "@type" : "item",
+      "name" : "license/src/main/java/com/archdia/dv8/license/internal/DigestCheckEntry.java"
+    }, {
+      "@type" : "item",
+      "name" : "cli/src/main/java/com/archdia/dv8/cli/ConsoleHelpFormatter.java"
+    }, {
+      "@type" : "item",
+      "name" : "plugins/scm/src/main/java/com/archdia/dv8/scm/list/service/NameProcessor.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/constant/ArchRootSummaryKey.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/util/function/QuadFunction.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/util/ZipUtil.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/matrix/DependencyMatrixType.java"
+    }, {
+      "@type" : "item",
+      "name" : "impl/src/main/java/com/archdia/dv8/xml/time/ZonedDateTimeXmlAdapter.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/util/ResourceUtils.java"
+    }, {
+      "@type" : "item",
+      "name" : "impl/src/main/java/com/archdia/dv8/xml/time/LocalDateTimeXmlAdapter.java"
+    }, {
+      "@type" : "item",
+      "name" : "impl/src/main/java/com/archdia/dv8/xml/NamespaceAwareXmlStreamWriter.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/Language.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/matrix/Cell.java"
+    }, {
+      "@type" : "item",
+      "name" : "api/src/main/java/com/archdia/dv8/constant/ArchRootDebtKey.java"
+    } ]
+  } ]
+}

@@ -15,6 +15,11 @@
         "desc": "A Tool to identify and quantify architectural and design issues"
     },
     {
+        "name": "Dv8-Core",
+        "file": "dv8-core-no-test",
+        "desc": "A Tool to identify and quantify architectural and design issues"
+    },
+    {
         "name": "Demo design 1",
         "file": "demo-design1",
         "desc": "A demo exam system (1)"
