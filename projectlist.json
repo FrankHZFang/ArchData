@@ -10,6 +10,11 @@
         "desc": "Depend extraction tool without test files (v0.9.6)"
     },
     {
+        "name": "Depends Refactored",
+        "file": "depends-modified",
+        "desc": "Depend extraction tool without test files (refactored)"
+    },
+    {
         "name": "Dv8",
         "file": "dv8-no-test",
         "desc": "A Tool to identify and quantify architectural and design issues"
