@@ -1,10 +1,5 @@
 [
     {
-        "name": "Depends v0.9.4",
-        "file": "depends-0.9.4",
-        "desc": "Depend extraction tool without test files (v0.9.4)"
-    },
-    {
         "name": "Depends v0.9.6",
         "file": "depends-0.9.6",
         "desc": "Depend extraction tool without test files (v0.9.6)"
@@ -16,11 +11,6 @@
     },
     {
         "name": "Dv8",
-        "file": "dv8-no-test",
-        "desc": "A Tool to identify and quantify architectural and design issues"
-    },
-    {
-        "name": "Dv8-Core",
         "file": "dv8-core-no-test",
         "desc": "A Tool to identify and quantify architectural and design issues"
     },
@@ -33,21 +23,6 @@
         "name": "Demo design 2",
         "file": "demo-design2",
         "desc": "A demo exam system (2)"
-    },
-    {
-        "name": "Bash",
-        "file": "bash",
-        "desc": "GNU Bash"
-    },
-    {
-        "name": "Libxml",
-        "file": "libxml",
-        "desc": "C xml library"
-    },
-    {
-        "name": "mij",
-        "file": "mij",
-        "desc": "Java Calculator"
     },
     {
         "name": "archinaut",

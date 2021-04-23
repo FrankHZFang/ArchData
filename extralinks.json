@@ -1,10 +1,5 @@
 [
     {
-        "icon": "slideshow",
-        "url": "http://149.28.157.117/video/I-FAR%20Tutorial.html",
-        "desc": "Tutorial Video"
-    },
-    {
         "icon": "table_chart",
         "url": "http://149.28.157.117/I-FAR%20Post-Usage%20Survey%20Responses.csv",
         "desc": "Survey responses"
